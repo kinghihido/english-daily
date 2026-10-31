@@ -23,7 +23,7 @@
 
 | 日期 | 标题 | 分类 |
 |---|---|---|
-| 2026-10-31 | [The Invisible Glue That Holds the Nanoworld Together](articles/2026-10-31-vdw-forces.md) | 科普 · Physics |
+| 2026-10-31 | [A Tale of Two Cities — Opening (Ch. I & II)](articles/2026-10-31-tale-of-two-cities.md) | 小说 · Novel (Public Domain) |
 
 ## 阅读建议
 

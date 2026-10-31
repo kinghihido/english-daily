@@ -2,4 +2,5 @@
 
 | 单词 | 音标 | 词性 | 释义 | 例句 | 出处 |
 |---|---|---|---|---|---|
-| reigning | /ˈreɪnɪŋ/ | adj. | 主导的，现行的 | the reigning theory of gases | vdw-forces (2026-10-31) |
+| revelation | /ˌrevəˈleɪʃn/ | n. | 启示，天启 | Spiritual revelations were conceded to England | tale-of-two-cities (2026-10-31) |
+| requisition | /ˌrekwɪˈzɪʃn/ | n./v. | 征用，需要 | was in constant requisition | tale-of-two-cities (2026-10-31) |

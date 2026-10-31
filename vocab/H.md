@@ -2,6 +2,7 @@
 
 | 单词 | 音标 | 词性 | 释义 | 例句 | 出处 |
 |---|---|---|---|---|---|
-| heretical | /həˈretɪkl/ | adj. | 离经叛道的，异端的 | The idea was considered heretical. | vdw-forces (2026-10-31) |
-| heterostructure | /ˌhetərəˈstrʌktʃər/ | n. | 异质结构 | the magic of these heterostructures | vdw-forces (2026-10-31) |
-| honeycomb | /ˈhʌnikoʊm/ | n. | 蜂窝 | carbon arranged in a honeycomb | vdw-forces (2026-10-31) |
+| hardihood | /ˈhɑːrdihʊd/ | n. | 大胆，鲁莽 | had had the hardihood to propose | tale-of-two-cities (2026-10-31) |
+| heralded | /ˈherəldɪd/ | v. | 预示，宣告（herald） | had heralded the sublime appearance | tale-of-two-cities (2026-10-31) |
+| highwayman | /ˈhaɪweɪmən/ | n. | 拦路强盗 | a highwayman in the dark | tale-of-two-cities (2026-10-31) |
+| humane | /hjuːˈmeɪn/ | adj. | 人道的，仁慈的 | such humane achievements as sentencing a youth… | tale-of-two-cities (2026-10-31) |
