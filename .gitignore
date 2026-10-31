@@ -1,0 +1,7 @@
+# WorkBuddy project data — never publish
+.workbuddy/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
