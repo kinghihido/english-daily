@@ -4,3 +4,6 @@
 |---|---|---|---|---|---|
 | ejaculated | /ɪˈdʒækjuleɪtɪd/ | v. | 脱口而出（ejaculate） | “My blood!” ejaculated the vexed coachman | tale-of-two-cities (2026-10-31) |
 | epoch | /ˈiːpək/ | n. | 时代，纪元 | the epoch of belief, it was the epoch of incredulity | tale-of-two-cities (2026-10-31) |
+| establishment | /ɪˈstæblɪʃmənt/ | n. | 家业，安顿（婚配对象） | what an establishment it would be for one of them | pride-and-prejudice (2026-11-01) |
+| emphatic | /ɪmˈfætɪk/ | adj. | 强调的，有力的 | that emphatic exclamation | pride-and-prejudice (2026-11-01) |
+| eluded | /ɪˈluːdɪd/ | v. | 避开，逃避（elude） | but he eluded the skill of them all | pride-and-prejudice (2026-11-01) |

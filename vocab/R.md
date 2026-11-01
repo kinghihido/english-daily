@@ -4,3 +4,6 @@
 |---|---|---|---|---|---|
 | revelation | /ˌrevəˈleɪʃn/ | n. | 启示，天启 | Spiritual revelations were conceded to England | tale-of-two-cities (2026-10-31) |
 | requisition | /ˌrekwɪˈzɪʃn/ | n./v. | 征用，需要 | was in constant requisition | tale-of-two-cities (2026-10-31) |
+| rightful | /ˈraɪtfl/ | adj. | 合法的，正当的 | the rightful property of some one or other of their daughters | pride-and-prejudice (2026-11-01) |
+| reserve | /rɪˈzɜːrv/ | n. | 矜持，沉默寡言 | sarcastic humour, reserve, and caprice | pride-and-prejudice (2026-11-01) |
+| rapture | /ˈræptʃər/ | n. | 狂喜 | fatigued with the raptures of his wife | pride-and-prejudice (2026-11-01) |
