@@ -7,3 +7,5 @@
 | establishment | /ɪˈstæblɪʃmənt/ | n. | 家业，安顿（婚配对象） | what an establishment it would be for one of them | pride-and-prejudice (2026-11-01) |
 | emphatic | /ɪmˈfætɪk/ | adj. | 强调的，有力的 | that emphatic exclamation | pride-and-prejudice (2026-11-01) |
 | eluded | /ɪˈluːdɪd/ | v. | 避开，逃避（elude） | but he eluded the skill of them all | pride-and-prejudice (2026-11-01) |
+| eventide | /ˈiːvntaɪd/ | n. | 黄昏，傍晚 | attesting the hour of eventide | jane-eyre (2026-11-02) |
+| equilibrium | /ˌiːkwɪˈlɪbriəm/ | n. | 平衡 | on regaining my equilibrium retired back a step or two | jane-eyre (2026-11-02) |

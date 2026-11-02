@@ -10,3 +10,5 @@
 | conceited | /kənˈsiːtɪd/ | adj. | 自负的 | So high and so conceited | pride-and-prejudice (2026-11-01) |
 | candour | /ˈkændər/ | n. | 坦率，公正 | Affectation of candour is common enough | pride-and-prejudice (2026-11-01) |
 | circumspection | /ˌsɜːrkəmˈspekʃn/ | n. | 慎重，谨慎 | I honour your circumspection. | pride-and-prejudice (2026-11-01) |
+| concentre | /kənˈsentər/ | v. | 集中于一点（concenter） | concentre the multiplied rigours of extreme cold | jane-eyre (2026-11-02) |
+| crescent | /ˈkresnt/ | n. | 新月；月牙形 | its newly-risen crescent, attesting the hour of eventide | jane-eyre (2026-11-02) |
