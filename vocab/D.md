@@ -10,3 +10,5 @@
 | drear | /drɪr/ | adj. | 阴郁的，凄凉的 | the drear November day | jane-eyre (2026-11-02) |
 | diffidence | /ˈdɪfɪdəns/ | n. | 羞怯，缺乏自信 | What do you want? I asked, with awkward diffidence | jane-eyre (2026-11-02) |
 | dingy | /ˈdɪndʒi/ | adj. | 肮脏暗淡的 | a dingy and unwholesome skin | jane-eyre (2026-11-02) |
+| demeanor | /dɪˈmiːnər/ | n. | 举止，神态 | solemnity of demeanor on the part of the spectators | the-scarlet-letter (2026-11-03) |
+| dungeon | /ˈdʌndʒən/ | n. | 地牢 | acquainted only with the gray twilight of a dungeon | the-scarlet-letter (2026-11-03) |

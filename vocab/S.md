@@ -8,3 +8,7 @@
 | shrubbery | /ˈʃrʌbəri/ | n. | 灌木丛（灌木丛生处） | We had been wandering in the leafless shrubbery. | jane-eyre (2026-11-02) |
 | sombre | /ˈsɒmbər/ | adj. | 阴沉的，暗淡的 | the cold winter wind had brought with it clouds so sombre | jane-eyre (2026-11-02) |
 | shrined | /ʃraɪnd/ | v. | 珍藏；安放（shrine） | I was shrined in double retirement | jane-eyre (2026-11-02) |
+| sepulchres | /ˈseplkərz/ | n. | 坟墓，墓穴（sepulchre） | the nucleus of all the congregated sepulchres in the old churchyard of King's Chapel | the-scarlet-letter (2026-11-03) |
+| scourged | /skɜːrdʒd/ | v. | 鞭笞，痛打（scourge） | was to be scourged out of the town | the-scarlet-letter (2026-11-03) |
+| solemnity | /səˈlemnəti/ | n. | 庄严，隆重 | very much the same solemnity of demeanor on the part of the spectators | the-scarlet-letter (2026-11-03) |
+| scaffold | /ˈskæfəld/ | n. | 刑台，绞刑架 | a transgressor might look for ... at the scaffold | the-scarlet-letter (2026-11-03) |

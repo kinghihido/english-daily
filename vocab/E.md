@@ -9,3 +9,5 @@
 | eluded | /ɪˈluːdɪd/ | v. | 避开，逃避（elude） | but he eluded the skill of them all | pride-and-prejudice (2026-11-01) |
 | eventide | /ˈiːvntaɪd/ | n. | 黄昏，傍晚 | attesting the hour of eventide | jane-eyre (2026-11-02) |
 | equilibrium | /ˌiːkwɪˈlɪbriəm/ | n. | 平衡 | on regaining my equilibrium retired back a step or two | jane-eyre (2026-11-02) |
+| edifice | /ˈedɪfɪs/ | n. | 建筑物（尤指宏伟的）/ 大厦 | assembled in front of a wooden edifice, the door of which was heavily timbered with oak | the-scarlet-letter (2026-11-03) |
+| evanescent | /ˌevəˈnesnt/ | adj. | 易逝的，短暂的 | the delicate, evanescent, and indescribable grace | the-scarlet-letter (2026-11-03) |

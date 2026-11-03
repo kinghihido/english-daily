@@ -7,3 +7,5 @@
 | amiable | /ˈeɪmiəbl/ | adj. | 和蔼可亲的 | Such amiable qualities must speak for themselves | pride-and-prejudice (2026-11-01) |
 | aloof | /əˈluːf/ | adj./adv. | 冷漠的；远离 | seated aloof on a rock, surveying a distant crowd | jane-eyre (2026-11-02) |
 | antipathy | /ænˈtɪpəθi/ | n. | 厌恶，反感 | an antipathy to me | jane-eyre (2026-11-02) |
+| augured | /ˈɔːɡjərd/ | v. | 预示，主兆（augur） | would have augured some awful business in hand | the-scarlet-letter (2026-11-03) |
+| attire | /əˈtaɪər/ | n. | 衣着，盛装 | Her attire ... seemed to express the attitude of her spirit | the-scarlet-letter (2026-11-03) |

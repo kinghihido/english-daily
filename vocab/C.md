@@ -12,3 +12,5 @@
 | circumspection | /ˌsɜːrkəmˈspekʃn/ | n. | 慎重，谨慎 | I honour your circumspection. | pride-and-prejudice (2026-11-01) |
 | concentre | /kənˈsentər/ | v. | 集中于一点（concenter） | concentre the multiplied rigours of extreme cold | jane-eyre (2026-11-02) |
 | crescent | /ˈkresnt/ | n. | 新月；月牙形 | its newly-risen crescent, attesting the hour of eventide | jane-eyre (2026-11-02) |
+| congenial | /kənˈdʒiːniəl/ | adj. | 投契的，相宜的 | evidently found something congenial in the soil | the-scarlet-letter (2026-11-03) |
+| culprit | /ˈkʌlprɪt/ | n. | 罪犯，被控者 | the anticipated execution of some noted culprit | the-scarlet-letter (2026-11-03) |

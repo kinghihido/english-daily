@@ -7,3 +7,5 @@
 | forbidding | /fərˈbɪdɪŋ/ | adj. | 令人生畏的 | something truly forbidding in a child taking up her elders | jane-eyre (2026-11-02) |
 | forlorn | /fərˈlɔːrn/ | adj. | 凄凉的，孤寂的 | those forlorn regions of dreary space | jane-eyre (2026-11-02) |
 | fiend | /fiːnd/ | n. | 恶魔，魔鬼 | The fiend pinning down the thief's pack behind him | jane-eyre (2026-11-02) |
+| frailty | /ˈfreɪlti/ | n. | 脆弱，弱点 | relieve the darkening close of a tale of human frailty and sorrow | the-scarlet-letter (2026-11-03) |
+| farthingale | /ˈfɑːrðɪŋɡeɪl/ | n. | （旧时裙内的）裙撑 | restrained the wearers of petticoat and farthingale | the-scarlet-letter (2026-11-03) |
