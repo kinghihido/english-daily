@@ -12,3 +12,5 @@
 | physiognomies | /ˌfɪziˈɑːnəmiz/ | n. | 面容，相貌（physiognomy） | the grim rigidity that petrified the bearded physiognomies of these good people | the-scarlet-letter (2026-11-03) |
 | petrified | /ˈpetrɪfaɪd/ | v./adj. | 使僵化；吓呆（petrify） | the grim rigidity that petrified the bearded physiognomies | the-scarlet-letter (2026-11-03) |
 | picturesque | /ˌpɪktʃəˈresk/ | adj. | 如画的，别致的 | by its wild and picturesque peculiarity | the-scarlet-letter (2026-11-03) |
+| piquancy | /ˈpiːkənsi/ | n. | 辛辣，刺激；风趣 | God has armed youth ... with its own piquancy and charm | self-reliance (2026-11-04) |
+| philanthropy | /fɪˈlænθrəpi/ | n. | 慈善，博爱 | If malice and vanity wear the coat of philanthropy | self-reliance (2026-11-04) |

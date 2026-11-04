@@ -8,3 +8,4 @@
 | becalmed | /bɪˈkɑːmd/ | adj. | （船因无风）停滞不动的 | The two ships becalmed on a torpid sea | jane-eyre (2026-11-02) |
 | burdock | /ˈbɜːrdɑːk/ | n. | 牛蒡（植物） | much overgrown with burdock, pigweed, apple-peru | the-scarlet-letter (2026-11-03) |
 | beadle | /ˈbiːdl/ | n. | （旧时城镇的）差役，执事 | the grim and grisly presence of the town-beadle | the-scarlet-letter (2026-11-03) |
+| bigot | /ˈbɪɡət/ | n. | 偏执者，顽固者 | If an angry bigot assumes this bountiful cause of Abolition | self-reliance (2026-11-04) |

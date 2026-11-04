@@ -23,6 +23,7 @@
 
 | 日期 | 标题 | 分类 |
 |---|---|---|
+| 2026-11-04 | [Self-Reliance — Excerpt](articles/2026-11-04-self-reliance.md) | 散文 · Essay (Public Domain) |
 | 2026-11-03 | [The Scarlet Letter — Ch. I & II](articles/2026-11-03-the-scarlet-letter.md) | 小说 · Novel (Public Domain) |
 | 2026-11-02 | [Jane Eyre — Chapter I (Opening)](articles/2026-11-02-jane-eyre.md) | 小说 · Novel (Public Domain) |
 | 2026-11-01 | [Pride and Prejudice — Opening (Ch. I–III)](articles/2026-11-01-pride-and-prejudice.md) | 小说 · Novel (Public Domain) |

@@ -12,3 +12,9 @@
 | interfused | /ˌɪntərˈfjuːzd/ | v. | 使融合，渗透（interfuse） | both were so thoroughly interfused | the-scarlet-letter (2026-11-03) |
 | infamy | /ˈɪnfəmi/ | n. | 臭名，耻辱 | would infer a degree of mocking infamy and ridicule | the-scarlet-letter (2026-11-03) |
 | ignominy | /ˈɪɡnəmɪni/ | n. | 耻辱，不名誉 | made a halo of the misfortune and ignominy in which she was enveloped | the-scarlet-letter (2026-11-03) |
+| instil | /ɪnˈstɪl/ | v. | 灌输，逐步建立 | The sentiment they instil is of more value than any thought. | self-reliance (2026-11-04) |
+| inmost | /ˈɪnməʊst/ | adj. | 最内在的，心底的 | for the inmost in due time becomes the outmost | self-reliance (2026-11-04) |
+| inflexibility | /ɪnˌfleksəˈbɪləti/ | n. | 不屈不挠；不可变通 | abide by our spontaneous impression with good-humored inflexibility | self-reliance (2026-11-04) |
+| inaudible | /ɪnˈɔːdəbl/ | adj. | 听不见的，渐隐的 | they grow faint and inaudible as we enter into the world | self-reliance (2026-11-04) |
+| integrity | /ɪnˈteɡrəti/ | n. | 完整；正直 | Nothing is at last sacred but the integrity of your own mind. | self-reliance (2026-11-04) |
+| intrinsic | /ɪnˈtrɪnzɪk/ | adj. | 内在的，本质的 | where I have intrinsic right | self-reliance (2026-11-04) |

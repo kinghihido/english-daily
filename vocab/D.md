@@ -12,3 +12,4 @@
 | dingy | /ˈdɪndʒi/ | adj. | 肮脏暗淡的 | a dingy and unwholesome skin | jane-eyre (2026-11-02) |
 | demeanor | /dɪˈmiːnər/ | n. | 举止，神态 | solemnity of demeanor on the part of the spectators | the-scarlet-letter (2026-11-03) |
 | dungeon | /ˈdʌndʒən/ | n. | 地牢 | acquainted only with the gray twilight of a dungeon | the-scarlet-letter (2026-11-03) |
+| deliverance | /dɪˈlɪvərəns/ | n. | 解脱，拯救 | It is a deliverance which does not deliver. | self-reliance (2026-11-04) |

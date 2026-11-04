@@ -11,3 +11,4 @@
 | equilibrium | /ˌiːkwɪˈlɪbriəm/ | n. | 平衡 | on regaining my equilibrium retired back a step or two | jane-eyre (2026-11-02) |
 | edifice | /ˈedɪfɪs/ | n. | 建筑物（尤指宏伟的）/ 大厦 | assembled in front of a wooden edifice, the door of which was heavily timbered with oak | the-scarlet-letter (2026-11-03) |
 | evanescent | /ˌevəˈnesnt/ | adj. | 易逝的，短暂的 | the delicate, evanescent, and indescribable grace | the-scarlet-letter (2026-11-03) |
+| expiation | /ˌekspiˈeɪʃn/ | n. | 赎罪，补偿 | pay a fine in expiation of daily non-appearance on parade | self-reliance (2026-11-04) |

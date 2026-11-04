@@ -14,3 +14,7 @@
 | crescent | /ˈkresnt/ | n. | 新月；月牙形 | its newly-risen crescent, attesting the hour of eventide | jane-eyre (2026-11-02) |
 | congenial | /kənˈdʒiːniəl/ | adj. | 投契的，相宜的 | evidently found something congenial in the soil | the-scarlet-letter (2026-11-03) |
 | culprit | /ˈkʌlprɪt/ | n. | 罪犯，被控者 | the anticipated execution of some noted culprit | the-scarlet-letter (2026-11-03) |
+| conciliate | /kənˈsɪlieɪt/ | v. | 讨好，迎合 | would disdain ... to do or say aught to conciliate one | self-reliance (2026-11-04) |
+| conspiracy | /kənˈspɪrəsi/ | n. | 共谋，合谋 | Society everywhere is in conspiracy against the manhood | self-reliance (2026-11-04) |
+| conformity | /kənˈfɔːrməti/ | n. | 从众，因循 | The virtue in most request is conformity. | self-reliance (2026-11-04) |
+| capitulate | /kəˈpɪtʃuleɪt/ | v. | 屈服，投降 | how easily we capitulate to badges and names | self-reliance (2026-11-04) |

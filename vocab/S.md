@@ -12,3 +12,4 @@
 | scourged | /skɜːrdʒd/ | v. | 鞭笞，痛打（scourge） | was to be scourged out of the town | the-scarlet-letter (2026-11-03) |
 | solemnity | /səˈlemnəti/ | n. | 庄严，隆重 | very much the same solemnity of demeanor on the part of the spectators | the-scarlet-letter (2026-11-03) |
 | scaffold | /ˈskæfəld/ | n. | 刑台，绞刑架 | a transgressor might look for ... at the scaffold | the-scarlet-letter (2026-11-03) |
+| suffrage | /ˈsʌfrɪdʒ/ | n. | 赞同，支持；（投票）权 | you shall have the suffrage of the world | self-reliance (2026-11-04) |
