@@ -14,3 +14,7 @@
 | picturesque | /ˌpɪktʃəˈresk/ | adj. | 如画的，别致的 | by its wild and picturesque peculiarity | the-scarlet-letter (2026-11-03) |
 | piquancy | /ˈpiːkənsi/ | n. | 辛辣，刺激；风趣 | God has armed youth ... with its own piquancy and charm | self-reliance (2026-11-04) |
 | philanthropy | /fɪˈlænθrəpi/ | n. | 慈善，博爱 | If malice and vanity wear the coat of philanthropy | self-reliance (2026-11-04) |
+| pent up | /pent ʌp/ | phr. | 被禁锢的，受压抑的 | of week days pent up in lath and plaster—tied to counters | moby-dick (2026-11-05) |
+| phantom | /ˈfæntəm/ | n. | 幻影，幽灵 | the ungraspable phantom of life; and this is the key to it all | moby-dick (2026-11-05) |
+| perdition | /pərˈdɪʃn/ | n. | 毁灭，沉沦 | Ah! how cheerfully we consign ourselves to perdition! | moby-dick (2026-11-05) |
+| portentous | /pɔːrˈtentəs/ | adj. | 惊人的；凶兆的 | Such a portentous and mysterious monster roused all my curiosity. | moby-dick (2026-11-05) |

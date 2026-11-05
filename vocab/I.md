@@ -18,3 +18,6 @@
 | inaudible | /ɪnˈɔːdəbl/ | adj. | 听不见的，渐隐的 | they grow faint and inaudible as we enter into the world | self-reliance (2026-11-04) |
 | integrity | /ɪnˈteɡrəti/ | n. | 完整；正直 | Nothing is at last sacred but the integrity of your own mind. | self-reliance (2026-11-04) |
 | intrinsic | /ɪnˈtrɪnzɪk/ | adj. | 内在的，本质的 | where I have intrinsic right | self-reliance (2026-11-04) |
+| insular | /ˈɪnsələr/ | adj. | 岛国的；孤立的，狭隘的 | There now is your insular city of the Manhattoes, belted round by wharves | moby-dick (2026-11-05) |
+| indignity | /ɪnˈdɪɡnəti/ | n. | 侮辱，有失体面 | What does that indignity amount to, weighed in the scales | moby-dick (2026-11-05) |
+| inmates | /ˈɪnmeɪts/ | n. | 同住者，居住者（inmate 复数） | be on friendly terms with all the inmates of the place one lodges in | moby-dick (2026-11-05) |

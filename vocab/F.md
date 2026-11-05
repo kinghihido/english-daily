@@ -11,3 +11,4 @@
 | farthingale | /ˈfɑːrðɪŋɡeɪl/ | n. | （旧时裙内的）裙撑 | restrained the wearers of petticoat and farthingale | the-scarlet-letter (2026-11-03) |
 | firmament | /ˈfɜːrməmənt/ | n. | 苍穹，天空（喻至高之境） | more than the lustre of the firmament of bards and sages | self-reliance (2026-11-04) |
 | formidable | /ˈfɔːrmɪdəbl/ | adj. | 令人敬畏的，可怕的 | must always be formidable | self-reliance (2026-11-04) |
+| forecastle | /ˈfoʊksl/ | n. | 艏楼，前甲板舱 | plumb down into the forecastle, aloft there to the royal mast-head | moby-dick (2026-11-05) |

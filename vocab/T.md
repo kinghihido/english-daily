@@ -10,3 +10,4 @@
 | throng | /θrɔːŋ/ | n. | 人群，密集的一群 | A throng of bearded men ... was assembled in front of a wooden edifice. | the-scarlet-letter (2026-11-03) |
 | tribunal | /traɪˈbjuːnl/ | n. | 法庭，裁判所 | the sentence of a legal tribunal had but confirmed the verdict | the-scarlet-letter (2026-11-03) |
 | transgressor | /trænsˈɡresər/ | n. | 违犯者，罪人 | the sympathy that a transgressor might look for, from such bystanders | the-scarlet-letter (2026-11-03) |
+| tranced | /trɑːnst/ | adj. | 出神的，恍惚的 | though the picture lies thus tranced | moby-dick (2026-11-05) |

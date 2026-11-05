@@ -8,3 +8,5 @@
 | unbiased | /ʌnˈbaɪəst/ | adj. | 无偏见的，公正的 | from the same unaffected, unbiased, unbribable innocence | self-reliance (2026-11-04) |
 | unbribable | /ʌnˈbraɪəbl/ | adj. | 不可收买的，清廉的 | unaffected, unbiased, unbribable, unaffrighted innocence | self-reliance (2026-11-04) |
 | uncharitable | /ʌnˈtʃærətəbl/ | adj. | 冷酷的，不宽容的 | varnish your hard, uncharitable ambition | self-reliance (2026-11-04) |
+| ungraspable | /ʌnˈɡræspəbl/ | adj. | 不可把握的，难以理解的 | It is the image of the ungraspable phantom of life | moby-dick (2026-11-05) |
+| urbane | /ɜːrˈbeɪn/ | adj. | 温文尔雅的，彬彬有礼的 | The urbane activity with which a man receives money | moby-dick (2026-11-05) |

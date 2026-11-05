@@ -7,3 +7,4 @@
 | nonchalance | /ˈnɑːnʃəlɑːns/ | n. | 漠然，满不在乎 | The nonchalance of boys who are sure of a dinner | self-reliance (2026-11-04) |
 | neutrality | /ˌnuːˈtræləti/ | n. | 中立，不偏不倚 | Ah, that he could pass again into his neutrality! | self-reliance (2026-11-04) |
 | nonconformist | /ˌnɑːnkənˈfɔːrmɪst/ | n. | 不从众者，异见者 | Whoso would be a man, must be a nonconformist. | self-reliance (2026-11-04) |
+| Narcissus | /nɑːrˈsɪsəs/ | n. | 那喀索斯（希腊神话中的美少年） | the story of Narcissus, who ... plunged into it and was drowned | moby-dick (2026-11-05) |

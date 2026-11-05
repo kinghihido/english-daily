@@ -13,3 +13,5 @@
 | absolve | /əbˈzɑːlv/ | v. | 赦免，开释 | Absolve you to yourself, and you shall have the suffrage of the world. | self-reliance (2026-11-04) |
 | arduous | /ˈɑːrdʒuəs/ | adj. | 艰巨的，费力的 | equally arduous in actual and in intellectual life | self-reliance (2026-11-04) |
 | admonition | /ˌædməˈnɪʃn/ | n. | 劝诫，警告 | The soul always hears an admonition in such lines. | self-reliance (2026-11-04) |
+| archangel | /ˈɑːrkeɪndʒəl/ | n. | 大天使 | Do you think the archangel Gabriel thinks anything the less of me | moby-dick (2026-11-05) |
+| astern | /əˈstɜːrn/ | adv. | 在船尾；向后 | head winds are far more prevalent than winds from astern | moby-dick (2026-11-05) |

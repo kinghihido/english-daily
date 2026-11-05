@@ -18,3 +18,7 @@
 | conspiracy | /kənˈspɪrəsi/ | n. | 共谋，合谋 | Society everywhere is in conspiracy against the manhood | self-reliance (2026-11-04) |
 | conformity | /kənˈfɔːrməti/ | n. | 从众，因循 | The virtue in most request is conformity. | self-reliance (2026-11-04) |
 | capitulate | /kəˈpɪtʃuleɪt/ | v. | 屈服，投降 | how easily we capitulate to badges and names | self-reliance (2026-11-04) |
+| circumambulate | /sərˈkʌmbjəleɪt/ | v. | 绕…而行，巡行 | Circumambulate the city of a dreamy Sabbath afternoon. | moby-dick (2026-11-05) |
+| crucifix | /ˈkruːsɪfɪks/ | n. | 十字架（耶稣受难像） | as if a hermit and a crucifix were within | moby-dick (2026-11-05) |
+| cataract | /ˈkætərækt/ | n. | 大瀑布；亦指白内障 | Were Niagara but a cataract of sand | moby-dick (2026-11-05) |
+| cajoling | /kəˈdʒoʊlɪŋ/ | v. | 哄骗，勾引（cajole 现在分词） | besides cajoling me into the delusion that it was a choice | moby-dick (2026-11-05) |

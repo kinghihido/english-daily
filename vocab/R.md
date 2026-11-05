@@ -11,3 +11,5 @@
 | rigours | /ˈrɪɡərz/ | n. | 严酷，艰苦（rigour） | the multiplied rigours of extreme cold | jane-eyre (2026-11-02) |
 | rummage | /ˈrʌmɪdʒ/ | v. | 翻找，翻寻 | Now, I'll teach you to rummage my bookshelves | jane-eyre (2026-11-02) |
 | riotous | /ˈraɪətəs/ | adj. | 狂欢的，骚乱的 | had made riotous about the streets | the-scarlet-letter (2026-11-03) |
+| reveries | /ˈrevəriz/ | n. | 遐想，白日梦（reverie 复数） | thousands upon thousands of mortal men fixed in ocean reveries | moby-dick (2026-11-05) |
+| rigging | /ˈrɪɡɪŋ/ | n. | （船的）索具，帆缆 | some high aloft in the rigging, as if striving to get a better peep | moby-dick (2026-11-05) |

@@ -13,3 +13,6 @@
 | solemnity | /səˈlemnəti/ | n. | 庄严，隆重 | very much the same solemnity of demeanor on the part of the spectators | the-scarlet-letter (2026-11-03) |
 | scaffold | /ˈskæfəld/ | n. | 刑台，绞刑架 | a transgressor might look for ... at the scaffold | the-scarlet-letter (2026-11-03) |
 | suffrage | /ˈsʌfrɪdʒ/ | n. | 赞同，支持；（投票）权 | you shall have the suffrage of the world | self-reliance (2026-11-04) |
+| spleen | /spliːn/ | n. | 忧郁，坏脾气（旧说脾脏致忧郁） | It is a way I have of driving off the spleen and regulating the circulation. | moby-dick (2026-11-05) |
+| sentinels | /ˈsentɪnlz/ | n. | 哨兵，守望者（sentinel 复数） | Posted like silent sentinels all around the town | moby-dick (2026-11-05) |
+| surveillance | /sərˈveɪləns/ | n. | 监视，盯防 | the invisible police officer ... who has the constant surveillance of me | moby-dick (2026-11-05) |
