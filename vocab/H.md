@@ -12,3 +12,4 @@
 | halo | /ˈheɪloʊ/ | n. | 光晕，光环 | made a halo of the misfortune and ignominy | the-scarlet-letter (2026-11-03) |
 | hermit | /ˈhɜːrmɪt/ | n. | 隐士 | as if a hermit and a crucifix were within | moby-dick (2026-11-05) |
 | hunks | /hʌŋks/ | n. | 吝啬鬼；老顽固，老家伙 | if some old hunks of a sea-captain orders me to get a broom | moby-dick (2026-11-05) |
+| horticulture | /ˈhɔːtɪkʌltʃə/ | n. | 园艺（学） | the bane of horticulture | origin-of-species (2026-11-06) |

@@ -18,3 +18,8 @@
 | phantom | /ˈfæntəm/ | n. | 幻影，幽灵 | the ungraspable phantom of life; and this is the key to it all | moby-dick (2026-11-05) |
 | perdition | /pərˈdɪʃn/ | n. | 毁灭，沉沦 | Ah! how cheerfully we consign ourselves to perdition! | moby-dick (2026-11-05) |
 | portentous | /pɔːrˈtentəs/ | adj. | 惊人的；凶兆的 | Such a portentous and mysterious monster roused all my curiosity. | moby-dick (2026-11-05) |
+| plantigrades | /ˈplæntɪɡreɪdz/ | n. | 跖行动物（此处指熊科） | the plantigrades or bear family | origin-of-species (2026-11-06) |
+| pollen | /ˈpɒlɪn/ | n. | 花粉 | Many exotic plants have pollen utterly worthless | origin-of-species (2026-11-06) |
+| physiologists | /ˌfɪziˈɒlədʒɪsts/ | n. | 生理学家 | the opinion of most physiologists | origin-of-species (2026-11-06) |
+| plastic | /ˈplæstɪk/ | adj. | 可塑的，易变的 | The whole organisation seems to have become plastic | origin-of-species (2026-11-06) |
+| propounded | /prəˈpaʊndɪd/ | v. | 提出，阐述（propound 过去式） | the view propounded by Andrew Knight | origin-of-species (2026-11-06) |

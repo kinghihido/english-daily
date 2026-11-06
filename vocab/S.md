@@ -16,3 +16,5 @@
 | spleen | /spliːn/ | n. | 忧郁，坏脾气（旧说脾脏致忧郁） | It is a way I have of driving off the spleen and regulating the circulation. | moby-dick (2026-11-05) |
 | sentinels | /ˈsentɪnlz/ | n. | 哨兵，守望者（sentinel 复数） | Posted like silent sentinels all around the town | moby-dick (2026-11-05) |
 | surveillance | /sərˈveɪləns/ | n. | 监视，盯防 | the invisible police officer ... who has the constant surveillance of me | moby-dick (2026-11-05) |
+| susceptible | /səˈseptəbl/ | adj. | 易受影响的，敏感的 | far more susceptible than any other part | origin-of-species (2026-11-06) |
+| sterile | /ˈsteraɪl/ | adj. | 不育的；无菌的 | in the most sterile hybrids | origin-of-species (2026-11-06) |

@@ -22,3 +22,6 @@
 | crucifix | /ˈkruːsɪfɪks/ | n. | 十字架（耶稣受难像） | as if a hermit and a crucifix were within | moby-dick (2026-11-05) |
 | cataract | /ˈkætərækt/ | n. | 大瀑布；亦指白内障 | Were Niagara but a cataract of sand | moby-dick (2026-11-05) |
 | cajoling | /kəˈdʒoʊlɪŋ/ | v. | 哄骗，勾引（cajole 现在分词） | besides cajoling me into the delusion that it was a choice | moby-dick (2026-11-05) |
+| cultivation | /ˌkʌltɪˈveɪʃn/ | n. | 栽培，耕作；养殖 | our domestic productions having been raised under conditions of life | origin-of-species (2026-11-06) |
+| carnivorous | /kɑːˈnɪvərəs/ | adj. | 食肉的 | carnivorous animals, even from the tropics | origin-of-species (2026-11-06) |
+| constitutional | /ˌkɒnstɪˈtjuːʃənl/ | adj. | 体质的，根本的 | colour and constitutional peculiarities go together | origin-of-species (2026-11-06) |

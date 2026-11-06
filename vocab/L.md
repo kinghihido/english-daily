@@ -8,3 +8,4 @@
 | landsmen | /ˈlændzmən/ | n. | 陆上人，旱鸭子（landman 复数） | But these are all landsmen; of week days pent up in lath and plaster | moby-dick (2026-11-05) |
 | loitering | /ˈlɔɪtərɪŋ/ | v. | 闲荡，徘徊（loiter 现在分词） | loitering under the shady lee of yonder warehouses will not suffice | moby-dick (2026-11-05) |
 | lording it | /ˈlɔːrdɪŋ ɪt/ | phr. | 逞威风，作威作福 | you have been lording it as a country schoolmaster | moby-dick (2026-11-05) |
+| litter | /ˈlɪtə/ | n. | （动物的）一窝幼崽 | the young of the same litter | origin-of-species (2026-11-06) |

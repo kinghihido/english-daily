@@ -14,3 +14,4 @@
 | dungeon | /ˈdʌndʒən/ | n. | 地牢 | acquainted only with the gray twilight of a dungeon | the-scarlet-letter (2026-11-03) |
 | deliverance | /dɪˈlɪvərəns/ | n. | 解脱，拯救 | It is a deliverance which does not deliver. | self-reliance (2026-11-04) |
 | decoction | /dɪˈkɒkʃn/ | n. | 煎剂；熬煮（喻苦药） | requires a strong decoction of Seneca and the Stoics | moby-dick (2026-11-05) |
+| deviation | /ˌdiːviˈeɪʃn/ | n. | 偏差，偏离 | inheritable deviations of structure | origin-of-species (2026-11-06) |

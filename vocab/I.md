@@ -21,3 +21,5 @@
 | insular | /ˈɪnsələr/ | adj. | 岛国的；孤立的，狭隘的 | There now is your insular city of the Manhattoes, belted round by wharves | moby-dick (2026-11-05) |
 | indignity | /ɪnˈdɪɡnəti/ | n. | 侮辱，有失体面 | What does that indignity amount to, weighed in the scales | moby-dick (2026-11-05) |
 | inmates | /ˈɪnmeɪts/ | n. | 同住者，居住者（inmate 复数） | be on friendly terms with all the inmates of the place one lodges in | moby-dick (2026-11-05) |
+| invariably | /ɪnˈvɛəriəbli/ | adv. | 总是，无一例外地 | cats with blue eyes are invariably deaf | origin-of-species (2026-11-06) |
+| inheritable | /ɪnˈherɪtəbl/ | adj. | 可遗传的 | deviations may be freely admitted to be inheritable | origin-of-species (2026-11-06) |

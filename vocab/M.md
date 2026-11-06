@@ -10,3 +10,5 @@
 | meanness | /ˈmiːnnəs/ | n. | 卑琐，狭隘 | the whole distinction between greatness and meanness | self-reliance (2026-11-04) |
 | metaphysical | /ˌmetəˈfɪzɪkl/ | adj. | 形而上学的；抽象的 | if your caravan happen to be supplied with a metaphysical professor | moby-dick (2026-11-05) |
 | mast-head | /ˈmæst hed/ | n. | 桅顶 | aloft there to the royal mast-head | moby-dick (2026-11-05) |
+| monstrosity | /mɒnˈstrɒsəti/ | n. | 畸形（物）；怪物 | unnatural treatment of the embryo causes monstrosities | origin-of-species (2026-11-06) |
+| moisture | /ˈmɔɪstʃə/ | n. | 湿气，水分 | the direct action of heat, moisture, light, food | origin-of-species (2026-11-06) |

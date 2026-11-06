@@ -10,3 +10,4 @@
 | beadle | /ˈbiːdl/ | n. | （旧时城镇的）差役，执事 | the grim and grisly presence of the town-beadle | the-scarlet-letter (2026-11-03) |
 | bigot | /ˈbɪɡət/ | n. | 偏执者，顽固者 | If an angry bigot assumes this bountiful cause of Abolition | self-reliance (2026-11-04) |
 | bulwarks | /ˈbʊlwərks/ | n. | 舷墙；堡垒，防御物（bulwark 复数） | looking over the bulwarks of ships from China | moby-dick (2026-11-05) |
+| bane | /beɪn/ | n. | 祸根，克星 | Sterility has been said to be the bane of horticulture | origin-of-species (2026-11-06) |

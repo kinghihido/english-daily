@@ -13,3 +13,4 @@
 | riotous | /ˈraɪətəs/ | adj. | 狂欢的，骚乱的 | had made riotous about the streets | the-scarlet-letter (2026-11-03) |
 | reveries | /ˈrevəriz/ | n. | 遐想，白日梦（reverie 复数） | thousands upon thousands of mortal men fixed in ocean reveries | moby-dick (2026-11-05) |
 | rigging | /ˈrɪɡɪŋ/ | n. | （船的）索具，帆缆 | some high aloft in the rigging, as if striving to get a better peep | moby-dick (2026-11-05) |
+| reproductive | /ˌriːprəˈdʌktɪv/ | adj. | 生殖的，繁殖的 | functions of the reproductive system | origin-of-species (2026-11-06) |

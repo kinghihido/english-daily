@@ -15,3 +15,6 @@
 | admonition | /ˌædməˈnɪʃn/ | n. | 劝诫，警告 | The soul always hears an admonition in such lines. | self-reliance (2026-11-04) |
 | archangel | /ˈɑːrkeɪndʒəl/ | n. | 大天使 | Do you think the archangel Gabriel thinks anything the less of me | moby-dick (2026-11-05) |
 | astern | /əˈstɜːrn/ | adv. | 在船尾；向后 | head winds are far more prevalent than winds from astern | moby-dick (2026-11-05) |
+| augmenting | /ɔːɡˈmentɪŋ/ | v. | 增加，扩大（augment 现在分词） | if man goes on selecting, and thus augmenting, any peculiarity | origin-of-species (2026-11-06) |
+| albinism | /ˈælbɪnɪzəm/ | n. | 白化病，白化现象 | cases of albinism, prickly skin, hairy bodies | origin-of-species (2026-11-06) |
+| anomaly | /əˈnɒməli/ | n. | 异常，反常（事物） | non-inheritance as the anomaly | origin-of-species (2026-11-06) |

@@ -23,6 +23,7 @@
 
 | 日期 | 标题 | 分类 |
 |---|---|---|
+| 2026-11-06 | [On the Origin of Species — Ch. I (Variation Under Domestication)](articles/2026-11-06-origin-of-species.md) | 科普 · Science (Public Domain) |
 | 2026-11-05 | [Moby-Dick — Chapter 1 (Loomings)](articles/2026-11-05-moby-dick.md) | 小说 · Novel (Public Domain) |
 | 2026-11-04 | [Self-Reliance — Excerpt](articles/2026-11-04-self-reliance.md) | 散文 · Essay (Public Domain) |
 | 2026-11-03 | [The Scarlet Letter — Ch. I & II](articles/2026-11-03-the-scarlet-letter.md) | 小说 · Novel (Public Domain) |

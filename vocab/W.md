@@ -5,3 +5,4 @@
 | wreck | /rek/ | n. | 失事的船；残骸 | a wreck just sinking | jane-eyre (2026-11-02) |
 | whim | /wɪm/ | n. | 一时的念头，怪想 | I would write on the lintels of the door-post, _Whim_. | self-reliance (2026-11-04) |
 | wharves | /wɔːrvz/ | n. | 码头（wharf 的复数） | belted round by wharves as Indian isles by coral reefs | moby-dick (2026-11-05) |
+| whimsical | /ˈwɪmzɪkl/ | adj. | 古怪的，异想天开的 | Some instances of correlation are quite whimsical | origin-of-species (2026-11-06) |
