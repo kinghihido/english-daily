@@ -11,3 +11,7 @@
 | bigot | /ˈbɪɡət/ | n. | 偏执者，顽固者 | If an angry bigot assumes this bountiful cause of Abolition | self-reliance (2026-11-04) |
 | bulwarks | /ˈbʊlwərks/ | n. | 舷墙；堡垒，防御物（bulwark 复数） | looking over the bulwarks of ships from China | moby-dick (2026-11-05) |
 | bane | /beɪn/ | n. | 祸根，克星 | Sterility has been said to be the bane of horticulture | origin-of-species (2026-11-06) |
+| beautifully | /ˈbjuːtɪfli/ | adv. | 优美地，漂亮地 | There seemed to be no use in waiting by the little door, so she went back to the table, half hoping she might find another key on it, or at any rate a book of rules for shutting people up like telescopes: this time… | alice-ch1 (2026-11-07) |
+| brightened | /ˈbraɪtnd/ | v. | （使）变亮；喜形于色（brighten 过去式） | ”
+
+And so it was indeed: she was now only ten inches high, and her face brightened up at the thought that she was now the right size for going through the little door into that lovely garden. | alice-ch1 (2026-11-07) |

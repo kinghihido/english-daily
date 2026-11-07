@@ -14,3 +14,5 @@
 | reveries | /ˈrevəriz/ | n. | 遐想，白日梦（reverie 复数） | thousands upon thousands of mortal men fixed in ocean reveries | moby-dick (2026-11-05) |
 | rigging | /ˈrɪɡɪŋ/ | n. | （船的）索具，帆缆 | some high aloft in the rigging, as if striving to get a better peep | moby-dick (2026-11-05) |
 | reproductive | /ˌriːprəˈdʌktɪv/ | adj. | 生殖的，繁殖的 | functions of the reproductive system | origin-of-species (2026-11-06) |
+| respectable | /rɪˈspektəbl/ | adj. | 体面的，可敬的 | Why, there’s hardly enough of me left to make one respectable person! | alice-ch1 (2026-11-07) |
+| remarkable | /rɪˈmɑːkəbl/ | adj. | 非凡的，引人注目的 | There was nothing so very remarkable in that; nor did Alice think it so very much out of the way to hear the Rabbit say to itself, “Oh dear! | alice-ch1 (2026-11-07) |

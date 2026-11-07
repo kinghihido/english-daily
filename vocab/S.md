@@ -18,3 +18,6 @@
 | surveillance | /sərˈveɪləns/ | n. | 监视，盯防 | the invisible police officer ... who has the constant surveillance of me | moby-dick (2026-11-05) |
 | susceptible | /səˈseptəbl/ | adj. | 易受影响的，敏感的 | far more susceptible than any other part | origin-of-species (2026-11-06) |
 | sterile | /ˈsteraɪl/ | adj. | 不育的；无菌的 | in the most sterile hybrids | origin-of-species (2026-11-06) |
+| saucer | /ˈsɔːsə/ | n. | 茶碟，浅碟 | ) “I hope they’ll remember her saucer of milk at tea-time. | alice-ch1 (2026-11-07) |
+| schoolroom | /ˈskuːlruːm/ | n. | 教室，学堂 | Let me see: that would be four thousand miles down, I think—” (for, you see, Alice had learnt several things of this sort in her lessons in the schoolroom, and though this was not a very good opportunity for showing… | alice-ch1 (2026-11-07) |
+| slippery | /ˈslɪpəri/ | adj. | 滑的，易滑倒的 | when she got to the door, she found she had forgotten the little golden key, and when she went back to the table for it, she found she could not possibly reach it: she could see it quite plainly through the glass,… | alice-ch1 (2026-11-07) |

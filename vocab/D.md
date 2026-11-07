@@ -15,3 +15,6 @@
 | deliverance | /dɪˈlɪvərəns/ | n. | 解脱，拯救 | It is a deliverance which does not deliver. | self-reliance (2026-11-04) |
 | decoction | /dɪˈkɒkʃn/ | n. | 煎剂；熬煮（喻苦药） | requires a strong decoction of Seneca and the Stoics | moby-dick (2026-11-05) |
 | deviation | /ˌdiːviˈeɪʃn/ | n. | 偏差，偏离 | inheritable deviations of structure | origin-of-species (2026-11-06) |
+| disappointment | /ˌdɪsəˈpɔɪntmənt/ | n. | 失望，沮丧 | She took down a jar from one of the shelves as she passed; it was labelled “ORANGE MARMALADE”, but to her great disappointment it was empty: she did not like to drop the jar for fear of killing somebody underneath,… | alice-ch1 (2026-11-07) |
+| disagree | /ˌdɪsəˈɡriː/ | v. | 不一致；使（身体）不适 | “No, I’ll look first,” she said, “and see whether it’s marked ‘poison’ or not”; for she had read several nice little histories about children who had got burnt, and eaten up by wild beasts and other unpleasant… | alice-ch1 (2026-11-07) |
+| delight | /dɪˈlaɪt/ | n./v. | 高兴；令人高兴的事 | However, on the second time round, she came upon a low curtain she had not noticed before, and behind it was a little door about fifteen inches high: she tried the little golden key in the lock, and to her great… | alice-ch1 (2026-11-07) |

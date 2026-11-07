@@ -18,3 +18,7 @@
 | augmenting | /ɔːɡˈmentɪŋ/ | v. | 增加，扩大（augment 现在分词） | if man goes on selecting, and thus augmenting, any peculiarity | origin-of-species (2026-11-06) |
 | albinism | /ˈælbɪnɪzəm/ | n. | 白化病，白化现象 | cases of albinism, prickly skin, hairy bodies | origin-of-species (2026-11-06) |
 | anomaly | /əˈnɒməli/ | n. | 异常，反常（事物） | non-inheritance as the anomaly | origin-of-species (2026-11-06) |
+| anxiously | /ˈæŋkʃəsli/ | adv. | 焦虑地；急切地 | ”
+
+She ate a little bit, and said anxiously to herself, “Which way? | alice-ch1 (2026-11-07) |
+| altogether | /ˌɔːltəˈɡeðə/ | adv. | 完全；总共；总而言之 | First, however, she waited for a few minutes to see if she was going to shrink any further: she felt a little nervous about this; “for it might end, you know,” said Alice to herself, “in my going out altogether, like… | alice-ch1 (2026-11-07) |

@@ -10,3 +10,5 @@
 | uncharitable | /ʌnˈtʃærətəbl/ | adj. | 冷酷的，不宽容的 | varnish your hard, uncharitable ambition | self-reliance (2026-11-04) |
 | ungraspable | /ʌnˈɡræspəbl/ | adj. | 不可把握的，难以理解的 | It is the image of the ungraspable phantom of life | moby-dick (2026-11-05) |
 | urbane | /ɜːrˈbeɪn/ | adj. | 温文尔雅的，彬彬有礼的 | The urbane activity with which a man receives money | moby-dick (2026-11-05) |
+| underneath | /ˌʌndəˈniːθ/ | prep./adv. | 在…下面；在下方 | She took down a jar from one of the shelves as she passed; it was labelled “ORANGE MARMALADE”, but to her great disappointment it was empty: she did not like to drop the jar for fear of killing somebody underneath,… | alice-ch1 (2026-11-07) |
+| unpleasant | /ʌnˈpleznt/ | adj. | 令人不快的，讨厌的 | “No, I’ll look first,” she said, “and see whether it’s marked ‘poison’ or not”; for she had read several nice little histories about children who had got burnt, and eaten up by wild beasts and other unpleasant… | alice-ch1 (2026-11-07) |

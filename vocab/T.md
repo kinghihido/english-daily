@@ -12,3 +12,4 @@
 | transgressor | /trænsˈɡresər/ | n. | 违犯者，罪人 | the sympathy that a transgressor might look for, from such bystanders | the-scarlet-letter (2026-11-03) |
 | tranced | /trɑːnst/ | adj. | 出神的，恍惚的 | though the picture lies thus tranced | moby-dick (2026-11-05) |
 | trifling | /ˈtraɪflɪŋ/ | adj. | 微不足道的，微小的 | very trifling changes | origin-of-species (2026-11-06) |
+| telescopes | /ˈtelɪskəʊps/ | n. | 望远镜（telescope 的复数） | There seemed to be no use in waiting by the little door, so she went back to the table, half hoping she might find another key on it, or at any rate a book of rules for shutting people up like telescopes: this time… | alice-ch1 (2026-11-07) |

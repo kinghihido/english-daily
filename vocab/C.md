@@ -25,3 +25,12 @@
 | cultivation | /ˌkʌltɪˈveɪʃn/ | n. | 栽培，耕作；养殖 | our domestic productions having been raised under conditions of life | origin-of-species (2026-11-06) |
 | carnivorous | /kɑːˈnɪvərəs/ | adj. | 食肉的 | carnivorous animals, even from the tropics | origin-of-species (2026-11-06) |
 | constitutional | /ˌkɒnstɪˈtjuːʃənl/ | adj. | 体质的，根本的 | colour and constitutional peculiarities go together | origin-of-species (2026-11-06) |
+| curiosity | /ˌkjʊəriˈɒsəti/ | n. | 好奇心；奇物 | ” (when she thought it over afterwards, it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural); but when the Rabbit actually took a watch out of its waistcoat-pocket,… | alice-ch1 (2026-11-07) |
+| considering | /kənˈsɪdərɪŋ/ | v. | 考虑，细想（consider 的现在分词） | ”
+
+So she was considering in her own mind (as well as she could, for the hot day made her feel very sleepy and stupid), whether the pleasure of making a daisy-chain would be worth the trouble of getting up and… | alice-ch1 (2026-11-07) |
+| curtseying | /ˈkɜːtsiɪŋ/ | v./n. | 行屈膝礼（curtsey 的现在分词） | ” (and she tried to curtsey as she spoke—fancy curtseying as you’re falling through the air! | alice-ch1 (2026-11-07) |
+| currants | /ˈkʌrənts/ | n. | 葡萄干；小黑醋栗（文中指葡萄干） | ”
+
+Soon her eye fell on a little glass box that was lying under the table: she opened it, and found in it a very small cake, on which the words “EAT ME” were beautifully marked in currants. | alice-ch1 (2026-11-07) |
+| croquet | /ˈkrəʊkeɪ/ | n. | 槌球戏（一种草地游戏） | ” She generally gave herself very good advice, (though she very seldom followed it), and sometimes she scolded herself so severely as to bring tears into her eyes; and once she remembered trying to box her own ears… | alice-ch1 (2026-11-07) |

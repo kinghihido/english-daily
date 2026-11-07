@@ -23,3 +23,8 @@
 | physiologists | /ˌfɪziˈɒlədʒɪsts/ | n. | 生理学家 | the opinion of most physiologists | origin-of-species (2026-11-06) |
 | plastic | /ˈplæstɪk/ | adj. | 可塑的，易变的 | The whole organisation seems to have become plastic | origin-of-species (2026-11-06) |
 | propounded | /prəˈpaʊndɪd/ | v. | 提出，阐述（propound 过去式） | the view propounded by Andrew Knight | origin-of-species (2026-11-06) |
+| peeped | /piːpt/ | v. | 偷看，窥视（peep 的过去式） | Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in… | alice-ch1 (2026-11-07) |
+| pretending | /prɪˈtendɪŋ/ | v. | 假装（pretend 的现在分词） | ” She generally gave herself very good advice, (though she very seldom followed it), and sometimes she scolded herself so severely as to bring tears into her eyes; and once she remembered trying to box her own ears… | alice-ch1 (2026-11-07) |
+| presently | /ˈprezntli/ | adv. | 不久，一会儿；目前 | )
+
+Presently she began again. | alice-ch1 (2026-11-07) |

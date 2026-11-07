@@ -15,3 +15,4 @@
 | entailed | /ɪnˈteɪld/ | v. | 使承担；带来（entail 过去式） | the two orchard thieves entailed upon us | moby-dick (2026-11-05) |
 | embryo | /ˈɛmbriəʊ/ | n. | 胚胎 | development of the embryo | origin-of-species (2026-11-06) |
 | exotic | /ɪɡˈzɒtɪk/ | adj. | 外来的，异国的 | Many exotic plants have pollen utterly worthless | origin-of-species (2026-11-06) |
+| earnestly | /ˈɜːnɪstli/ | adv. | 认真地，诚挚地 | She felt that she was dozing off, and had just begun to dream that she was walking hand in hand with Dinah, and saying to her very earnestly, “Now, Dinah, tell me the truth: did you ever eat a bat? | alice-ch1 (2026-11-07) |
