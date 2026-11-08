@@ -18,3 +18,6 @@
 | disappointment | /ˌdɪsəˈpɔɪntmənt/ | n. | 失望，沮丧 | She took down a jar from one of the shelves as she passed; it was labelled “ORANGE MARMALADE”, but to her great disappointment it was empty: she did not like to drop the jar for fear of killing somebody underneath,… | alice-ch1 (2026-11-07) |
 | disagree | /ˌdɪsəˈɡriː/ | v. | 不一致；使（身体）不适 | “No, I’ll look first,” she said, “and see whether it’s marked ‘poison’ or not”; for she had read several nice little histories about children who had got burnt, and eaten up by wild beasts and other unpleasant… | alice-ch1 (2026-11-07) |
 | delight | /dɪˈlaɪt/ | n./v. | 高兴；令人高兴的事 | However, on the second time round, she came upon a low curtain she had not noticed before, and behind it was a little door about fifteen inches high: she tried the little golden key in the lock, and to her great… | alice-ch1 (2026-11-07) |
+| dilapidated | /dɪˈlæpɪdeɪtɪd/ | adj. | 破败的，年久失修的 | …the dilapidated tavern in the decayed mining camp… | twain-frog (2026-11-08) |
+| distemper | /dɪˈstempə/ | n. | （犬等）瘟热；疾病 | …she was so slow and always had the asthma, or the distemper, or the consumption… | twain-frog (2026-11-08) |
+| deliberate | /dɪˈlɪbərət/ | adj. | 从容的，不慌不忙的 | …give it back to Smiley, and says, very deliberate, ‘Well…’ | twain-frog (2026-11-08) |

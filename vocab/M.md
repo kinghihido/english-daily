@@ -13,3 +13,5 @@
 | monstrosity | /mɒnˈstrɒsəti/ | n. | 畸形（物）；怪物 | unnatural treatment of the embryo causes monstrosities | origin-of-species (2026-11-06) |
 | moisture | /ˈmɔɪstʃə/ | n. | 湿气，水分 | the direct action of heat, moisture, light, food | origin-of-species (2026-11-06) |
 | marmalade | /ˈmɑːməleɪd/ | n. | 橘子酱（果酱） | She took down a jar from one of the shelves as she passed; it was labelled “ORANGE MARMALADE”, but to her great disappointment it was empty: she did not like to drop the jar for fear of killing somebody underneath,… | alice-ch1 (2026-11-07) |
+| monotonous | /məˈnɒtənəs/ | adj. | 单调的，乏味的 | …reeled off the monotonous narrative… | twain-frog (2026-11-08) |
+| monstrous | /ˈmɒnstrəs/ | adv./adj. | （方言）非常，极（地）；巨大的 | Smiley was monstrous proud of his frog… | twain-frog (2026-11-08) |

@@ -24,3 +24,5 @@
 | invariably | /ɪnˈvɛəriəbli/ | adv. | 总是，无一例外地 | cats with blue eyes are invariably deaf | origin-of-species (2026-11-06) |
 | inheritable | /ɪnˈherɪtəbl/ | adj. | 可遗传的 | deviations may be freely admitted to be inheritable | origin-of-species (2026-11-06) |
 | impossible | /ɪmˈpɒsəbl/ | adj. | 不可能的 | ” For, you see, so many out-of-the-way things had happened lately, that Alice had begun to think that very few things indeed were really impossible. | alice-ch1 (2026-11-07) |
+| infamous | /ˈɪnfəməs/ | adj. | 声名狼藉的，臭名昭著的 | …remind him of his infamous Jim Smiley… | twain-frog (2026-11-08) |
+| interminable | /ɪnˈtɜːmɪnəbl/ | adj. | 漫无止境的，冗长的 | …all through the interminable narrative there ran a vein of impressive earnestness… | twain-frog (2026-11-08) |

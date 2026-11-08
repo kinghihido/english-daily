@@ -15,3 +15,7 @@
 | brightened | /ˈbraɪtnd/ | v. | （使）变亮；喜形于色（brighten 过去式） | ”
 
 And so it was indeed: she was now only ten inches high, and her face brightened up at the thought that she was now the right size for going through the little door into that lovely garden. | alice-ch1 (2026-11-07) |
+| blockaded | /blɒˈkeɪdɪd/ | v. | 堵住，封锁（blockade 过去式） | Simon Wheeler backed me into a corner and blockaded me there with his chair… | twain-frog (2026-11-08) |
+| budge | /bʌdʒ/ | v. | 移动，挪动 | …he couldn’t budge; he was planted as solid as a church… | twain-frog (2026-11-08) |
+| buttonholed | /ˈbʌtnhoʊld/ | v. | 拉住（某人）强留谈话 | At the door I met the sociable Wheeler returning, and he buttonholed me… | twain-frog (2026-11-08) |
+| belched | /beltʃt/ | v. | 喷出，吐出（belch 过去式） | …turned him upside down and he belched out a double handful of shot. | twain-frog (2026-11-08) |

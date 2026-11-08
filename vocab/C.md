@@ -34,3 +34,9 @@ So she was considering in her own mind (as well as she could, for the hot day ma
 
 Soon her eye fell on a little glass box that was lying under the table: she opened it, and found in it a very small cake, on which the words “EAT ME” were beautifully marked in currants. | alice-ch1 (2026-11-07) |
 | croquet | /ˈkrəʊkeɪ/ | n. | 槌球戏（一种草地游戏） | ” She generally gave herself very good advice, (though she very seldom followed it), and sometimes she scolded herself so severely as to bring tears into her eyes; and once she remembered trying to box her own ears… | alice-ch1 (2026-11-07) |
+| conjectured | /kənˈdʒektʃəd/ | v. | 推测，猜想（conjecture 过去式） | …and that he only conjectured that if I asked old Wheeler about him… | twain-frog (2026-11-08) |
+| countenance | /ˈkaʊntənəns/ | n. | 面容，表情 | …upon his tranquil countenance. | twain-frog (2026-11-08) |
+| commissioned | /kəˈmɪʃnd/ | v. | 委托，委任（commission 过去式） | …a friend had commissioned me to make some inquiries… | twain-frog (2026-11-08) |
+| cherished | /ˈtʃerɪʃt/ | adj. | 珍视的，珍爱的 | …a cherished companion of his boyhood… | twain-frog (2026-11-08) |
+| cavorting | /kəˈvɔːtɪŋ/ | v. | 欢蹦乱跳，腾跃（cavort 现在分词） | …come cavorting and straddling up, and scattering her legs around limber… | twain-frog (2026-11-08) |
+| cipher | /ˈsaɪfə/ | v. | （旧/方言）计算，推算 | …fetch up at the stand just about a neck ahead, as near as you could cipher it down. | twain-frog (2026-11-08) |

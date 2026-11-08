@@ -22,3 +22,4 @@
 
 She ate a little bit, and said anxiously to herself, “Which way? | alice-ch1 (2026-11-07) |
 | altogether | /ˌɔːltəˈɡeðə/ | adv. | 完全；总共；总而言之 | First, however, she waited for a few minutes to see if she was going to shrink any further: she felt a little nervous about this; “for it might end, you know,” said Alice to herself, “in my going out altogether, like… | alice-ch1 (2026-11-07) |
+| ante up | /ˈænti ʌp/ | v. | 下注，拿出（赌金） | …Smiley would ante up money on him as long as he had a red. | twain-frog (2026-11-08) |

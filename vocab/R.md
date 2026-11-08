@@ -16,3 +16,5 @@
 | reproductive | /ˌriːprəˈdʌktɪv/ | adj. | 生殖的，繁殖的 | functions of the reproductive system | origin-of-species (2026-11-06) |
 | respectable | /rɪˈspektəbl/ | adj. | 体面的，可敬的 | Why, there’s hardly enough of me left to make one respectable person! | alice-ch1 (2026-11-07) |
 | remarkable | /rɪˈmɑːkəbl/ | adj. | 非凡的，引人注目的 | There was nothing so very remarkable in that; nor did Alice think it so very much out of the way to hear the Rabbit say to itself, “Oh dear! | alice-ch1 (2026-11-07) |
+| reminiscence | /ˌremɪˈnɪsns/ | n. | 回忆，怀旧的叙述 | …some exasperating reminiscence of him as long and as tedious… | twain-frog (2026-11-08) |
+| recollect | /ˌrekəˈlekt/ | v. | 记起，回忆 | …I don’t recollect exactly, somehow… | twain-frog (2026-11-08) |

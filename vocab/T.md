@@ -13,3 +13,5 @@
 | tranced | /trɑːnst/ | adj. | 出神的，恍惚的 | though the picture lies thus tranced | moby-dick (2026-11-05) |
 | trifling | /ˈtraɪflɪŋ/ | adj. | 微不足道的，微小的 | very trifling changes | origin-of-species (2026-11-06) |
 | telescopes | /ˈtelɪskəʊps/ | n. | 望远镜（telescope 的复数） | There seemed to be no use in waiting by the little door, so she went back to the table, half hoping she might find another key on it, or at any rate a book of rules for shutting people up like telescopes: this time… | alice-ch1 (2026-11-07) |
+| tranquil | /ˈtræŋkwɪl/ | adj. | 平静的，安宁的 | …an expression of winning gentleness upon his tranquil countenance. | twain-frog (2026-11-08) |
+| transcendent | /trænˈsendənt/ | adj. | 卓越的，出类拔萃的 | …admired its two heroes as men of transcendent genius in finesse. | twain-frog (2026-11-08) |
