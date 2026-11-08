@@ -28,3 +28,7 @@
 | presently | /ˈprezntli/ | adv. | 不久，一会儿；目前 | )
 
 Presently she began again. | alice-ch1 (2026-11-07) |
+| pestilence | /ˈpestɪləns/ | n. | 瘟疫，疫病 | No pestilence had ever been so fatal, or so hideous. | masque-red-death (2026-11-09) |
+| profuse | /prəˈfjuːs/ | adj. | 大量的，过多的 | …profuse bleeding at the pores, with dissolution. | masque-red-death (2026-11-09) |
+| precincts | /ˈpriːsɪŋkts/ | n. | 范围，区域（precinct 复数） | …bold enough to set foot within its precincts at all. | masque-red-death (2026-11-09) |
+| pendulum | /ˈpendʒələm/ | n. | 钟摆 | Its pendulum swung to and fro with a dull, heavy, monotonous clang… | masque-red-death (2026-11-09) |

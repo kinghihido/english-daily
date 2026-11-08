@@ -15,3 +15,4 @@
 | marmalade | /ˈmɑːməleɪd/ | n. | 橘子酱（果酱） | She took down a jar from one of the shelves as she passed; it was labelled “ORANGE MARMALADE”, but to her great disappointment it was empty: she did not like to drop the jar for fear of killing somebody underneath,… | alice-ch1 (2026-11-07) |
 | monotonous | /məˈnɒtənəs/ | adj. | 单调的，乏味的 | …reeled off the monotonous narrative… | twain-frog (2026-11-08) |
 | monstrous | /ˈmɒnstrəs/ | adv./adj. | （方言）非常，极（地）；巨大的 | Smiley was monstrous proud of his frog… | twain-frog (2026-11-08) |
+| masquerade | /ˌmæskəˈreɪd/ | n./v. | 化装舞会；伪装 | It was a voluptuous scene, that masquerade. | masque-red-death (2026-11-09) |

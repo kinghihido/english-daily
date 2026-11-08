@@ -17,3 +17,7 @@
 | exotic | /ɪɡˈzɒtɪk/ | adj. | 外来的，异国的 | Many exotic plants have pollen utterly worthless | origin-of-species (2026-11-06) |
 | earnestly | /ˈɜːnɪstli/ | adv. | 认真地，诚挚地 | She felt that she was dozing off, and had just begun to dream that she was walking hand in hand with Dinah, and saying to her very earnestly, “Now, Dinah, tell me the truth: did you ever eat a bat? | alice-ch1 (2026-11-07) |
 | exasperating | /ɪɡˈzæspəreɪtɪŋ/ | adj. | 令人恼火的，使人恼怒的 | …bore me to death with some exasperating reminiscence… | twain-frog (2026-11-08) |
+| eccentric | /ɪkˈsentrɪk/ | adj. | 古怪的，反常的 | …the prince’s own eccentric yet august taste. | masque-red-death (2026-11-09) |
+| egress | /ˈiːɡres/ | n. | 出去，出口 | …neither of ingress nor egress to the sudden impulses… | masque-red-death (2026-11-09) |
+| ebony | /ˈebəni/ | n./adj. | 乌木（色）的 | …there stood against the western wall, a gigantic clock of ebony. | masque-red-death (2026-11-09) |
+| emanating | /ˈeməneɪtɪŋ/ | v. | 发出，散发（emanate 现在分词） | There was no light of any kind emanating from lamp or candle… | masque-red-death (2026-11-09) |

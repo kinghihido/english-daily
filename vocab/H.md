@@ -14,3 +14,5 @@
 | hunks | /hʌŋks/ | n. | 吝啬鬼；老顽固，老家伙 | if some old hunks of a sea-captain orders me to get a broom | moby-dick (2026-11-05) |
 | horticulture | /ˈhɔːtɪkʌltʃə/ | n. | 园艺（学） | the bane of horticulture | origin-of-species (2026-11-06) |
 | hefted | /ˈheftɪd/ | v. | （口语）掂量，举起（heft 过去式） | …he ketched Dan’l up by the nap of the neck, and hefted him… | twain-frog (2026-11-08) |
+| hideous | /ˈhɪdiəs/ | adj. | 可怕的，丑恶的 | No pestilence had ever been so fatal, or so hideous. | masque-red-death (2026-11-09) |
+| hale | /heɪl/ | adj. | （尤指老人）健壮的 | …a thousand hale and light-hearted friends… | masque-red-death (2026-11-09) |

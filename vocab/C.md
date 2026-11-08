@@ -40,3 +40,7 @@ Soon her eye fell on a little glass box that was lying under the table: she open
 | cherished | /ˈtʃerɪʃt/ | adj. | 珍视的，珍爱的 | …a cherished companion of his boyhood… | twain-frog (2026-11-08) |
 | cavorting | /kəˈvɔːtɪŋ/ | v. | 欢蹦乱跳，腾跃（cavort 现在分词） | …come cavorting and straddling up, and scattering her legs around limber… | twain-frog (2026-11-08) |
 | cipher | /ˈsaɪfə/ | v. | （旧/方言）计算，推算 | …fetch up at the stand just about a neck ahead, as near as you could cipher it down. | twain-frog (2026-11-08) |
+| castellated | /ˈkæstəleɪtɪd/ | adj. | 城堡式的，带城垛的 | …the deep seclusion of one of his castellated abbeys. | masque-red-death (2026-11-09) |
+| contagion | /kənˈteɪdʒən/ | n. | 传染（病），蔓延 | …the courtiers might bid defiance to contagion. | masque-red-death (2026-11-09) |
+| candelabrum | /ˌkændəˈlɑːbrəm/ | n. | 枝形烛台 | …any lamp or candelabrum, amid the profusion of golden ornaments… | masque-red-death (2026-11-09) |
+| casements | /ˈkeɪsmənts/ | n. | 窗扉，窗扇（casement 复数） | …so were the casements. | masque-red-death (2026-11-09) |

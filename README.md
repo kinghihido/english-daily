@@ -23,6 +23,7 @@
 
 | 日期 | 标题 | 分类 |
 |---|---|---|
+| 2026-11-09 | [The Masque of the Red Death](articles/2026-11-09-masque-red-death.md) | 小说 · Short Story (Public Domain) |
 | 2026-11-08 | [The Celebrated Jumping Frog of Calaveras County](articles/2026-11-08-twain-frog.md) | 小说 · Short Story (Public Domain) |
 | 2026-11-07 | [Alice's Adventures in Wonderland — Chapter I (Down the Rabbit-Hole)](articles/2026-11-07-alice-ch1.md) | 小说 · Novel (Public Domain) |
 | 2026-11-06 | [On the Origin of Species — Ch. I (Variation Under Domestication)](articles/2026-11-06-origin-of-species.md) | 科普 · Science (Public Domain) |

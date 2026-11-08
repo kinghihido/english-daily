@@ -7,3 +7,4 @@
 | gallows | /ˈɡæloʊz/ | n. | 绞刑架 | a distant crowd surrounding a gallows | jane-eyre (2026-11-02) |
 | grisly | /ˈɡrɪzli/ | adj. | 可怕的，狰狞的 | the grim and grisly presence of the town-beadle | the-scarlet-letter (2026-11-03) |
 | garrulous | /ˈɡærələs/ | adj. | 喋喋不休的，爱唠叨的 | …good-natured, garrulous old Simon Wheeler… | twain-frog (2026-11-08) |
+| girdled | /ˈɡɜːdld/ | v. | 环绕，包围（girdle 过去式） | A strong and lofty wall girdled it in. | masque-red-death (2026-11-09) |

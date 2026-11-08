@@ -21,3 +21,6 @@
 | dilapidated | /dɪˈlæpɪdeɪtɪd/ | adj. | 破败的，年久失修的 | …the dilapidated tavern in the decayed mining camp… | twain-frog (2026-11-08) |
 | distemper | /dɪˈstempə/ | n. | （犬等）瘟热；疾病 | …she was so slow and always had the asthma, or the distemper, or the consumption… | twain-frog (2026-11-08) |
 | deliberate | /dɪˈlɪbərət/ | adj. | 从容的，不慌不忙的 | …give it back to Smiley, and says, very deliberate, ‘Well…’ | twain-frog (2026-11-08) |
+| dissolution | /ˌdɪsəˈluːʃn/ | n. | 消散，消亡；解体 | …profuse bleeding at the pores, with dissolution. | masque-red-death (2026-11-09) |
+| dauntless | /ˈdɔːntləs/ | adj. | 无畏的，勇敢的 | …the Prince Prospero was happy and dauntless and sagacious. | masque-red-death (2026-11-09) |
+| depopulated | /dɪˈpɒpjuleɪtɪd/ | adj. | 人口锐减的 | When his dominions were half depopulated… | masque-red-death (2026-11-09) |

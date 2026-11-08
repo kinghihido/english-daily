@@ -15,3 +15,5 @@
 | telescopes | /ˈtelɪskəʊps/ | n. | 望远镜（telescope 的复数） | There seemed to be no use in waiting by the little door, so she went back to the table, half hoping she might find another key on it, or at any rate a book of rules for shutting people up like telescopes: this time… | alice-ch1 (2026-11-07) |
 | tranquil | /ˈtræŋkwɪl/ | adj. | 平静的，安宁的 | …an expression of winning gentleness upon his tranquil countenance. | twain-frog (2026-11-08) |
 | transcendent | /trænˈsendənt/ | adj. | 卓越的，出类拔萃的 | …admired its two heroes as men of transcendent genius in finesse. | twain-frog (2026-11-08) |
+| tapestries | /ˈtæpɪstrɪz/ | n. | 挂毯，壁毯（tapestry 复数） | …black velvet tapestries that hung all over the ceiling… | masque-red-death (2026-11-09) |
+| tripod | /ˈtraɪpɒd/ | n. | 三脚架；三足器 | …a heavy tripod, bearing a brazier of fire… | masque-red-death (2026-11-09) |
