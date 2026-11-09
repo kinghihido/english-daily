@@ -21,3 +21,5 @@
 | egress | /ˈiːɡres/ | n. | 出去，出口 | …neither of ingress nor egress to the sudden impulses… | masque-red-death (2026-11-09) |
 | ebony | /ˈebəni/ | n./adj. | 乌木（色）的 | …there stood against the western wall, a gigantic clock of ebony. | masque-red-death (2026-11-09) |
 | emanating | /ˈeməneɪtɪŋ/ | v. | 发出，散发（emanate 现在分词） | There was no light of any kind emanating from lamp or candle… | masque-red-death (2026-11-09) |
+| eclipse | /ɪˈklɪps/ | v. | 使黯然失色；超越 | In his eyes she eclipses and predominates the whole of her sex. | scandal-in-bohemia (2026-11-10) |
+| effusive | /ɪˈfjuːsɪv/ | adj. | 过分热情的，奔放的 | His manner was not effusive. It seldom was. | scandal-in-bohemia (2026-11-10) |

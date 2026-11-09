@@ -16,3 +16,4 @@
 | monotonous | /məˈnɒtənəs/ | adj. | 单调的，乏味的 | …reeled off the monotonous narrative… | twain-frog (2026-11-08) |
 | monstrous | /ˈmɒnstrəs/ | adv./adj. | （方言）非常，极（地）；巨大的 | Smiley was monstrous proud of his frog… | twain-frog (2026-11-08) |
 | masquerade | /ˌmæskəˈreɪd/ | n./v. | 化装舞会；伪装 | It was a voluptuous scene, that masquerade. | masque-red-death (2026-11-09) |
+| monogram | /ˈmɒnəɡræm/ | n. | 字母组合（徽记） | The name of the maker, no doubt; or his monogram, rather. | scandal-in-bohemia (2026-11-10) |

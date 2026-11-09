@@ -27,3 +27,6 @@
 | infamous | /ˈɪnfəməs/ | adj. | 声名狼藉的，臭名昭著的 | …remind him of his infamous Jim Smiley… | twain-frog (2026-11-08) |
 | interminable | /ɪnˈtɜːmɪnəbl/ | adj. | 漫无止境的，冗长的 | …all through the interminable narrative there ran a vein of impressive earnestness… | twain-frog (2026-11-08) |
 | ingress | /ˈɪnɡres/ | n. | 进入，入口 | …leave means neither of ingress nor egress… | masque-red-death (2026-11-09) |
+| introspective | /ˌɪntrəˈspektɪv/ | adj. | 内省的，好反思的 | looked me over in his singular introspective fashion. | scandal-in-bohemia (2026-11-10) |
+| incorrigible | /ɪnˈkɒrɪdʒəbl/ | adj. | 不可救药的，屡教不改的 | As to Mary Jane, she is incorrigible. | scandal-in-bohemia (2026-11-10) |
+| iodoform | /aɪˈɒdəfɔːm/ | n. | 碘仿（外用消毒剂） | walks into my rooms smelling of iodoform. | scandal-in-bohemia (2026-11-10) |

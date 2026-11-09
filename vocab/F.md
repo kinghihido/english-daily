@@ -13,3 +13,4 @@
 | formidable | /ˈfɔːrmɪdəbl/ | adj. | 令人敬畏的，可怕的 | must always be formidable | self-reliance (2026-11-04) |
 | forecastle | /ˈfoʊksl/ | n. | 艏楼，前甲板舱 | plumb down into the forecastle, aloft there to the royal mast-head | moby-dick (2026-11-05) |
 | fortunately | /ˈfɔːtʃənətli/ | adv. | 幸运地，幸好 | ” (when she thought it over afterwards, it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural); but when the Rabbit actually took a watch out of its waistcoat-pocket,… | alice-ch1 (2026-11-07) |
+| faculty | /ˈfæklti/ | n. | 官能，才能（常用复） | occupied his immense faculties and extraordinary powers of observation. | scandal-in-bohemia (2026-11-10) |

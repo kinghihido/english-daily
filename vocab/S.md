@@ -26,3 +26,8 @@
 | seclusion | /sɪˈkluːʒn/ | n. | 与世隔绝，隐居 | …retired to the deep seclusion of one of his castellated abbeys. | masque-red-death (2026-11-09) |
 | shrouded | /ˈʃraʊdɪd/ | adj. | 被覆盖的，笼罩的 | The seventh apartment was closely shrouded in black velvet tapestries… | masque-red-death (2026-11-09) |
 | spectral | /ˈspektrəl/ | adj. | 幽灵的，鬼魅的 | …fell upon this spectral image… | masque-red-death (2026-11-09) |
+| sneer | /snɪər/ | n./v. | 冷笑，讥笑 | He never spoke of the softer passions, save with a gibe and a sneer. | scandal-in-bohemia (2026-11-10) |
+| summons | /ˈsʌmənz/ | n. | 传唤，召见 | of his summons to Odessa in the case of the Trepoff murder. | scandal-in-bohemia (2026-11-10) |
+| singular | /ˈsɪŋɡjələr/ | adj. | 奇特的，非凡的 | of his clearing up of the singular tragedy of the Atkinson brothers at Trincomalee. | scandal-in-bohemia (2026-11-10) |
+| silhouette | /ˌsɪluˈet/ | n. | 剪影，轮廓 | I saw his tall, spare figure pass twice in a dark silhouette against the blind. | scandal-in-bohemia (2026-11-10) |
+| stethoscope | /ˈsteθəskəʊp/ | n. | 听诊器 | where he has secreted his stethoscope. | scandal-in-bohemia (2026-11-10) |

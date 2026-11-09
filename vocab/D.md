@@ -24,3 +24,4 @@
 | dissolution | /ˌdɪsəˈluːʃn/ | n. | 消散，消亡；解体 | …profuse bleeding at the pores, with dissolution. | masque-red-death (2026-11-09) |
 | dauntless | /ˈdɔːntləs/ | adj. | 无畏的，勇敢的 | …the Prince Prospero was happy and dauntless and sagacious. | masque-red-death (2026-11-09) |
 | depopulated | /dɪˈpɒpjuleɪtɪd/ | adj. | 人口锐减的 | When his dominions were half depopulated… | masque-red-death (2026-11-09) |
+| drowsiness | /ˈdraʊzinəs/ | n. | 困倦，昏沉 | the drowsiness of the drug, and the fierce energy of his own keen nature. | scandal-in-bohemia (2026-11-10) |

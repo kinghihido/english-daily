@@ -44,3 +44,7 @@ Soon her eye fell on a little glass box that was lying under the table: she open
 | contagion | /kənˈteɪdʒən/ | n. | 传染（病），蔓延 | …the courtiers might bid defiance to contagion. | masque-red-death (2026-11-09) |
 | candelabrum | /ˌkændəˈlɑːbrəm/ | n. | 枝形烛台 | …any lamp or candelabrum, amid the profusion of golden ornaments… | masque-red-death (2026-11-09) |
 | casements | /ˈkeɪsmənts/ | n. | 窗扉，窗扇（casement 复数） | …so were the casements. | masque-red-death (2026-11-09) |
+| cocaine | /kəʊˈkeɪn/ | n. | 可卡因（兴奋剂） | alternating from week to week between cocaine and ambition. | scandal-in-bohemia (2026-11-10) |
+| clumsy | /ˈklʌmzi/ | adj. | 笨拙的 | that you have a most clumsy and careless servant girl? | scandal-in-bohemia (2026-11-10) |
+| chronicle | /ˈkrɒnɪkl/ | v. | 记载，记录 | since you are good enough to chronicle one or two of my trifling experiences. | scandal-in-bohemia (2026-11-10) |
+| continental | /ˌkɒntɪˈnentl/ | adj. | 欧洲大陆的 | Let us glance at our Continental Gazetteer. | scandal-in-bohemia (2026-11-10) |

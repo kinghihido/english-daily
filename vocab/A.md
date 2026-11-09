@@ -24,3 +24,5 @@ She ate a little bit, and said anxiously to herself, “Which way? | alice-ch1 (
 | altogether | /ˌɔːltəˈɡeðə/ | adv. | 完全；总共；总而言之 | First, however, she waited for a few minutes to see if she was going to shrink any further: she felt a little nervous about this; “for it might end, you know,” said Alice to herself, “in my going out altogether, like… | alice-ch1 (2026-11-07) |
 | ante up | /ˈænti ʌp/ | v. | 下注，拿出（赌金） | …Smiley would ante up money on him as long as he had a red. | twain-frog (2026-11-08) |
 | august | /ɔːˈɡʌst/ | adj. | 威严的，庄严的 | …the prince’s own eccentric yet august taste. | masque-red-death (2026-11-09) |
+| abhorrent | /əbˈhɒrənt/ | adj. | 令人憎恶的，厌恶的 | All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. | scandal-in-bohemia (2026-11-10) |
+| astrakhan | /ˌæstrəˈkɑːn/ | n. | 羔皮，卷毛羊羔皮 | Heavy bands of astrakhan were slashed across the sleeves. | scandal-in-bohemia (2026-11-10) |

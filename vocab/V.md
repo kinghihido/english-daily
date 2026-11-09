@@ -12,3 +12,4 @@
 | vagabond | /ˈvæɡəbɒnd/ | n. | 流浪汉，无赖 | …a continuation of the history of the enterprising vagabond Jim Smiley… | twain-frog (2026-11-08) |
 | voluptuous | /vəˈlʌptʃuəs/ | adj. | 感官享乐的，奢靡的 | It was a voluptuous scene, that masquerade. | masque-red-death (2026-11-09) |
 | vista | /ˈvɪstə/ | n. | 远景，连绵的景色 | …such suites form a long and straight vista… | masque-red-death (2026-11-09) |
+| vizard | /ˈvɪzəd/ | n. | 面罩，假面具 | a black vizard mask, which he had apparently adjusted that very moment. | scandal-in-bohemia (2026-11-10) |

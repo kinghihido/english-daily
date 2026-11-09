@@ -13,3 +13,4 @@
 | longitude | /ˈlɒŋɡɪtjuːd/ | n. | 经度 | Let me see: that would be four thousand miles down, I think—” (for, you see, Alice had learnt several things of this sort in her lessons in the schoolroom, and though this was not a very good opportunity for showing… | alice-ch1 (2026-11-07) |
 | loveliest | /ˈlʌvliɪst/ | adj. | 最可爱的，最美丽的（lovely 最高级） | Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever saw. | alice-ch1 (2026-11-07) |
 | lattice | /ˈlætɪs/ | n. | 格子，格栅 | Smiley kep’ the beast in a little lattice box… | twain-frog (2026-11-08) |
+| loathe | /ləʊð/ | v. | 厌恶，憎恨 | Holmes, who loathed every form of society with his whole Bohemian soul. | scandal-in-bohemia (2026-11-10) |

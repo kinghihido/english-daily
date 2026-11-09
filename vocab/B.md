@@ -22,3 +22,4 @@ And so it was indeed: she was now only ten inches high, and her face brightened 
 | buffoons | /bəˈfuːnz/ | n. | 小丑，丑角（buffoon 复数） | There were buffoons, there were improvisatori… | masque-red-death (2026-11-09) |
 | bizarre | /bɪˈzɑːr/ | adj. | 奇异的，怪诞的 | …from the duke’s love of the bizarre. | masque-red-death (2026-11-09) |
 | brazier | /ˈbreɪʒər/ | n. | 火盆，炭火炉 | …a heavy tripod, bearing a brazier of fire… | masque-red-death (2026-11-09) |
+| brougham | /bruːm/ | n. | 四轮轻便马车 | A nice little brougham and a pair of beauties. | scandal-in-bohemia (2026-11-10) |

@@ -17,3 +17,4 @@
 | transcendent | /trænˈsendənt/ | adj. | 卓越的，出类拔萃的 | …admired its two heroes as men of transcendent genius in finesse. | twain-frog (2026-11-08) |
 | tapestries | /ˈtæpɪstrɪz/ | n. | 挂毯，壁毯（tapestry 复数） | …black velvet tapestries that hung all over the ceiling… | masque-red-death (2026-11-09) |
 | tripod | /ˈtraɪpɒd/ | n. | 三脚架；三足器 | …a heavy tripod, bearing a brazier of fire… | masque-red-death (2026-11-09) |
+| triumphant | /traɪˈʌmfənt/ | adj. | 胜利的，得意洋洋的 | he sent up a great blue triumphant cloud from his cigarette. | scandal-in-bohemia (2026-11-10) |

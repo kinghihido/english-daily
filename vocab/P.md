@@ -32,3 +32,4 @@ Presently she began again. | alice-ch1 (2026-11-07) |
 | profuse | /prəˈfjuːs/ | adj. | 大量的，过多的 | …profuse bleeding at the pores, with dissolution. | masque-red-death (2026-11-09) |
 | precincts | /ˈpriːsɪŋkts/ | n. | 范围，区域（precinct 复数） | …bold enough to set foot within its precincts at all. | masque-red-death (2026-11-09) |
 | pendulum | /ˈpendʒələm/ | n. | 钟摆 | Its pendulum swung to and fro with a dull, heavy, monotonous clang… | masque-red-death (2026-11-09) |
+| predominate | /prɪˈdɒmɪneɪt/ | v. | 占主导，胜过 | In his eyes she eclipses and predominates the whole of her sex. | scandal-in-bohemia (2026-11-10) |
