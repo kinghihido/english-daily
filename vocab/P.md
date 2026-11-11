@@ -33,3 +33,6 @@ Presently she began again. | alice-ch1 (2026-11-07) |
 | precincts | /ˈpriːsɪŋkts/ | n. | 范围，区域（precinct 复数） | …bold enough to set foot within its precincts at all. | masque-red-death (2026-11-09) |
 | pendulum | /ˈpendʒələm/ | n. | 钟摆 | Its pendulum swung to and fro with a dull, heavy, monotonous clang… | masque-red-death (2026-11-09) |
 | predominate | /prɪˈdɒmɪneɪt/ | v. | 占主导，胜过 | In his eyes she eclipses and predominates the whole of her sex. | scandal-in-bohemia (2026-11-10) |
+| paradox | /ˈpærədɒks/ | n. | 悖论，自相矛盾的说法 | his earnestness over this new paradox (as we thought it) | time-machine-ch1 (2026-11-11) |
+| peered | /pɪəd/ | v. | 凝视，眯眼细看（peer） | The Medical Man got up out of his chair and peered into the thing. | time-machine-ch1 (2026-11-11) |
+| provincial | /prəˈvɪnʃl/ | adj. | 外省的；地方的 | “I have not,” said the Provincial Mayor. | time-machine-ch1 (2026-11-11) |

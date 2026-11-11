@@ -9,3 +9,4 @@
 | ornery | /ˈɔːnəri/ | adj. | （方言）脾气坏的，粗鄙的；普通的 | …you’d think he warn’t worth a cent but to set around and look ornery… | twain-frog (2026-11-08) |
 | opulence | /ˈɒpjələns/ | n. | 富裕，奢华 | the impression of barbaric opulence which was suggested by his whole appearance. | scandal-in-bohemia (2026-11-10) |
 | obstinacy | /əbˈstɪnəsi/ | n. | 固执，倔强 | a long, straight chin suggestive of resolution pushed to the length of obstinacy. | scandal-in-bohemia (2026-11-10) |
+| octagonal | /ɒkˈtæɡənl/ | adj. | 八边形的 | He took one of the small octagonal tables that were scattered about the room | time-machine-ch1 (2026-11-11) |

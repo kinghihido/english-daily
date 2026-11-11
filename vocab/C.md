@@ -48,3 +48,6 @@ Soon her eye fell on a little glass box that was lying under the table: she open
 | clumsy | /ˈklʌmzi/ | adj. | 笨拙的 | that you have a most clumsy and careless servant girl? | scandal-in-bohemia (2026-11-10) |
 | chronicle | /ˈkrɒnɪkl/ | v. | 记载，记录 | since you are good enough to chronicle one or two of my trifling experiences. | scandal-in-bohemia (2026-11-10) |
 | continental | /ˌkɒntɪˈnentl/ | adj. | 欧洲大陆的 | Let us glance at our Continental Gazetteer. | scandal-in-bohemia (2026-11-10) |
+| controvert | /ˌkɒntrəˈvɜːt/ | v. | 反驳，驳斥 | I shall have to controvert one or two ideas that are almost universally accepted. | time-machine-ch1 (2026-11-11) |
+| crystalline | /ˈkrɪstəlaɪn/ | adj. | 水晶般的；透明的 | There was ivory in it, and some transparent crystalline substance. | time-machine-ch1 (2026-11-11) |
+| conjuror | /ˈkʌndʒərə/ | n. | 魔术师，变戏法的人 | and Filby tried to tell us about a conjuror he had seen at Burslem | time-machine-ch1 (2026-11-11) |

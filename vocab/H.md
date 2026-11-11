@@ -17,3 +17,5 @@
 | hideous | /ˈhɪdiəs/ | adj. | 可怕的，丑恶的 | No pestilence had ever been so fatal, or so hideous. | masque-red-death (2026-11-09) |
 | hale | /heɪl/ | adj. | （尤指老人）健壮的 | …a thousand hale and light-hearted friends… | masque-red-death (2026-11-09) |
 | harness | /ˈhɑːnɪs/ | n. | （喻）工作，职务（go into harness 开始干活） | You did not tell me that you intended to go into harness. | scandal-in-bohemia (2026-11-10) |
+| hearthrug | /ˈhɑːθrʌɡ/ | n. | 炉前小地毯 | and set it in front of the fire, with two legs on the hearthrug. | time-machine-ch1 (2026-11-11) |
+| humbug | /ˈhʌmbʌɡ/ | n. | 胡说，骗人的鬼话 | “Let’s see your experiment anyhow,” said the Psychologist, “though it’s all humbug, you know.” | time-machine-ch1 (2026-11-11) |

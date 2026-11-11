@@ -17,3 +17,6 @@
 | monstrous | /ˈmɒnstrəs/ | adv./adj. | （方言）非常，极（地）；巨大的 | Smiley was monstrous proud of his frog… | twain-frog (2026-11-08) |
 | masquerade | /ˌmæskəˈreɪd/ | n./v. | 化装舞会；伪装 | It was a voluptuous scene, that masquerade. | masque-red-death (2026-11-09) |
 | monogram | /ˈmɒnəɡræm/ | n. | 字母组合（徽记） | The name of the maker, no doubt; or his monogram, rather. | scandal-in-bohemia (2026-11-10) |
+| misconception | /ˌmɪskənˈsepʃn/ | n. | 误解，错误的观念 | The geometry, for instance, they taught you at school is founded on a misconception. | time-machine-ch1 (2026-11-11) |
+| mechanism | /ˈmekənɪzəm/ | n. | 机械装置，机件 | On this table he placed the mechanism. | time-machine-ch1 (2026-11-11) |
+| mantel | /ˈmæntl/ | n. | 壁炉架 | two in brass candlesticks upon the mantel and several in sconces | time-machine-ch1 (2026-11-11) |

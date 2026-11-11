@@ -14,3 +14,4 @@
 | unpleasant | /ʌnˈpleznt/ | adj. | 令人不快的，讨厌的 | “No, I’ll look first,” she said, “and see whether it’s marked ‘poison’ or not”; for she had read several nice little histories about children who had got burnt, and eaten up by wild beasts and other unpleasant… | alice-ch1 (2026-11-07) |
 | undated | /ʌnˈdeɪtɪd/ | adj. | 未注明日期的 | The note was undated, and without either signature or address. | scandal-in-bohemia (2026-11-10) |
 | uncourteous | /ʌnˈkɜːtiəs/ | adj. | 无礼的，失礼的 | It is the German who is so uncourteous to his verbs. | scandal-in-bohemia (2026-11-10) |
+| unaccountable | /ˌʌnəˈkaʊntəbl/ | adj. | 无法解释的，莫名其妙的 | is an absolutely unaccountable thing. | time-machine-ch1 (2026-11-11) |

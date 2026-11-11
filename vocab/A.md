@@ -26,3 +26,8 @@ She ate a little bit, and said anxiously to herself, “Which way? | alice-ch1 (
 | august | /ɔːˈɡʌst/ | adj. | 威严的，庄严的 | …the prince’s own eccentric yet august taste. | masque-red-death (2026-11-09) |
 | abhorrent | /əbˈhɒrənt/ | adj. | 令人憎恶的，厌恶的 | All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. | scandal-in-bohemia (2026-11-10) |
 | astrakhan | /ˌæstrəˈkɑːn/ | n. | 羔皮，卷毛羊羔皮 | Heavy bands of astrakhan were slashed across the sleeves. | scandal-in-bohemia (2026-11-10) |
+| adroitly | /əˈdrɔɪtli/ | adv. | 灵巧地，熟练地 | however adroitly done, could have been played upon us under these conditions. | time-machine-ch1 (2026-11-11) |
+| apparatus | /ˌæpəˈreɪtəs/ | n. | 器械，装置 | resting his elbows upon the table and pressing his hands together above the apparatus | time-machine-ch1 (2026-11-11) |
+| askew | /əˈskjuː/ | adj./adv. | 歪斜的（地） | You will notice that it looks singularly askew | time-machine-ch1 (2026-11-11) |
+| anecdote | /ˈænɪkdəʊt/ | n. | 轶事，趣闻 | but before he had finished his preface the Time Traveller came back, and Filby’s anecdote collapsed. | time-machine-ch1 (2026-11-11) |
+| anachronisms | /əˈnækrənɪzəmz/ | n. (pl.) | 时代错误，不合时宜的事物 | Our ancestors had no great tolerance for anachronisms. | time-machine-ch1 (2026-11-11) |

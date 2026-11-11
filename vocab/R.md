@@ -18,3 +18,6 @@
 | remarkable | /rɪˈmɑːkəbl/ | adj. | 非凡的，引人注目的 | There was nothing so very remarkable in that; nor did Alice think it so very much out of the way to hear the Rabbit say to itself, “Oh dear! | alice-ch1 (2026-11-07) |
 | reminiscence | /ˌremɪˈnɪsns/ | n. | 回忆，怀旧的叙述 | …some exasperating reminiscence of him as long and as tedious… | twain-frog (2026-11-08) |
 | recollect | /ˌrekəˈlekt/ | v. | 记起，回忆 | …I don’t recollect exactly, somehow… | twain-frog (2026-11-08) |
+| recondite | /ˈrekəndaɪt/ | adj. | 深奥的，不易懂的 | The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. | time-machine-ch1 (2026-11-11) |
+| radiance | /ˈreɪdiəns/ | n. | 光辉，光芒 | the soft radiance of the incandescent lights in the lilies of silver | time-machine-ch1 (2026-11-11) |
+| reverses | /rɪˈvɜːsɪz/ | v. | 反转，逆转（reverse） | this lever, being pressed over, sends the machine gliding into the future, and this other reverses the motion. | time-machine-ch1 (2026-11-11) |

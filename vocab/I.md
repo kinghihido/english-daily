@@ -30,3 +30,6 @@
 | introspective | /ˌɪntrəˈspektɪv/ | adj. | 内省的，好反思的 | looked me over in his singular introspective fashion. | scandal-in-bohemia (2026-11-10) |
 | incorrigible | /ɪnˈkɒrɪdʒəbl/ | adj. | 不可救药的，屡教不改的 | As to Mary Jane, she is incorrigible. | scandal-in-bohemia (2026-11-10) |
 | iodoform | /aɪˈɒdəfɔːm/ | n. | 碘仿（外用消毒剂） | walks into my rooms smelling of iodoform. | scandal-in-bohemia (2026-11-10) |
+| incandescent | /ˌɪnkænˈdesnt/ | adj. | 白炽的；明亮发光的 | the soft radiance of the incandescent lights in the lilies of silver | time-machine-ch1 (2026-11-11) |
+| instantaneous | /ˌɪnstənˈteɪniəs/ | adj. | 瞬间的，即刻的 | Can an instantaneous cube exist? | time-machine-ch1 (2026-11-11) |
+| indistinct | /ˌɪndɪˈstɪŋkt/ | adj. | 模糊的，不清楚的 | the little machine suddenly swung round, became indistinct, was seen as a ghost for a second perhaps | time-machine-ch1 (2026-11-11) |

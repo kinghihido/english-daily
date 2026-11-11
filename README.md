@@ -23,6 +23,7 @@
 
 | 日期 | 标题 | 分类 |
 |---|---|---|
+| 2026-11-11 | [The Time Machine — Chapter I & II (The Introduction / The Machine)](articles/2026-11-11-time-machine-ch1.md) | 小说 · Science Fiction (Public Domain) |
 | 2026-11-10 | [A Scandal in Bohemia — Opening (The Woman / The Client in Disguise)](articles/2026-11-10-scandal-in-bohemia.md) | 小说 · Short Story (Public Domain) |
 | 2026-11-09 | [The Masque of the Red Death](articles/2026-11-09-masque-red-death.md) | 小说 · Short Story (Public Domain) |
 | 2026-11-08 | [The Celebrated Jumping Frog of Calaveras County](articles/2026-11-08-twain-frog.md) | 小说 · Short Story (Public Domain) |

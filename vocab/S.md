@@ -31,3 +31,6 @@
 | singular | /ˈsɪŋɡjələr/ | adj. | 奇特的，非凡的 | of his clearing up of the singular tragedy of the Atkinson brothers at Trincomalee. | scandal-in-bohemia (2026-11-10) |
 | silhouette | /ˌsɪluˈet/ | n. | 剪影，轮廓 | I saw his tall, spare figure pass twice in a dark silhouette against the blind. | scandal-in-bohemia (2026-11-10) |
 | stethoscope | /ˈsteθəskəʊp/ | n. | 听诊器 | where he has secreted his stethoscope. | scandal-in-bohemia (2026-11-10) |
+| singularly | /ˈsɪŋɡjələli/ | adv. | 异常地，格外地 | You will notice that it looks singularly askew | time-machine-ch1 (2026-11-11) |
+| sconces | /ˈskɒnsɪz/ | n. (pl.) | 壁烛台 | two in brass candlesticks upon the mantel and several in sconces | time-machine-ch1 (2026-11-11) |
+| sleight-of-hand | /ˈslaɪt əv ˈhænd/ | n. | 手法，戏法（sleight of hand） | “Some sleight-of-hand trick or other,” said the Medical Man | time-machine-ch1 (2026-11-11) |
