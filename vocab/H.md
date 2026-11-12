@@ -19,3 +19,6 @@
 | harness | /ˈhɑːnɪs/ | n. | （喻）工作，职务（go into harness 开始干活） | You did not tell me that you intended to go into harness. | scandal-in-bohemia (2026-11-10) |
 | hearthrug | /ˈhɑːθrʌɡ/ | n. | 炉前小地毯 | and set it in front of the fire, with two legs on the hearthrug. | time-machine-ch1 (2026-11-11) |
 | humbug | /ˈhʌmbʌɡ/ | n. | 胡说，骗人的鬼话 | “Let’s see your experiment anyhow,” said the Psychologist, “though it’s all humbug, you know.” | time-machine-ch1 (2026-11-11) |
+| heresy | /ˈherəsi/ | n. | 异端，离经叛道之见 | I incline to Cain's heresy | jekyll-hyde-ch1 (2026-11-12) |
+| hellish | /ˈhelɪʃ/ | adj. | 地狱般的，可怕的 | but it was hellish to see | jekyll-hyde-ch1 (2026-11-12) |
+| harpies | /ˈhɑːrpiːz/ | n. (pl.) | 鹰身女妖；凶悍的女人 | for they were as wild as harpies | jekyll-hyde-ch1 (2026-11-12) |

@@ -16,3 +16,5 @@
 | faculty | /ˈfæklti/ | n. | 官能，才能（常用复） | occupied his immense faculties and extraordinary powers of observation. | scandal-in-bohemia (2026-11-10) |
 | fecundity | /fɪˈkʌndəti/ | n. | 多产；思想丰富，创造力 | as we sat and lazily admired his earnestness over this new paradox (as we thought it) and his fecundity. | time-machine-ch1 (2026-11-11) |
 | forefinger | /ˈfɔːfɪŋɡə/ | n. | 食指 | he took that individual’s hand in his own and told him to put out his forefinger. | time-machine-ch1 (2026-11-11) |
+| florid | /ˈflɔːrɪd/ | adj. | 华丽的，花哨的 | when it veiled its more florid charms | jekyll-hyde-ch1 (2026-11-12) |
+| forgery | /ˈfɔːrdʒəri/ | n. | 伪造，伪件 | I had every reason to believe it was a forgery | jekyll-hyde-ch1 (2026-11-12) |

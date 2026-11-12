@@ -20,3 +20,4 @@
 | misconception | /ˌmɪskənˈsepʃn/ | n. | 误解，错误的观念 | The geometry, for instance, they taught you at school is founded on a misconception. | time-machine-ch1 (2026-11-11) |
 | mechanism | /ˈmekənɪzəm/ | n. | 机械装置，机件 | On this table he placed the mechanism. | time-machine-ch1 (2026-11-11) |
 | mantel | /ˈmæntl/ | n. | 壁炉架 | two in brass candlesticks upon the mantel and several in sconces | time-machine-ch1 (2026-11-11) |
+| mortify | /ˈmɔːrtɪfaɪ/ | v. | 克制，抑制（欲望） | drank gin when he was alone, to mortify a taste for vintages | jekyll-hyde-ch1 (2026-11-12) |

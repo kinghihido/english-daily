@@ -34,3 +34,8 @@
 | singularly | /ˈsɪŋɡjələli/ | adv. | 异常地，格外地 | You will notice that it looks singularly askew | time-machine-ch1 (2026-11-11) |
 | sconces | /ˈskɒnsɪz/ | n. (pl.) | 壁烛台 | two in brass candlesticks upon the mantel and several in sconces | time-machine-ch1 (2026-11-11) |
 | sleight-of-hand | /ˈslaɪt əv ˈhænd/ | n. | 手法，戏法（sleight of hand） | “Some sleight-of-hand trick or other,” said the Medical Man | time-machine-ch1 (2026-11-11) |
+| scanty | /ˈskænti/ | adj. | 不足的，贫乏的 | cold, scanty and embarrassed in discourse | jekyll-hyde-ch1 (2026-11-12) |
+| sinister | /ˈsɪnɪstər/ | adj. | 凶险的，不祥的 | a certain sinister block of building | jekyll-hyde-ch1 (2026-11-12) |
+| sordid | /ˈsɔːrdɪd/ | adj. | 肮脏的，卑劣的 | the marks of prolonged and sordid negligence | jekyll-hyde-ch1 (2026-11-12) |
+| slouched | /slaʊtʃt/ | v. | 懒散地走，垂头弯腰（slouch） | Tramps slouched into the recess | jekyll-hyde-ch1 (2026-11-12) |
+| sneering | /ˈsnɪərɪŋ/ | adj. | 冷笑的，讥讽的 | with a kind of black sneering coolness | jekyll-hyde-ch1 (2026-11-12) |

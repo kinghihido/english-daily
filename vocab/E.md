@@ -26,3 +26,5 @@
 | expounding | /ɪkˈspaʊndɪŋ/ | v. | 阐述，详解（expound） | The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. | time-machine-ch1 (2026-11-11) |
 | eddy | /ˈedi/ | n. | 漩涡，涡流 | as an eddy of faintly glittering brass and ivory | time-machine-ch1 (2026-11-11) |
 | explicit | /ɪkˈsplɪsɪt/ | adj. | 明确的，清楚的 | And now I must be explicit, for this that follows—unless his explanation is to be accepted—is an absolutely unaccountable thing. | time-machine-ch1 (2026-11-11) |
+| eminently | /ˈemɪnəntli/ | adv. | 极其，突出地 | something eminently human beaconed from his eye | jekyll-hyde-ch1 (2026-11-12) |
+| emulously | /ˈemjələsli/ | adv. | 好胜地，争强好胜地 | all emulously hoping to do better still | jekyll-hyde-ch1 (2026-11-12) |

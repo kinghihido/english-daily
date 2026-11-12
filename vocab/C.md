@@ -51,3 +51,5 @@ Soon her eye fell on a little glass box that was lying under the table: she open
 | controvert | /ˌkɒntrəˈvɜːt/ | v. | 反驳，驳斥 | I shall have to controvert one or two ideas that are almost universally accepted. | time-machine-ch1 (2026-11-11) |
 | crystalline | /ˈkrɪstəlaɪn/ | adj. | 水晶般的；透明的 | There was ivory in it, and some transparent crystalline substance. | time-machine-ch1 (2026-11-11) |
 | conjuror | /ˈkʌndʒərə/ | n. | 魔术师，变戏法的人 | and Filby tried to tell us about a conjuror he had seen at Burslem | time-machine-ch1 (2026-11-11) |
+| catholicity | /ˌkæθəˈlɪsəti/ | n. | 宽容，广博 | founded in a similar catholicity of good-nature | jekyll-hyde-ch1 (2026-11-12) |
+| coquetry | /ˈkoʊkɪtri/ | n. | 卖弄，娇媚 | laying out the surplus of their gains in coquetry | jekyll-hyde-ch1 (2026-11-12) |

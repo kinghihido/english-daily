@@ -11,3 +11,4 @@
 | gibe | /dʒaɪb/ | n./v. | 嘲讽，讥笑 | He never spoke of the softer passions, save with a gibe and a sneer. | scandal-in-bohemia (2026-11-10) |
 | gazetteer | /ˌɡæzəˈtɪər/ | n. | 地名词典 | Let us glance at our Continental Gazetteer. | scandal-in-bohemia (2026-11-10) |
 | guinea | /ˈɡɪni/ | n. | 几尼（旧英国金币，合21先令） | A hundred and fifty guineas apiece. | scandal-in-bohemia (2026-11-10) |
+| gable | /ˈɡeɪbl/ | n. | 山墙，三角墙 | a certain sinister block of building thrust forward its gable on the street | jekyll-hyde-ch1 (2026-11-12) |

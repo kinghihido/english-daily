@@ -31,3 +31,7 @@ She ate a little bit, and said anxiously to herself, “Which way? | alice-ch1 (
 | askew | /əˈskjuː/ | adj./adv. | 歪斜的（地） | You will notice that it looks singularly askew | time-machine-ch1 (2026-11-11) |
 | anecdote | /ˈænɪkdəʊt/ | n. | 轶事，趣闻 | but before he had finished his preface the Time Traveller came back, and Filby’s anecdote collapsed. | time-machine-ch1 (2026-11-11) |
 | anachronisms | /əˈnækrənɪzəmz/ | n. (pl.) | 时代错误，不合时宜的事物 | Our ancestors had no great tolerance for anachronisms. | time-machine-ch1 (2026-11-11) |
+| austere | /ɔːˈstɪr/ | adj. | 严厉的，禁欲的 | He was austere with himself | jekyll-hyde-ch1 (2026-11-12) |
+| abreast | /əˈbrest/ | adv. | 并肩，并排 | when they came abreast of the entry | jekyll-hyde-ch1 (2026-11-12) |
+| apothecary | /əˈpɒθəkəri/ | n. | 药剂师，药店老板 | He was the usual cut and dry apothecary | jekyll-hyde-ch1 (2026-11-12) |
+| apocryphal | /əˈpɒkrɪfl/ | adj. | 真伪不明的，可疑的 | the whole business looked apocryphal | jekyll-hyde-ch1 (2026-11-12) |

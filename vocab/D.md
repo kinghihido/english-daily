@@ -26,3 +26,7 @@
 | depopulated | /dɪˈpɒpjuleɪtɪd/ | adj. | 人口锐减的 | When his dominions were half depopulated… | masque-red-death (2026-11-09) |
 | drowsiness | /ˈdraʊzinəs/ | n. | 困倦，昏沉 | the drowsiness of the drug, and the fierce energy of his own keen nature. | scandal-in-bohemia (2026-11-10) |
 | delicately | /ˈdelɪkətli/ | adv. | 精巧地；细致地 | a glittering metallic framework, scarcely larger than a small clock, and very delicately made. | time-machine-ch1 (2026-11-11) |
+| discourse | /ˈdɪskɔːrs/ | n. | 谈话，言谈 | cold, scanty and embarrassed in discourse | jekyll-hyde-ch1 (2026-11-12) |
+| demeanour | /dɪˈmiːnər/ | n. | 举止，神态 | he never marked a shade of change in his demeanour | jekyll-hyde-ch1 (2026-11-12) |
+| damnable | /ˈdæmnəbl/ | adj. | 该死的，可恶的 | a really damnable man | jekyll-hyde-ch1 (2026-11-12) |
+| deformity | /dɪˈfɔːrməti/ | n. | 畸形，缺陷 | He gives a strong feeling of deformity | jekyll-hyde-ch1 (2026-11-12) |

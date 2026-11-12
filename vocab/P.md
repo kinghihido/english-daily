@@ -36,3 +36,4 @@ Presently she began again. | alice-ch1 (2026-11-07) |
 | paradox | /ˈpærədɒks/ | n. | 悖论，自相矛盾的说法 | his earnestness over this new paradox (as we thought it) | time-machine-ch1 (2026-11-11) |
 | peered | /pɪəd/ | v. | 凝视，眯眼细看（peer） | The Medical Man got up out of his chair and peered into the thing. | time-machine-ch1 (2026-11-11) |
 | provincial | /prəˈvɪnʃl/ | adj. | 外省的；地方的 | “I have not,” said the Provincial Mayor. | time-machine-ch1 (2026-11-11) |
+| proprieties | /prəˈpraɪətiz/ | n. (pl.) | 礼节，体面 | the very pink of the proprieties | jekyll-hyde-ch1 (2026-11-12) |

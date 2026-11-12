@@ -21,3 +21,7 @@
 | recondite | /ˈrekəndaɪt/ | adj. | 深奥的，不易懂的 | The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. | time-machine-ch1 (2026-11-11) |
 | radiance | /ˈreɪdiəns/ | n. | 光辉，光芒 | the soft radiance of the incandescent lights in the lilies of silver | time-machine-ch1 (2026-11-11) |
 | reverses | /rɪˈvɜːsɪz/ | v. | 反转，逆转（reverse） | this lever, being pressed over, sends the machine gliding into the future, and this other reverses the motion. | time-machine-ch1 (2026-11-11) |
+| rugged | /ˈrʌɡɪd/ | adj. | 粗糙的，饱经风霜的 | a man of a rugged countenance | jekyll-hyde-ch1 (2026-11-12) |
+| reprove | /rɪˈpruːv/ | v. | 责备，训斥 | inclined to help rather than to reprove | jekyll-hyde-ch1 (2026-11-12) |
+| reputable | /ˈrepjətəbl/ | adj. | 有声望的，体面的 | the last reputable acquaintance | jekyll-hyde-ch1 (2026-11-12) |
+| ravages | /ˈrævɪdʒɪz/ | n. (pl.) | 破坏，毁损 | to repair their ravages | jekyll-hyde-ch1 (2026-11-12) |
