@@ -53,3 +53,5 @@ Soon her eye fell on a little glass box that was lying under the table: she open
 | conjuror | /ˈkʌndʒərə/ | n. | 魔术师，变戏法的人 | and Filby tried to tell us about a conjuror he had seen at Burslem | time-machine-ch1 (2026-11-11) |
 | catholicity | /ˌkæθəˈlɪsəti/ | n. | 宽容，广博 | founded in a similar catholicity of good-nature | jekyll-hyde-ch1 (2026-11-12) |
 | coquetry | /ˈkoʊkɪtri/ | n. | 卖弄，娇媚 | laying out the surplus of their gains in coquetry | jekyll-hyde-ch1 (2026-11-12) |
+| concede | /kənˈsiːd/ | v. | 承认（事实）；让步 | That point is conceded already. | douglass-fourth-of-july (2026-11-15) |
+| canopy | /ˈkænəpi/ | n. | 华盖，天穹 | There is not a man beneath the canopy of heaven | douglass-fourth-of-july (2026-11-15) |

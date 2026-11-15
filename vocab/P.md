@@ -37,3 +37,4 @@ Presently she began again. | alice-ch1 (2026-11-07) |
 | peered | /pɪəd/ | v. | 凝视，眯眼细看（peer） | The Medical Man got up out of his chair and peered into the thing. | time-machine-ch1 (2026-11-11) |
 | provincial | /prəˈvɪnʃl/ | adj. | 外省的；地方的 | “I have not,” said the Provincial Mayor. | time-machine-ch1 (2026-11-11) |
 | proprieties | /prəˈpraɪətiz/ | n. (pl.) | 礼节，体面 | the very pink of the proprieties | jekyll-hyde-ch1 (2026-11-12) |
+| plaintive | /ˈpleɪntɪv/ | adj. | 哀伤的，凄切的 | I can to-day take up the plaintive lament of a peeled and woe-smitten people! | douglass-fourth-of-july (2026-11-15) |

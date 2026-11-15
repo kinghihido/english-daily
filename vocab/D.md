@@ -30,3 +30,4 @@
 | demeanour | /dɪˈmiːnər/ | n. | 举止，神态 | he never marked a shade of change in his demeanour | jekyll-hyde-ch1 (2026-11-12) |
 | damnable | /ˈdæmnəbl/ | adj. | 该死的，可恶的 | a really damnable man | jekyll-hyde-ch1 (2026-11-12) |
 | deformity | /dɪˈfɔːrməti/ | n. | 畸形，缺陷 | He gives a strong feeling of deformity | jekyll-hyde-ch1 (2026-11-12) |
+| disparity | /dɪˈspærəti/ | n. | 悬殊，明显差异 | I say it with a sad sense of the disparity between us. | douglass-fourth-of-july (2026-11-15) |

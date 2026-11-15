@@ -18,3 +18,5 @@
 | forefinger | /ˈfɔːfɪŋɡə/ | n. | 食指 | he took that individual’s hand in his own and told him to put out his forefinger. | time-machine-ch1 (2026-11-11) |
 | florid | /ˈflɔːrɪd/ | adj. | 华丽的，花哨的 | when it veiled its more florid charms | jekyll-hyde-ch1 (2026-11-12) |
 | forgery | /ˈfɔːrdʒəri/ | n. | 伪造，伪件 | I had every reason to believe it was a forgery | jekyll-hyde-ch1 (2026-11-12) |
+| fetter | /ˈfetə/ | n./v. | 镣铐；束缚 | To drag a man in fetters into the grand illuminated temple of liberty | douglass-fourth-of-july (2026-11-15) |
+| flay | /fleɪ/ | v. | 剥皮；鞭打 | to flay their flesh with the lash | douglass-fourth-of-july (2026-11-15) |

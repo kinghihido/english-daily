@@ -10,3 +10,4 @@
 | whiskers | /ˈwɪskəz/ | n. | （猫、兔等的）胡须；腮须 | There was not a moment to be lost: away went Alice like the wind, and was just in time to hear it say, as it turned a corner, “Oh my ears and whiskers, how late it’s getting! | alice-ch1 (2026-11-07) |
 | welded | /ˈweldɪd/ | v. | 焊接；密合（weld 过去式） | …brought furnaces and massy hammers and welded the bolts. | masque-red-death (2026-11-09) |
 | wedlock | /ˈwedlɒk/ | n. | 婚姻，婚状态 | “Wedlock suits you,” he remarked. | scandal-in-bohemia (2026-11-10) |
+| withering | /ˈwɪðərɪŋ/ | adj. | 毁灭性的，令人畏缩的 | withering sarcasm, and stern rebuke | douglass-fourth-of-july (2026-11-15) |

@@ -33,3 +33,6 @@
 | incandescent | /ˌɪnkænˈdesnt/ | adj. | 白炽的；明亮发光的 | the soft radiance of the incandescent lights in the lilies of silver | time-machine-ch1 (2026-11-11) |
 | instantaneous | /ˌɪnstənˈteɪniəs/ | adj. | 瞬间的，即刻的 | Can an instantaneous cube exist? | time-machine-ch1 (2026-11-11) |
 | indistinct | /ˌɪndɪˈstɪŋkt/ | adj. | 模糊的，不清楚的 | the little machine suddenly swung round, became indistinct, was seen as a ghost for a second perhaps | time-machine-ch1 (2026-11-11) |
+| indolence | /ˈɪndələns/ | n. | 懒惰，怠惰 | waste the hard-earned fame of your fathers to cover your indolence | douglass-fourth-of-july (2026-11-15) |
+| immortality | /ˌɪmɔːˈtæləti/ | n. | 不朽，永生 | looking hopefully for life and immortality beyond the grave | douglass-fourth-of-july (2026-11-15) |
+| impiety | /ɪmˈpaɪəti/ | n. | 不敬，亵渎 | mere bombast, fraud, deception, impiety, and hypocrisy | douglass-fourth-of-july (2026-11-15) |

@@ -20,3 +20,4 @@
 | triumphant | /traɪˈʌmfənt/ | adj. | 胜利的，得意洋洋的 | he sent up a great blue triumphant cloud from his cigarette. | scandal-in-bohemia (2026-11-10) |
 | trammels | /ˈtræmlz/ | n. (pl.) | 束缚，羁绊 | when thought runs gracefully free of the trammels of precision. | time-machine-ch1 (2026-11-11) |
 | trampled | /ˈtræmpld/ | v. | 踩踏，践踏（trample） | the man trampled calmly over the child's body | jekyll-hyde-ch1 (2026-11-12) |
+| treason | /ˈtriːzn/ | n. | 叛国罪，背信 | would be treason most scandalous and shocking | douglass-fourth-of-july (2026-11-15) |

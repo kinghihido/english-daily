@@ -12,3 +12,4 @@
 | gazetteer | /ˌɡæzəˈtɪər/ | n. | 地名词典 | Let us glance at our Continental Gazetteer. | scandal-in-bohemia (2026-11-10) |
 | guinea | /ˈɡɪni/ | n. | 几尼（旧英国金币，合21先令） | A hundred and fifty guineas apiece. | scandal-in-bohemia (2026-11-10) |
 | gable | /ˈɡeɪbl/ | n. | 山墙，三角墙 | a certain sinister block of building thrust forward its gable on the street | jekyll-hyde-ch1 (2026-11-12) |
+| grievous | /ˈɡriːvəs/ | adj. | 沉重的，令人痛心的 | whose chains, heavy and grievous yesterday | douglass-fourth-of-july (2026-11-15) |

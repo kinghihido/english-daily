@@ -28,3 +28,5 @@
 | explicit | /ɪkˈsplɪsɪt/ | adj. | 明确的，清楚的 | And now I must be explicit, for this that follows—unless his explanation is to be accepted—is an absolutely unaccountable thing. | time-machine-ch1 (2026-11-11) |
 | eminently | /ˈemɪnəntli/ | adv. | 极其，突出地 | something eminently human beaconed from his eye | jekyll-hyde-ch1 (2026-11-12) |
 | emulously | /ˈemjələsli/ | adv. | 好胜地，争强好胜地 | all emulously hoping to do better still | jekyll-hyde-ch1 (2026-11-12) |
+| eulogize | /ˈjuːlədʒaɪz/ | v. | 颂扬，赞美 | men seldom eulogize the wisdom and virtues of their fathers | douglass-fourth-of-july (2026-11-15) |
+| equivocate | /ɪˈkwɪvəkeɪt/ | v. | 含糊其辞，支吾 | "I will not equivocate; I will not excuse;" | douglass-fourth-of-july (2026-11-15) |

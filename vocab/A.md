@@ -35,3 +35,5 @@ She ate a little bit, and said anxiously to herself, “Which way? | alice-ch1 (
 | abreast | /əˈbrest/ | adv. | 并肩，并排 | when they came abreast of the entry | jekyll-hyde-ch1 (2026-11-12) |
 | apothecary | /əˈpɒθəkəri/ | n. | 药剂师，药店老板 | He was the usual cut and dry apothecary | jekyll-hyde-ch1 (2026-11-12) |
 | apocryphal | /əˈpɒkrɪfl/ | adj. | 真伪不明的，可疑的 | the whole business looked apocryphal | jekyll-hyde-ch1 (2026-11-12) |
+| abolitionist | /ˌæbəˈlɪʃənɪst/ | n. | 废奴主义者 | you and your brother abolitionists fail to make a favorable impression | douglass-fourth-of-july (2026-11-15) |
+| argumentation | /ˌɑːɡjumenˈteɪʃn/ | n. | 论证，辩论 | Is it to be settled by the rules of logic and argumentation | douglass-fourth-of-july (2026-11-15) |

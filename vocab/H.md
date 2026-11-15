@@ -22,3 +22,5 @@
 | heresy | /ˈherəsi/ | n. | 异端，离经叛道之见 | I incline to Cain's heresy | jekyll-hyde-ch1 (2026-11-12) |
 | hellish | /ˈhelɪʃ/ | adj. | 地狱般的，可怕的 | but it was hellish to see | jekyll-hyde-ch1 (2026-11-12) |
 | harpies | /ˈhɑːrpiːz/ | n. (pl.) | 鹰身女妖；凶悍的女人 | for they were as wild as harpies | jekyll-hyde-ch1 (2026-11-12) |
+| hallelujah | /ˌhælɪˈluːjə/ | n. | 哈利路亚（赞美上帝之歌） | swell the hallelujahs of a nation's jubilee | douglass-fourth-of-july (2026-11-15) |
+| hypocrisy | /hɪˈpɒkrəsi/ | n. | 虚伪，伪善 | the hypocrisy of the nation must be exposed | douglass-fourth-of-july (2026-11-15) |

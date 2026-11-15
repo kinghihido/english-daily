@@ -24,3 +24,7 @@ And so it was indeed: she was now only ten inches high, and her face brightened 
 | brazier | /ˈbreɪʒər/ | n. | 火盆，炭火炉 | …a heavy tripod, bearing a brazier of fire… | masque-red-death (2026-11-09) |
 | brougham | /bruːm/ | n. | 四轮轻便马车 | A nice little brougham and a pair of beauties. | scandal-in-bohemia (2026-11-10) |
 | beacon | /ˈbiːkən/ | v. | 照耀，闪现 | something eminently human beaconed from his eye | jekyll-hyde-ch1 (2026-11-12) |
+| bequeath | /bɪˈkwiːð/ | v. | 遗赠，留传 | The rich inheritance ... bequeathed by your fathers | douglass-fourth-of-july (2026-11-15) |
+| brute | /bruːt/ | n. | 牲畜，兽类 | distinguish the slave from a brute | douglass-fourth-of-july (2026-11-15) |
+| blasphemy | /ˈblæsfəmi/ | n. | 亵渎，渎神 | There is blasphemy in the thought. | douglass-fourth-of-july (2026-11-15) |
+| bombast | /ˈbɒmbæst/ | n. | 夸夸其谈，大话 | are, to him, mere bombast, fraud, deception | douglass-fourth-of-july (2026-11-15) |

@@ -39,3 +39,11 @@
 | sordid | /ˈsɔːrdɪd/ | adj. | 肮脏的，卑劣的 | the marks of prolonged and sordid negligence | jekyll-hyde-ch1 (2026-11-12) |
 | slouched | /slaʊtʃt/ | v. | 懒散地走，垂头弯腰（slouch） | Tramps slouched into the recess | jekyll-hyde-ch1 (2026-11-12) |
 | sneering | /ˈsnɪərɪŋ/ | adj. | 冷笑的，讥讽的 | with a kind of black sneering coolness | jekyll-hyde-ch1 (2026-11-12) |
+| sepulchre | /ˈseplkər/ | n. | 坟墓，墓穴 | garnished the sepulchres of the righteous | douglass-fourth-of-july (2026-11-15) |
+| servitude | /ˈsɜːvɪtjuːd/ | n. | 奴役，劳役 | when the chains of servitude had been torn from his limbs | douglass-fourth-of-july (2026-11-15) |
+| sacrilegious | /ˌsækrɪˈlɪdʒəs/ | adj. | 亵渎神圣的 | were inhuman mockery and sacrilegious irony | douglass-fourth-of-july (2026-11-15) |
+| statute | /ˈstætʃuːt/ | n. | 法令，法规 | Southern statute books are covered with enactments | douglass-fourth-of-july (2026-11-15) |
+| sunder | /ˈsʌndər/ | v. | 撕裂，拆散 | to sunder their families | douglass-fourth-of-july (2026-11-15) |
+| scorching | /ˈskɔːtʃɪŋ/ | adj. | 灼热的，尖刻的 | scorching irony, not convincing argument, is needed | douglass-fourth-of-july (2026-11-15) |
+| sarcasm | /ˈsɑːrkæzəm/ | n. | 讽刺，挖苦 | blasting reproach, withering sarcasm, and stern rebuke | douglass-fourth-of-july (2026-11-15) |
+| sham | /ʃæm/ | n. | 骗局，伪善 | your celebration is a sham | douglass-fourth-of-july (2026-11-15) |

@@ -25,3 +25,7 @@
 | reprove | /rɪˈpruːv/ | v. | 责备，训斥 | inclined to help rather than to reprove | jekyll-hyde-ch1 (2026-11-12) |
 | reputable | /ˈrepjətəbl/ | adj. | 有声望的，体面的 | the last reputable acquaintance | jekyll-hyde-ch1 (2026-11-12) |
 | ravages | /ˈrævɪdʒɪz/ | n. (pl.) | 破坏，毁损 | to repair their ravages | jekyll-hyde-ch1 (2026-11-12) |
+| repudiate | /rɪˈpjuːdieɪt/ | v. | 否认，摒弃 | while they repudiated the deeds which made his name great | douglass-fourth-of-july (2026-11-15) |
+| revolting | /rɪˈvəʊltɪŋ/ | adj. | 令人作呕的，反叛的 | the conduct of the nation seems equally hideous and revolting | douglass-fourth-of-july (2026-11-15) |
+| ridicule | /ˈrɪdɪkjuːl/ | n./v. | 嘲笑，奚落 | a fiery stream of biting ridicule | douglass-fourth-of-july (2026-11-15) |
+| rebuke | /rɪˈbjuːk/ | n./v. | 斥责，谴责 | withering sarcasm, and stern rebuke | douglass-fourth-of-july (2026-11-15) |
