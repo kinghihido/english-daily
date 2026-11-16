@@ -21,3 +21,5 @@
 | mechanism | /ˈmekənɪzəm/ | n. | 机械装置，机件 | On this table he placed the mechanism. | time-machine-ch1 (2026-11-11) |
 | mantel | /ˈmæntl/ | n. | 壁炉架 | two in brass candlesticks upon the mantel and several in sconces | time-machine-ch1 (2026-11-11) |
 | mortify | /ˈmɔːrtɪfaɪ/ | v. | 克制，抑制（欲望） | drank gin when he was alone, to mortify a taste for vintages | jekyll-hyde-ch1 (2026-11-12) |
+| marrow | /ˈmærəʊ/ | n. | 骨髓；（喻）精华，精髓 | I wanted to live deep and suck out all the marrow of life | walden-where-i-lived (2026-11-16) |
+| myriad | /ˈmɪriəd/ | n./adj. | 无数，大量 | what do you care for a myriad instances and applications? | walden-where-i-lived (2026-11-16) |

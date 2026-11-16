@@ -14,3 +14,4 @@
 | loveliest | /ˈlʌvliɪst/ | adj. | 最可爱的，最美丽的（lovely 最高级） | Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever saw. | alice-ch1 (2026-11-07) |
 | lattice | /ˈlætɪs/ | n. | 格子，格栅 | Smiley kep’ the beast in a little lattice box… | twain-frog (2026-11-08) |
 | loathe | /ləʊð/ | v. | 厌恶，憎恨 | Holmes, who loathed every form of society with his whole Bohemian soul. | scandal-in-bohemia (2026-11-10) |
+| lucid | /ˈluːsɪd/ | adj. | 清晰易懂的，头脑清醒的 | the most succinct and lucid reports | walden-where-i-lived (2026-11-16) |

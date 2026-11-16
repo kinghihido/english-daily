@@ -24,3 +24,4 @@
 | harpies | /ˈhɑːrpiːz/ | n. (pl.) | 鹰身女妖；凶悍的女人 | for they were as wild as harpies | jekyll-hyde-ch1 (2026-11-12) |
 | hallelujah | /ˌhælɪˈluːjə/ | n. | 哈利路亚（赞美上帝之歌） | swell the hallelujahs of a nation's jubilee | douglass-fourth-of-july (2026-11-15) |
 | hypocrisy | /hɪˈpɒkrəsi/ | n. | 虚伪，伪善 | the hypocrisy of the nation must be exposed | douglass-fourth-of-july (2026-11-15) |
+| heedless | /ˈhiːdləs/ | adj. | 掉以轻心的，不留心的 | ruined by luxury and heedless expense | walden-where-i-lived (2026-11-16) |

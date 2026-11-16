@@ -55,3 +55,4 @@ Soon her eye fell on a little glass box that was lying under the table: she open
 | coquetry | /ˈkoʊkɪtri/ | n. | 卖弄，娇媚 | laying out the surplus of their gains in coquetry | jekyll-hyde-ch1 (2026-11-12) |
 | concede | /kənˈsiːd/ | v. | 承认（事实）；让步 | That point is conceded already. | douglass-fourth-of-july (2026-11-15) |
 | canopy | /ˈkænəpi/ | n. | 华盖，天穹 | There is not a man beneath the canopy of heaven | douglass-fourth-of-july (2026-11-15) |
+| clout | /klaʊt/ | n. | （拳）一击；影响力 | it is error upon error, and clout upon clout | walden-where-i-lived (2026-11-16) |

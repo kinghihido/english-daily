@@ -11,3 +11,4 @@
 | welded | /ˈweldɪd/ | v. | 焊接；密合（weld 过去式） | …brought furnaces and massy hammers and welded the bolts. | masque-red-death (2026-11-09) |
 | wedlock | /ˈwedlɒk/ | n. | 婚姻，婚状态 | “Wedlock suits you,” he remarked. | scandal-in-bohemia (2026-11-10) |
 | withering | /ˈwɪðərɪŋ/ | adj. | 毁灭性的，令人畏缩的 | withering sarcasm, and stern rebuke | douglass-fourth-of-july (2026-11-15) |
+| wretchedness | /ˈretʃɪdnəs/ | n. | 悲惨，不幸 | a superfluous and evitable wretchedness | walden-where-i-lived (2026-11-16) |

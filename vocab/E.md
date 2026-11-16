@@ -30,3 +30,6 @@
 | emulously | /ˈemjələsli/ | adv. | 好胜地，争强好胜地 | all emulously hoping to do better still | jekyll-hyde-ch1 (2026-11-12) |
 | eulogize | /ˈjuːlədʒaɪz/ | v. | 颂扬，赞美 | men seldom eulogize the wisdom and virtues of their fathers | douglass-fourth-of-july (2026-11-15) |
 | equivocate | /ɪˈkwɪvəkeɪt/ | v. | 含糊其辞，支吾 | "I will not equivocate; I will not excuse;" | douglass-fourth-of-july (2026-11-15) |
+| evitable | /ˈevɪtəbl/ | adj. | 可避免的 | a superfluous and evitable wretchedness | walden-where-i-lived (2026-11-16) |
+| excursion | /ɪkˈskɜːʃn/ | n. | 远足，短途旅行；涉猎 | to give a true account of it in my next excursion | walden-where-i-lived (2026-11-16) |
+| exhilarating | /ɪɡˈzɪləreɪtɪŋ/ | adj. | 令人振奋的，使人兴高采烈的 | This is always exhilarating and sublime | walden-where-i-lived (2026-11-16) |

@@ -29,3 +29,7 @@
 | revolting | /rɪˈvəʊltɪŋ/ | adj. | 令人作呕的，反叛的 | the conduct of the nation seems equally hideous and revolting | douglass-fourth-of-july (2026-11-15) |
 | ridicule | /ˈrɪdɪkjuːl/ | n./v. | 嘲笑，奚落 | a fiery stream of biting ridicule | douglass-fourth-of-july (2026-11-15) |
 | rebuke | /rɪˈbjuːk/ | n./v. | 斥责，谴责 | withering sarcasm, and stern rebuke | douglass-fourth-of-july (2026-11-15) |
+| resignation | /ˌrezɪɡˈneɪʃn/ | n. | 顺从，听天由命；辞职 | nor did I wish to practise resignation, unless it was quite necessary | walden-where-i-lived (2026-11-16) |
+| rout | /raʊt/ | v./n. | 击溃，驱散，使溃败（put to rout） | as to put to rout all that was not life | walden-where-i-lived (2026-11-16) |
+| reckoning | /ˈrekənɪŋ/ | n. | 推算，估算（dead reckoning 航位推算） | he has to live ... by dead reckoning | walden-where-i-lived (2026-11-16) |
+| rudiment | /ˈruːdɪmənt/ | n. | 雏形，初步，基本要素 | has but the rudiment of an eye himself | walden-where-i-lived (2026-11-16) |

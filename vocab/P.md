@@ -38,3 +38,7 @@ Presently she began again. | alice-ch1 (2026-11-07) |
 | provincial | /prəˈvɪnʃl/ | adj. | 外省的；地方的 | “I have not,” said the Provincial Mayor. | time-machine-ch1 (2026-11-11) |
 | proprieties | /prəˈpraɪətiz/ | n. (pl.) | 礼节，体面 | the very pink of the proprieties | jekyll-hyde-ch1 (2026-11-12) |
 | plaintive | /ˈpleɪntɪv/ | adj. | 哀伤的，凄切的 | I can to-day take up the plaintive lament of a peeled and woe-smitten people! | douglass-fourth-of-july (2026-11-15) |
+| pecuniary | /pɪˈkjuːniəri/ | adj. | 金钱的，财务的 | unless your speculations are of a merely pecuniary character | walden-where-i-lived (2026-11-16) |
+| posterity | /pɒˈsterəti/ | n. | 后代，子孙；后世 | but some of his posterity at least could accomplish it | walden-where-i-lived (2026-11-16) |
+| postage | /ˈpəʊstɪdʒ/ | n. | 邮资，邮费 | that were worth the postage | walden-where-i-lived (2026-11-16) |
+| pygmy | /ˈpɪɡmi/ | n. | 矮人，侏儒 | like pygmies we fight with cranes | walden-where-i-lived (2026-11-16) |

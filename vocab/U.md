@@ -16,3 +16,5 @@
 | uncourteous | /ʌnˈkɜːtiəs/ | adj. | 无礼的，失礼的 | It is the German who is so uncourteous to his verbs. | scandal-in-bohemia (2026-11-10) |
 | unaccountable | /ˌʌnəˈkaʊntəbl/ | adj. | 无法解释的，莫名其妙的 | is an absolutely unaccountable thing. | time-machine-ch1 (2026-11-11) |
 | undemonstrative | /ˌʌndɪˈmɒnstrətɪv/ | adj. | 不喜形于色的，含蓄的 | he was undemonstrative at the best | jekyll-hyde-ch1 (2026-11-12) |
+| unwieldy | /ʌnˈwiːldi/ | adj. | 笨重的，庞大难管的 | such an unwieldy and overgrown establishment | walden-where-i-lived (2026-11-16) |
+| unfathomed | /ʌnˈfæðəmd/ | adj. | 深不可测的，无法理解的 | the dark unfathomed mammoth cave of this world | walden-where-i-lived (2026-11-16) |

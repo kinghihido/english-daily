@@ -31,3 +31,6 @@
 | damnable | /ˈdæmnəbl/ | adj. | 该死的，可恶的 | a really damnable man | jekyll-hyde-ch1 (2026-11-12) |
 | deformity | /dɪˈfɔːrməti/ | n. | 畸形，缺陷 | He gives a strong feeling of deformity | jekyll-hyde-ch1 (2026-11-12) |
 | disparity | /dɪˈspærəti/ | n. | 悬殊，明显差异 | I say it with a sad sense of the disparity between us. | douglass-fourth-of-july (2026-11-15) |
+| deliberately | /dɪˈlɪbərətli/ | adv. | 审慎地，从容不迫地 | I went to the woods because I wished to live deliberately | walden-where-i-lived (2026-11-16) |
+| dignitary | /ˈdɪɡnɪtəri/ | n. | 显贵，要人 | Kieou-he-yu (great dignitary of the state of Wei) | walden-where-i-lived (2026-11-16) |
+| drowsy | /ˈdraʊzi/ | adj. | 昏昏欲睡的，困倦的 | vexing the ears of drowsy farmers on their day of rest | walden-where-i-lived (2026-11-16) |

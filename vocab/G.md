@@ -13,3 +13,5 @@
 | guinea | /ˈɡɪni/ | n. | 几尼（旧英国金币，合21先令） | A hundred and fifty guineas apiece. | scandal-in-bohemia (2026-11-10) |
 | gable | /ˈɡeɪbl/ | n. | 山墙，三角墙 | a certain sinister block of building thrust forward its gable on the street | jekyll-hyde-ch1 (2026-11-12) |
 | grievous | /ˈɡriːvəs/ | adj. | 沉重的，令人痛心的 | whose chains, heavy and grievous yesterday | douglass-fourth-of-july (2026-11-15) |
+| gouge out | /ɡaʊdʒ/ | phr. | 挖出，抠出 | that a man has had his eyes gouged out this morning | walden-where-i-lived (2026-11-16) |
+| gossip | /ˈɡɒsɪp/ | n./v. | 闲话，流言；说长道短 | all news, as it is called, is gossip | walden-where-i-lived (2026-11-16) |

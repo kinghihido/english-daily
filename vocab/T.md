@@ -21,3 +21,4 @@
 | trammels | /ˈtræmlz/ | n. (pl.) | 束缚，羁绊 | when thought runs gracefully free of the trammels of precision. | time-machine-ch1 (2026-11-11) |
 | trampled | /ˈtræmpld/ | v. | 踩踏，践踏（trample） | the man trampled calmly over the child's body | jekyll-hyde-ch1 (2026-11-12) |
 | treason | /ˈtriːzn/ | n. | 叛国罪，背信 | would be treason most scandalous and shocking | douglass-fourth-of-july (2026-11-15) |
+| tinker | /ˈtɪŋkə/ | v. | 摆弄，瞎鼓捣；做小修小补 | but go to tinkering upon our lives to improve them | walden-where-i-lived (2026-11-16) |

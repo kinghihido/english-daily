@@ -47,3 +47,9 @@
 | scorching | /ˈskɔːtʃɪŋ/ | adj. | 灼热的，尖刻的 | scorching irony, not convincing argument, is needed | douglass-fourth-of-july (2026-11-15) |
 | sarcasm | /ˈsɑːrkæzəm/ | n. | 讽刺，挖苦 | blasting reproach, withering sarcasm, and stern rebuke | douglass-fourth-of-july (2026-11-15) |
 | sham | /ʃæm/ | n. | 骗局，伪善 | your celebration is a sham | douglass-fourth-of-july (2026-11-15) |
+| sturdily | /ˈstɜːdɪli/ | adv. | 坚实地，顽强地 | to live so sturdily and Spartan-like | walden-where-i-lived (2026-11-16) |
+| swath | /swɒθ/ | n. | 割下的一行草；宽阔的一条 | to cut a broad swath and shave close | walden-where-i-lived (2026-11-16) |
+| sublime | /səˈblaɪm/ | adj. | 崇高的，庄严的，极致美好的 | or if it were sublime, to know it by experience | walden-where-i-lived (2026-11-16) |
+| superfluous | /suːˈpɜːfluəs/ | adj. | 多余的，过剩的 | a superfluous and evitable wretchedness | walden-where-i-lived (2026-11-16) |
+| supernumerary | /ˌsuːpəˈnjuːmərəri/ | adj./n. | 多余的，额外的；额外人员 | a supernumerary sleeper in the wrong position | walden-where-i-lived (2026-11-16) |
+| succinct | /səkˈsɪŋkt/ | adj. | 简洁的，简明的 | the most succinct and lucid reports | walden-where-i-lived (2026-11-16) |
