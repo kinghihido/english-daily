@@ -36,3 +36,7 @@
 | indolence | /ˈɪndələns/ | n. | 懒惰，怠惰 | waste the hard-earned fame of your fathers to cover your indolence | douglass-fourth-of-july (2026-11-15) |
 | immortality | /ˌɪmɔːˈtæləti/ | n. | 不朽，永生 | looking hopefully for life and immortality beyond the grave | douglass-fourth-of-july (2026-11-15) |
 | impiety | /ɪmˈpaɪəti/ | n. | 不敬，亵渎 | mere bombast, fraud, deception, impiety, and hypocrisy | douglass-fourth-of-july (2026-11-15) |
+| inscription | /ɪnˈskrɪpʃn/ | n. | 题字，铭文 | now that I look at the inscription inside | importance-of-being-earnest (2026-11-17) |
+| incomparable | /ɪnˈkɒmpərəbl/ | adj. | 无与伦比的，不可比拟的 | that incomparable expression | importance-of-being-earnest (2026-11-17) |
+| improbable | /ɪmˈprɒbəbl/ | adj. | 不大可能的；荒唐的 | pray make it improbable | importance-of-being-earnest (2026-11-17) |
+| in consequence of | /ɪnˈkɒnsɪkwəns ɒv/ | phr. | 由于，因为 | That was in consequence of a misunderstanding. | importance-of-being-earnest (2026-11-17) |

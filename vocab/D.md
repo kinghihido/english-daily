@@ -34,3 +34,5 @@
 | deliberately | /dɪˈlɪbərətli/ | adv. | 审慎地，从容不迫地 | I went to the woods because I wished to live deliberately | walden-where-i-lived (2026-11-16) |
 | dignitary | /ˈdɪɡnɪtəri/ | n. | 显贵，要人 | Kieou-he-yu (great dignitary of the state of Wei) | walden-where-i-lived (2026-11-16) |
 | drowsy | /ˈdraʊzi/ | adj. | 昏昏欲睡的，困倦的 | vexing the ears of drowsy farmers on their day of rest | walden-where-i-lived (2026-11-16) |
+| demoralising | /dɪˈmɒrəlaɪzɪŋ/ | adj. | 使道德败坏的；令人沮丧的 | Is marriage so demoralising as that? | importance-of-being-earnest (2026-11-17) |
+| disgraceful | /dɪsˈɡreɪsfl/ | adj. | 可耻的，丢脸的 | the way you flirt with Gwendolen is perfectly disgraceful | importance-of-being-earnest (2026-11-17) |

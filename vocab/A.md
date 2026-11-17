@@ -37,3 +37,6 @@ She ate a little bit, and said anxiously to herself, “Which way? | alice-ch1 (
 | apocryphal | /əˈpɒkrɪfl/ | adj. | 真伪不明的，可疑的 | the whole business looked apocryphal | jekyll-hyde-ch1 (2026-11-12) |
 | abolitionist | /ˌæbəˈlɪʃənɪst/ | n. | 废奴主义者 | you and your brother abolitionists fail to make a favorable impression | douglass-fourth-of-july (2026-11-15) |
 | argumentation | /ˌɑːɡjumenˈteɪʃn/ | n. | 论证，辩论 | Is it to be settled by the rules of logic and argumentation | douglass-fourth-of-july (2026-11-15) |
+| attribute … to | /əˈtrɪbjuːt/ | v. phr. | 把……归因于 | I attribute it to the superior quality of the wine | importance-of-being-earnest (2026-11-17) |
+| absurd | /əbˈsɜːd/ | adj. | 荒谬的，荒唐的 | it is absurd to have a hard and fast rule | importance-of-being-earnest (2026-11-17) |
+| account for | /əˈkaʊnt fɔː/ | v. phr. | 解释，说明（原因） | It accounts for the extraordinary number of bachelors. | importance-of-being-earnest (2026-11-17) |

@@ -28,3 +28,4 @@ And so it was indeed: she was now only ten inches high, and her face brightened 
 | brute | /bruːt/ | n. | 牲畜，兽类 | distinguish the slave from a brute | douglass-fourth-of-july (2026-11-15) |
 | blasphemy | /ˈblæsfəmi/ | n. | 亵渎，渎神 | There is blasphemy in the thought. | douglass-fourth-of-july (2026-11-15) |
 | bombast | /ˈbɒmbæst/ | n. | 夸夸其谈，大话 | are, to him, mere bombast, fraud, deception | douglass-fourth-of-july (2026-11-15) |
+| bachelor | /ˈbætʃələ/ | n. | 单身汉；学士 | the extraordinary number of bachelors | importance-of-being-earnest (2026-11-17) |

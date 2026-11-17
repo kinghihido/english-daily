@@ -33,3 +33,7 @@
 | evitable | /ˈevɪtəbl/ | adj. | 可避免的 | a superfluous and evitable wretchedness | walden-where-i-lived (2026-11-16) |
 | excursion | /ɪkˈskɜːʃn/ | n. | 远足，短途旅行；涉猎 | to give a true account of it in my next excursion | walden-where-i-lived (2026-11-16) |
 | exhilarating | /ɪɡˈzɪləreɪtɪŋ/ | adj. | 令人振奋的，使人兴高采烈的 | This is always exhilarating and sublime | walden-where-i-lived (2026-11-16) |
+| extravagance | /ɪkˈstrævəɡəns/ | n. | 铺张，奢侈；挥霍 | Why such reckless extravagance in one so young? | importance-of-being-earnest (2026-11-17) |
+| expressly | /ɪkˈspresli/ | adv. | 特意地，专门地 | I have come up to town expressly to propose to her. | importance-of-being-earnest (2026-11-17) |
+| essence | /ˈesns/ | n. | 本质，精髓 | The very essence of romance is uncertainty. | importance-of-being-earnest (2026-11-17) |
+| earnest | /ˈɜːnɪst/ | adj. | 认真的，热切的（此处与人名 Ernest 双关） | the most earnest-looking person I ever saw | importance-of-being-earnest (2026-11-17) |

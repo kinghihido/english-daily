@@ -23,3 +23,5 @@
 | founder | /ˈfaʊndə/ | v. | （船）沉没；失败，垮掉 | if he would not founder and go to the bottom | walden-where-i-lived (2026-11-16) |
 | fritter away | /ˈfrɪtə/ | phr. | 浪费，挥霍（逐点消耗掉） | Our life is frittered away by detail | walden-where-i-lived (2026-11-16) |
 | front | /frʌnt/ | v. | 直面，正视（此处作动词） | to front only the essential facts of life | walden-where-i-lived (2026-11-16) |
+| forte | /fɔːt/ | n. | 强项，拿手好戏 | sentiment is my forte | importance-of-being-earnest (2026-11-17) |
+| frantic | /ˈfræntɪk/ | adj. | 急得发狂的，手忙脚乱的 | I have been writing frantic letters to Scotland Yard | importance-of-being-earnest (2026-11-17) |

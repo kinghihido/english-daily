@@ -33,3 +33,5 @@
 | rout | /raʊt/ | v./n. | 击溃，驱散，使溃败（put to rout） | as to put to rout all that was not life | walden-where-i-lived (2026-11-16) |
 | reckoning | /ˈrekənɪŋ/ | n. | 推算，估算（dead reckoning 航位推算） | he has to live ... by dead reckoning | walden-where-i-lived (2026-11-16) |
 | rudiment | /ˈruːdɪmənt/ | n. | 雏形，初步，基本要素 | has but the rudiment of an eye himself | walden-where-i-lived (2026-11-16) |
+| retreat | /rɪˈtriːt/ | v./n. | 后退，退避 | Retreating to back of sofa. | importance-of-being-earnest (2026-11-17) |
+| reckless | /ˈrekləs/ | adj. | 鲁莽的，不计后果的 | Why such reckless extravagance in one so young? | importance-of-being-earnest (2026-11-17) |

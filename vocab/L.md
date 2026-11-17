@@ -15,3 +15,5 @@
 | lattice | /ˈlætɪs/ | n. | 格子，格栅 | Smiley kep’ the beast in a little lattice box… | twain-frog (2026-11-08) |
 | loathe | /ləʊð/ | v. | 厌恶，憎恨 | Holmes, who loathed every form of society with his whole Bohemian soul. | scandal-in-bohemia (2026-11-10) |
 | lucid | /ˈluːsɪd/ | adj. | 清晰易懂的，头脑清醒的 | the most succinct and lucid reports | walden-where-i-lived (2026-11-16) |
+| lax | /læks/ | adj. | 松懈的，不严格的；放纵的 | Lane's views on marriage seem somewhat lax. | importance-of-being-earnest (2026-11-17) |
+| languidly | /ˈlæŋɡwɪdli/ | adv. | 无精打采地，懒洋洋地 | [Languidly.] I don't know that I am much interested | importance-of-being-earnest (2026-11-17) |

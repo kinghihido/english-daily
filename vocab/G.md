@@ -15,3 +15,5 @@
 | grievous | /ˈɡriːvəs/ | adj. | 沉重的，令人痛心的 | whose chains, heavy and grievous yesterday | douglass-fourth-of-july (2026-11-15) |
 | gouge out | /ɡaʊdʒ/ | phr. | 挖出，抠出 | that a man has had his eyes gouged out this morning | walden-where-i-lived (2026-11-16) |
 | gossip | /ˈɡɒsɪp/ | n./v. | 闲话，流言；说长道短 | all news, as it is called, is gossip | walden-where-i-lived (2026-11-16) |
+| guardian | /ˈɡɑːdiən/ | n. | 监护人 | made me in his will guardian to his grand-daughter | importance-of-being-earnest (2026-11-17) |
+| governess | /ˈɡʌvənəs/ | n. | 家庭女教师 | under the charge of her admirable governess | importance-of-being-earnest (2026-11-17) |

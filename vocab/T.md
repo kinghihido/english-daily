@@ -22,3 +22,4 @@
 | trampled | /ˈtræmpld/ | v. | 踩踏，践踏（trample） | the man trampled calmly over the child's body | jekyll-hyde-ch1 (2026-11-12) |
 | treason | /ˈtriːzn/ | n. | 叛国罪，背信 | would be treason most scandalous and shocking | douglass-fourth-of-july (2026-11-15) |
 | tinker | /ˈtɪŋkə/ | v. | 摆弄，瞎鼓捣；做小修小补 | but go to tinkering upon our lives to improve them | walden-where-i-lived (2026-11-16) |
+| tedious | /ˈtiːdiəs/ | adj. | 乏味的，冗长无趣的 | Modern life would be very tedious | importance-of-being-earnest (2026-11-17) |

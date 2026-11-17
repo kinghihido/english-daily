@@ -53,3 +53,6 @@
 | superfluous | /suːˈpɜːfluəs/ | adj. | 多余的，过剩的 | a superfluous and evitable wretchedness | walden-where-i-lived (2026-11-16) |
 | supernumerary | /ˌsuːpəˈnjuːmərəri/ | adj./n. | 多余的，额外的；额外人员 | a supernumerary sleeper in the wrong position | walden-where-i-lived (2026-11-16) |
 | succinct | /səkˈsɪŋkt/ | adj. | 简洁的，简明的 | the most succinct and lucid reports | walden-where-i-lived (2026-11-16) |
+| salver | /ˈsælvə/ | n. | （端茶点用的）浅托盘 | Hands them on a salver. | importance-of-being-earnest (2026-11-17) |
+| speculate | /ˈspekjuleɪt/ | v. | 推测，臆测；投机 | there is no use speculating on that subject | importance-of-being-earnest (2026-11-17) |
+| scrape | /skreɪp/ | n./v. | 窘境，麻烦；刮擦 | gets into the most dreadful scrapes | importance-of-being-earnest (2026-11-17) |

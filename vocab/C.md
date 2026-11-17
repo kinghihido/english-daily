@@ -56,3 +56,7 @@ Soon her eye fell on a little glass box that was lying under the table: she open
 | concede | /kənˈsiːd/ | v. | 承认（事实）；让步 | That point is conceded already. | douglass-fourth-of-july (2026-11-15) |
 | canopy | /ˈkænəpi/ | n. | 华盖，天穹 | There is not a man beneath the canopy of heaven | douglass-fourth-of-july (2026-11-15) |
 | clout | /klaʊt/ | n. | （拳）一击；影响力 | it is error upon error, and clout upon clout | walden-where-i-lived (2026-11-16) |
+| consent | /kənˈsent/ | n./v. | 同意，准许 | In the second place, I don't give my consent. | importance-of-being-earnest (2026-11-17) |
+| candidly | /ˈkændɪdli/ | adv. | 坦率地，直言不讳地 | I may tell you candidly that the place is not in Shropshire. | importance-of-being-earnest (2026-11-17) |
+| conduce | /kənˈdjuːs/ | v. | 有助于，促成（conduce to） | can hardly be said to conduce very much to either one's health | importance-of-being-earnest (2026-11-17) |
+| customary | /ˈkʌstəməri/ | adj. | customary 惯例的，通常的 | it is customary in good society to take some slight refreshment | importance-of-being-earnest (2026-11-17) |

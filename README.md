@@ -23,6 +23,7 @@
 
 | 日期 | 标题 | 分类 |
 |---|---|---|
+| 2026-11-17 | [The Importance of Being Earnest — Act I (Opening)](articles/2026-11-17-importance-of-being-earnest.md) | 戏剧 · Comedy of Manners (Public Domain) |
 | 2026-11-16 | [Walden — Where I Lived, and What I Lived For (Excerpt)](articles/2026-11-16-walden-where-i-lived.md) | 散文 · Philosophy / Nature Memoir (Public Domain) |
 | 2026-11-15 | [What to the Slave Is the Fourth of July? — Excerpt (The Present)](articles/2026-11-15-douglass-fourth-of-july.md) | 演讲 · Oration (Public Domain) |
 | 2026-11-12 | [The Strange Case of Dr Jekyll and Mr Hyde — Chapter 1 (Story of the Door)](articles/2026-11-12-jekyll-hyde-ch1.md) | 小说 · Novella / Gothic (Public Domain) |
