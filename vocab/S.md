@@ -56,3 +56,5 @@
 | salver | /ˈsælvə/ | n. | （端茶点用的）浅托盘 | Hands them on a salver. | importance-of-being-earnest (2026-11-17) |
 | speculate | /ˈspekjuleɪt/ | v. | 推测，臆测；投机 | there is no use speculating on that subject | importance-of-being-earnest (2026-11-17) |
 | scrape | /skreɪp/ | n./v. | 窘境，麻烦；刮擦 | gets into the most dreadful scrapes | importance-of-being-earnest (2026-11-17) |
+| shrill | /ʃrɪl/ | adj. | （声音）尖锐的，刺耳的 | in a shrill but distinct voice | gulliver-lilliput-ch1 (2026-11-18) |
+| submissive | /səbˈmɪsɪv/ | adj. | 顺从的，谦卑的 | in the most submissive manner | gulliver-lilliput-ch1 (2026-11-18) |

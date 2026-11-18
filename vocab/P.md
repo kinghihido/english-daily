@@ -42,3 +42,8 @@ Presently she began again. | alice-ch1 (2026-11-07) |
 | posterity | /pɒˈsterəti/ | n. | 后代，子孙；后世 | but some of his posterity at least could accomplish it | walden-where-i-lived (2026-11-16) |
 | postage | /ˈpəʊstɪdʒ/ | n. | 邮资，邮费 | that were worth the postage | walden-where-i-lived (2026-11-16) |
 | pygmy | /ˈpɪɡmi/ | n. | 矮人，侏儒 | like pygmies we fight with cranes | walden-where-i-lived (2026-11-16) |
+| portion | /ˈpɔːʃn/ | n. | 一份；此处指嫁妆 | I received four hundred pounds for a portion. | gulliver-lilliput-ch1 (2026-11-18) |
+| prosperous | /ˈprɒspərəs/ | adj. | 顺利的，兴隆的 | our voyage at first was very prosperous | gulliver-lilliput-ch1 (2026-11-18) |
+| posture | /ˈpɒstʃə/ | n. | 姿势，姿态 | in the posture I lay, could see nothing except the sky | gulliver-lilliput-ch1 (2026-11-18) |
+| pierce | /pɪəs/ | v. | 刺穿，穿透 | which they could not pierce | gulliver-lilliput-ch1 (2026-11-18) |
+| prudent | /ˈpruːdnt/ | adj. | 谨慎的，明智的 | the most prudent method to lie still | gulliver-lilliput-ch1 (2026-11-18) |

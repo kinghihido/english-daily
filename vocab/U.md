@@ -20,3 +20,4 @@
 | unfathomed | /ʌnˈfæðəmd/ | adj. | 深不可测的，无法理解的 | the dark unfathomed mammoth cave of this world | walden-where-i-lived (2026-11-16) |
 | utterly | /ˈʌtəli/ | adv. | 完全地，彻底地 | How utterly unromantic you are! | importance-of-being-earnest (2026-11-17) |
 | ungentlemanly | /ʌnˈdʒentlmənli/ | adj. | 有失绅士风度的，不体面的 | It is a very ungentlemanly thing to read a private cigarette case. | importance-of-being-earnest (2026-11-17) |
+| uneasiness | /ʌnˈiːzinəs/ | n. | 不安，忧虑 | in great uneasiness | gulliver-lilliput-ch1 (2026-11-18) |

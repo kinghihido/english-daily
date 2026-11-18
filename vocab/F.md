@@ -25,3 +25,7 @@
 | front | /frʌnt/ | v. | 直面，正视（此处作动词） | to front only the essential facts of life | walden-where-i-lived (2026-11-16) |
 | forte | /fɔːt/ | n. | 强项，拿手好戏 | sentiment is my forte | importance-of-being-earnest (2026-11-17) |
 | frantic | /ˈfræntɪk/ | adj. | 急得发狂的，手忙脚乱的 | I have been writing frantic letters to Scotland Yard | importance-of-being-earnest (2026-11-17) |
+| facility | /fəˈsɪləti/ | n. | 天赋，才能；便利 | I had a great facility, by the strength of my memory. | gulliver-lilliput-ch1 (2026-11-18) |
+| flurry | /ˈflʌri/ | n. | 一阵疾风；慌乱 | a sudden flurry from the north | gulliver-lilliput-ch1 (2026-11-18) |
+| famished | /ˈfæmɪʃt/ | adj. | 极饿的，饿坏了的 | being almost famished with hunger | gulliver-lilliput-ch1 (2026-11-18) |
+| forbear | /fɔːˈbeə/ | v. | 克制，忍住 | I could not forbear showing my impatience | gulliver-lilliput-ch1 (2026-11-18) |

@@ -36,3 +36,4 @@
 | drowsy | /ˈdraʊzi/ | adj. | 昏昏欲睡的，困倦的 | vexing the ears of drowsy farmers on their day of rest | walden-where-i-lived (2026-11-16) |
 | demoralising | /dɪˈmɒrəlaɪzɪŋ/ | adj. | 使道德败坏的；令人沮丧的 | Is marriage so demoralising as that? | importance-of-being-earnest (2026-11-17) |
 | disgraceful | /dɪsˈɡreɪsfl/ | adj. | 可耻的，丢脸的 | the way you flirt with Gwendolen is perfectly disgraceful | importance-of-being-earnest (2026-11-17) |
+| declivity | /dɪˈklɪvəti/ | n. | 下坡，斜坡 | The declivity was so small... | gulliver-lilliput-ch1 (2026-11-18) |

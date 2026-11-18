@@ -37,3 +37,5 @@
 | expressly | /ɪkˈspresli/ | adv. | 特意地，专门地 | I have come up to town expressly to propose to her. | importance-of-being-earnest (2026-11-17) |
 | essence | /ˈesns/ | n. | 本质，精髓 | The very essence of romance is uncertainty. | importance-of-being-earnest (2026-11-17) |
 | earnest | /ˈɜːnɪst/ | adj. | 认真的，热切的（此处与人名 Ernest 双关） | the most earnest-looking person I ever saw | importance-of-being-earnest (2026-11-17) |
+| eminent | /ˈemɪnənt/ | adj. | 杰出的，有名的 | an eminent surgeon in London | gulliver-lilliput-ch1 (2026-11-18) |
+| excessive | /ɪkˈsesɪv/ | adj. | 过度的，过分的 | which gave me excessive pain | gulliver-lilliput-ch1 (2026-11-18) |

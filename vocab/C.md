@@ -60,3 +60,5 @@ Soon her eye fell on a little glass box that was lying under the table: she open
 | candidly | /ˈkændɪdli/ | adv. | 坦率地，直言不讳地 | I may tell you candidly that the place is not in Shropshire. | importance-of-being-earnest (2026-11-17) |
 | conduce | /kənˈdjuːs/ | v. | 有助于，促成（conduce to） | can hardly be said to conduce very much to either one's health | importance-of-being-earnest (2026-11-17) |
 | customary | /ˈkʌstəməri/ | adj. | customary 惯例的，通常的 | it is customary in good society to take some slight refreshment | importance-of-being-earnest (2026-11-17) |
+| conscience | /ˈkɒnʃəns/ | n. | 良心，良知 | my conscience would not suffer me to imitate... | gulliver-lilliput-ch1 (2026-11-18) |
+| conjecture | /kənˈdʒektʃə/ | v./n. | 推测，猜想 | which I conjectured was about eight o'clock | gulliver-lilliput-ch1 (2026-11-18) |

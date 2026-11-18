@@ -11,3 +11,6 @@
 | obstinacy | /əbˈstɪnəsi/ | n. | 固执，倔强 | a long, straight chin suggestive of resolution pushed to the length of obstinacy. | scandal-in-bohemia (2026-11-10) |
 | octagonal | /ɒkˈtæɡənl/ | adj. | 八边形的 | He took one of the small octagonal tables that were scattered about the room | time-machine-ch1 (2026-11-11) |
 | obdurate | /ˈɒbdjərət/ | adj. | 顽固不化的，冷酷的 | Who so obdurate and dead to the claims of gratitude | douglass-fourth-of-july (2026-11-15) |
+| overset | /ˌəʊvəˈset/ | v. | 倾覆，翻倒（过去式同形） | the boat was overset by a sudden flurry | gulliver-lilliput-ch1 (2026-11-18) |
+| orator | /ˈɒrətə/ | n. | 演说家，雄辩者 | He acted every part of an orator. | gulliver-lilliput-ch1 (2026-11-18) |
+| oration | /ɔːˈreɪʃn/ | n. | 演说，演讲 | before the principal person began his oration | gulliver-lilliput-ch1 (2026-11-18) |

@@ -12,3 +12,5 @@
 | wedlock | /ˈwedlɒk/ | n. | 婚姻，婚状态 | “Wedlock suits you,” he remarked. | scandal-in-bohemia (2026-11-10) |
 | withering | /ˈwɪðərɪŋ/ | adj. | 毁灭性的，令人畏缩的 | withering sarcasm, and stern rebuke | douglass-fourth-of-july (2026-11-15) |
 | wretchedness | /ˈretʃɪdnəs/ | n. | 悲惨，不幸 | a superfluous and evitable wretchedness | walden-where-i-lived (2026-11-16) |
+| weary | /ˈwɪəri/ | adj. | 厌倦的，疲惫的 | I grew weary of the sea | gulliver-lilliput-ch1 (2026-11-18) |
+| wrench | /rentʃ/ | v. | 猛扭，猛拽 | wrench out the pegs that fastened my left arm | gulliver-lilliput-ch1 (2026-11-18) |

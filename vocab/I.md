@@ -40,3 +40,5 @@
 | incomparable | /ɪnˈkɒmpərəbl/ | adj. | 无与伦比的，不可比拟的 | that incomparable expression | importance-of-being-earnest (2026-11-17) |
 | improbable | /ɪmˈprɒbəbl/ | adj. | 不大可能的；荒唐的 | pray make it improbable | importance-of-being-earnest (2026-11-17) |
 | in consequence of | /ɪnˈkɒnsɪkwəns ɒv/ | phr. | 由于，因为 | That was in consequence of a misunderstanding. | importance-of-being-earnest (2026-11-17) |
+| imitate | /ˈɪmɪteɪt/ | v. | 模仿，仿效 | to imitate the bad practice of too many | gulliver-lilliput-ch1 (2026-11-18) |
+| immoderate | /ɪˈmɒdərət/ | adj. | 过度的，无节制的 | Twelve of our crew were dead by immoderate labour | gulliver-lilliput-ch1 (2026-11-18) |

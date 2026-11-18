@@ -29,3 +29,4 @@ And so it was indeed: she was now only ten inches high, and her face brightened 
 | blasphemy | /ˈblæsfəmi/ | n. | 亵渎，渎神 | There is blasphemy in the thought. | douglass-fourth-of-july (2026-11-15) |
 | bombast | /ˈbɒmbæst/ | n. | 夸夸其谈，大话 | are, to him, mere bombast, fraud, deception | douglass-fourth-of-july (2026-11-15) |
 | bachelor | /ˈbætʃələ/ | n. | 单身汉；学士 | the extraordinary number of bachelors | importance-of-being-earnest (2026-11-17) |
+| brethren | /ˈbreðrən/ | n. | 弟兄们，同仁（旧式复数） | too many among my brethren | gulliver-lilliput-ch1 (2026-11-18) |

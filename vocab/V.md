@@ -15,3 +15,4 @@
 | vizard | /ˈvɪzəd/ | n. | 面罩，假面具 | a black vizard mask, which he had apparently adjusted that very moment. | scandal-in-bohemia (2026-11-10) |
 | vex | /veks/ | v. | 使烦恼，使困扰 | instead of vexing the ears of drowsy farmers | walden-where-i-lived (2026-11-16) |
 | vulgar | /ˈvʌlɡə/ | adj. | 粗俗的，庸俗的 | It is very vulgar to talk like a dentist | importance-of-being-earnest (2026-11-17) |
+| volley | /ˈvɒli/ | n. | 齐射，一排箭/枪 | they discharged another volley larger than the first | gulliver-lilliput-ch1 (2026-11-18) |

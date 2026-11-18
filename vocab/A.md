@@ -40,3 +40,7 @@ She ate a little bit, and said anxiously to herself, “Which way? | alice-ch1 (
 | attribute … to | /əˈtrɪbjuːt/ | v. phr. | 把……归因于 | I attribute it to the superior quality of the wine | importance-of-being-earnest (2026-11-17) |
 | absurd | /əbˈsɜːd/ | adj. | 荒谬的，荒唐的 | it is absurd to have a hard and fast rule | importance-of-being-earnest (2026-11-17) |
 | account for | /əˈkaʊnt fɔː/ | v. phr. | 解释，说明（原因） | It accounts for the extraordinary number of bachelors. | importance-of-being-earnest (2026-11-17) |
+| apprentice | /əˈprentɪs/ | n./v. | 学徒；当学徒 | I was bound apprentice to Mr. James Bates | gulliver-lilliput-ch1 (2026-11-18) |
+| advantageous | /ˌædvənˈteɪdʒəs/ | adj. | 有利的，有益的 | an advantageous offer from Captain William Prichard | gulliver-lilliput-ch1 (2026-11-18) |
+| abate | /əˈbeɪt/ | v. | 减弱，缓和 | the storm was much abated | gulliver-lilliput-ch1 (2026-11-18) |
+| astonishment | /əˈstɒnɪʃmənt/ | n. | 惊讶，惊愕 | I was in the utmost astonishment | gulliver-lilliput-ch1 (2026-11-18) |

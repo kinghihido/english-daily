@@ -27,3 +27,4 @@
 | heedless | /ˈhiːdləs/ | adj. | 掉以轻心的，不留心的 | ruined by luxury and heedless expense | walden-where-i-lived (2026-11-16) |
 | hard up | /hɑːd ʌp/ | phr. | 手头拮据，缺钱 | I happen to be more than usually hard up. | importance-of-being-earnest (2026-11-17) |
 | hard and fast | /hɑːd ənd fɑːst/ | phr. | （规则）严格的，不容变通的 | a hard and fast rule about what one should read | importance-of-being-earnest (2026-11-17) |
+| hazy | /ˈheɪzi/ | adj. | 有薄雾的，朦胧的 | the weather being very hazy | gulliver-lilliput-ch1 (2026-11-18) |

@@ -17,3 +17,5 @@
 | lucid | /ˈluːsɪd/ | adj. | 清晰易懂的，头脑清醒的 | the most succinct and lucid reports | walden-where-i-lived (2026-11-16) |
 | lax | /læks/ | adj. | 松懈的，不严格的；放纵的 | Lane's views on marriage seem somewhat lax. | importance-of-being-earnest (2026-11-17) |
 | languidly | /ˈlæŋɡwɪdli/ | adv. | 无精打采地，懒洋洋地 | [Languidly.] I don't know that I am much interested | importance-of-being-earnest (2026-11-17) |
+| leisure | /ˈleʒə/ | n. | 闲暇，空闲 | My hours of leisure I spent in reading... | gulliver-lilliput-ch1 (2026-11-18) |
+| ligature | /ˈlɪɡətʃə/ | n. | 绑带，绳索 | several slender ligatures across my body | gulliver-lilliput-ch1 (2026-11-18) |
