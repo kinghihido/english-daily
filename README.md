@@ -23,6 +23,7 @@
 
 | 日期 | 标题 | 分类 |
 |---|---|---|
+| 2026-11-19 | [The Autobiography of Benjamin Franklin — Opening (A Life to Live Again)](articles/2026-11-19-franklin-autobiography-opening.md) | 自传 · Autobiography (Public Domain) |
 | 2026-11-18 | [Gulliver's Travels — A Voyage to Lilliput, Chapter I (Excerpt)](articles/2026-11-18-gulliver-lilliput-ch1.md) | 小说 · Satire / Fantasy (Public Domain) |
 | 2026-11-17 | [The Importance of Being Earnest — Act I (Opening)](articles/2026-11-17-importance-of-being-earnest.md) | 戏剧 · Comedy of Manners (Public Domain) |
 | 2026-11-16 | [Walden — Where I Lived, and What I Lived For (Excerpt)](articles/2026-11-16-walden-where-i-lived.md) | 散文 · Philosophy / Nature Memoir (Public Domain) |

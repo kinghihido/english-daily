@@ -62,3 +62,6 @@ Soon her eye fell on a little glass box that was lying under the table: she open
 | customary | /ˈkʌstəməri/ | adj. | customary 惯例的，通常的 | it is customary in good society to take some slight refreshment | importance-of-being-earnest (2026-11-17) |
 | conscience | /ˈkɒnʃəns/ | n. | 良心，良知 | my conscience would not suffer me to imitate... | gulliver-lilliput-ch1 (2026-11-18) |
 | conjecture | /kənˈdʒektʃə/ | v./n. | 推测，猜想 | which I conjectured was about eight o'clock | gulliver-lilliput-ch1 (2026-11-18) |
+| conceal | /kənˈsiːl/ | v. | 隐藏，隐瞒 | to conceal & secure it | franklin-autobiography-opening (2026-11-19) |
+| conducing | /kənˈdjuːsɪŋ/ | adj. | 有助于……的（conduce 现在分词） | the conducing means I made use of | franklin-autobiography-opening (2026-11-19) |
+| conventicle | /kənˈventɪkl/ | n. | （非国教者的）秘密宗教集会 | holding Conventicles in Northamptonshire | franklin-autobiography-opening (2026-11-19) |

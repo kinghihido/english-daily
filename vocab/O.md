@@ -14,3 +14,5 @@
 | overset | /ˌəʊvəˈset/ | v. | 倾覆，翻倒（过去式同形） | the boat was overset by a sudden flurry | gulliver-lilliput-ch1 (2026-11-18) |
 | orator | /ˈɒrətə/ | n. | 演说家，雄辩者 | He acted every part of an orator. | gulliver-lilliput-ch1 (2026-11-18) |
 | oration | /ɔːˈreɪʃn/ | n. | 演说，演讲 | before the principal person began his oration | gulliver-lilliput-ch1 (2026-11-18) |
+| obscure | /əbˈskjʊə/ | adj. | 默默无闻的，不起眼的 | This obscure Family of ours | franklin-autobiography-opening (2026-11-19) |
+| obscurity | /əbˈskjʊrəti/ | n. | 默默无闻，无名 | from the poverty and obscurity in which I was born | franklin-autobiography-opening (2026-11-19) |

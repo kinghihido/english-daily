@@ -47,3 +47,6 @@ Presently she began again. | alice-ch1 (2026-11-07) |
 | posture | /ˈpɒstʃə/ | n. | 姿势，姿态 | in the posture I lay, could see nothing except the sky | gulliver-lilliput-ch1 (2026-11-18) |
 | pierce | /pɪəs/ | v. | 刺穿，穿透 | which they could not pierce | gulliver-lilliput-ch1 (2026-11-18) |
 | prudent | /ˈpruːdnt/ | adj. | 谨慎的，明智的 | the most prudent method to lie still | gulliver-lilliput-ch1 (2026-11-18) |
+| persecution | /ˌpɜːsɪˈkjuːʃn/ | n. | 迫害 | other Sectaries, that had been under Persecution | franklin-autobiography-opening (2026-11-19) |
+| Providence | /ˈprɒvɪdəns/ | n. | 天意，上帝的眷顾 | I owe the mention'd Happiness ... to his kind Providence | franklin-autobiography-opening (2026-11-19) |
+| purport | /ˈpɜːpɔːt/ | n. | 大意，要旨 | the Purport of them was that his Censures proceeded from Good Will | franklin-autobiography-opening (2026-11-19) |

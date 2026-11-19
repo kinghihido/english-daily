@@ -35,3 +35,5 @@
 | rudiment | /ˈruːdɪmənt/ | n. | 雏形，初步，基本要素 | has but the rudiment of an eye himself | walden-where-i-lived (2026-11-16) |
 | retreat | /rɪˈtriːt/ | v./n. | 后退，退避 | Retreating to back of sofa. | importance-of-being-earnest (2026-11-17) |
 | reckless | /ˈrekləs/ | adj. | 鲁莽的，不计后果的 | Why such reckless extravagance in one so young? | importance-of-being-earnest (2026-11-17) |
+| recollection | /ˌrekəˈlekʃn/ | n. | 回忆，追忆 | a Recollection of that Life | franklin-autobiography-opening (2026-11-19) |
+| reformation | /ˌrefəˈmeɪʃn/ | n. | 宗教改革（the Reformation） | was early in the Reformation | franklin-autobiography-opening (2026-11-19) |

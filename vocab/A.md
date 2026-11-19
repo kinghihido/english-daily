@@ -44,3 +44,6 @@ She ate a little bit, and said anxiously to herself, “Which way? | alice-ch1 (
 | advantageous | /ˌædvənˈteɪdʒəs/ | adj. | 有利的，有益的 | an advantageous offer from Captain William Prichard | gulliver-lilliput-ch1 (2026-11-18) |
 | abate | /əˈbeɪt/ | v. | 减弱，缓和 | the storm was much abated | gulliver-lilliput-ch1 (2026-11-18) |
 | astonishment | /əˈstɒnɪʃmənt/ | n. | 惊讶，惊愕 | I was in the utmost astonishment | gulliver-lilliput-ch1 (2026-11-18) |
+| ancestor | /ˈænsestə/ | n. | 祖先，先人 | any little anecdotes of my ancestors | franklin-autobiography-opening (2026-11-19) |
+| affluence | /ˈæfluəns/ | n. | 富裕，富足 | to a state of affluence and some degree of reputation | franklin-autobiography-opening (2026-11-19) |
+| affliction | /əˈflɪkʃn/ | n. | 苦难，折磨 | it is to bless to us even our Afflictions | franklin-autobiography-opening (2026-11-19) |

@@ -39,3 +39,5 @@
 | earnest | /ˈɜːnɪst/ | adj. | 认真的，热切的（此处与人名 Ernest 双关） | the most earnest-looking person I ever saw | importance-of-being-earnest (2026-11-17) |
 | eminent | /ˈemɪnənt/ | adj. | 杰出的，有名的 | an eminent surgeon in London | gulliver-lilliput-ch1 (2026-11-18) |
 | excessive | /ɪkˈsesɪv/ | adj. | 过度的，过分的 | which gave me excessive pain | gulliver-lilliput-ch1 (2026-11-18) |
+| emmet | /ˈemɪt/ | n. | 蚂蚁（古语/方言） | working with them diligently like so many Emmets | franklin-autobiography-opening (2026-11-19) |
+| exhort | /ɪɡˈzɔːt/ | v. | 劝勉，敦促 | exhorting a Repeal of those uncharitable Laws | franklin-autobiography-opening (2026-11-19) |

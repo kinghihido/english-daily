@@ -29,3 +29,5 @@
 | flurry | /ˈflʌri/ | n. | 一阵疾风；慌乱 | a sudden flurry from the north | gulliver-lilliput-ch1 (2026-11-18) |
 | famished | /ˈfæmɪʃt/ | adj. | 极饿的，饿坏了的 | being almost famished with hunger | gulliver-lilliput-ch1 (2026-11-18) |
 | forbear | /fɔːˈbeə/ | v. | 克制，忍住 | I could not forbear showing my impatience | gulliver-lilliput-ch1 (2026-11-18) |
+| felicity | /fəˈlɪsəti/ | n. | 幸福，福气 | a considerable share of felicity | franklin-autobiography-opening (2026-11-19) |
+| freehold | /ˈfriːhəʊld/ | n. | 自由保有的不动产；终身产权 | on a Freehold of about 30 Acres | franklin-autobiography-opening (2026-11-19) |

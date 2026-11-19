@@ -37,3 +37,5 @@
 | demoralising | /dɪˈmɒrəlaɪzɪŋ/ | adj. | 使道德败坏的；令人沮丧的 | Is marriage so demoralising as that? | importance-of-being-earnest (2026-11-17) |
 | disgraceful | /dɪsˈɡreɪsfl/ | adj. | 可耻的，丢脸的 | the way you flirt with Gwendolen is perfectly disgraceful | importance-of-being-earnest (2026-11-17) |
 | declivity | /dɪˈklɪvəti/ | n. | 下坡，斜坡 | The declivity was so small... | gulliver-lilliput-ch1 (2026-11-18) |
+| durable | /ˈdjʊərəbl/ | adj. | 持久的，耐久的 | to make that Recollection as durable as possible | franklin-autobiography-opening (2026-11-19) |
+| dyer | /ˈdaɪə/ | n. | 染工，染色匠 | a Dyer at Banbury in Oxfordshire | franklin-autobiography-opening (2026-11-19) |

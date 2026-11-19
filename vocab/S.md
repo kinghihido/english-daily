@@ -58,3 +58,6 @@
 | scrape | /skreɪp/ | n./v. | 窘境，麻烦；刮擦 | gets into the most dreadful scrapes | importance-of-being-earnest (2026-11-17) |
 | shrill | /ʃrɪl/ | adj. | （声音）尖锐的，刺耳的 | in a shrill but distinct voice | gulliver-lilliput-ch1 (2026-11-18) |
 | submissive | /səbˈmɪsɪv/ | adj. | 顺从的，谦卑的 | in the most submissive manner | gulliver-lilliput-ch1 (2026-11-18) |
+| sermon | /ˈsɜːmən/ | n. | 布道，讲道 | his Shorthand Volumes of Sermons | franklin-autobiography-opening (2026-11-19) |
+| shorthand | /ˈʃɔːthænd/ | n. | 速记 | propos'd to give me all his Shorthand Volumes of Sermons | franklin-autobiography-opening (2026-11-19) |
+| sundry | /ˈsʌndri/ | adj. | 各种各样的，若干的 | he wrote sundry small occasional Pieces | franklin-autobiography-opening (2026-11-19) |

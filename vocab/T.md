@@ -23,3 +23,5 @@
 | treason | /ˈtriːzn/ | n. | 叛国罪，背信 | would be treason most scandalous and shocking | douglass-fourth-of-july (2026-11-15) |
 | tinker | /ˈtɪŋkə/ | v. | 摆弄，瞎鼓捣；做小修小补 | but go to tinkering upon our lives to improve them | walden-where-i-lived (2026-11-16) |
 | tedious | /ˈtiːdiəs/ | adj. | 乏味的，冗长无趣的 | Modern life would be very tedious | importance-of-being-earnest (2026-11-17) |
+| tallow | /ˈtæləʊ/ | n. | 牛脂，兽脂（制烛用） | that of a Tallow Chandler and Soap Boiler | franklin-autobiography-opening (2026-11-19) |
+| tithe | /taɪð/ | n. | 十分之一；什一税 | to devote me as the Tithe of his Sons | franklin-autobiography-opening (2026-11-19) |

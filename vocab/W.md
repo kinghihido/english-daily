@@ -14,3 +14,5 @@
 | wretchedness | /ˈretʃɪdnəs/ | n. | 悲惨，不幸 | a superfluous and evitable wretchedness | walden-where-i-lived (2026-11-16) |
 | weary | /ˈwɪəri/ | adj. | 厌倦的，疲惫的 | I grew weary of the sea | gulliver-lilliput-ch1 (2026-11-18) |
 | wrench | /rentʃ/ | v. | 猛扭，猛拽 | wrench out the pegs that fastened my left arm | gulliver-lilliput-ch1 (2026-11-18) |
+| wharf | /wɔːf/ | n. | 码头，停泊处 | to build a Wharf there fit for us to stand upon | franklin-autobiography-opening (2026-11-19) |
+| wick | /wɪk/ | n. | 灯芯，烛芯 | cutting Wick for the Candles | franklin-autobiography-opening (2026-11-19) |

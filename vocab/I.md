@@ -42,3 +42,6 @@
 | in consequence of | /ɪnˈkɒnsɪkwəns ɒv/ | phr. | 由于，因为 | That was in consequence of a misunderstanding. | importance-of-being-earnest (2026-11-17) |
 | imitate | /ˈɪmɪteɪt/ | v. | 模仿，仿效 | to imitate the bad practice of too many | gulliver-lilliput-ch1 (2026-11-18) |
 | immoderate | /ɪˈmɒdərət/ | adj. | 过度的，无节制的 | Twelve of our crew were dead by immoderate labour | gulliver-lilliput-ch1 (2026-11-18) |
+| induce | /ɪnˈdjuːs/ | v. | 促使，诱导 | induces me to hope, tho' I must not presume | franklin-autobiography-opening (2026-11-19) |
+| indulge | /ɪnˈdʌldʒ/ | v. | 纵情，放任（自己） | I shall indulge the Inclination | franklin-autobiography-opening (2026-11-19) |
+| inclination | /ˌɪnklɪˈneɪʃn/ | n. | 倾向，意愿 | the Inclination so natural in old Men | franklin-autobiography-opening (2026-11-19) |
