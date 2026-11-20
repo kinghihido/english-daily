@@ -65,3 +65,7 @@ Soon her eye fell on a little glass box that was lying under the table: she open
 | conceal | /kənˈsiːl/ | v. | 隐藏，隐瞒 | to conceal & secure it | franklin-autobiography-opening (2026-11-19) |
 | conducing | /kənˈdjuːsɪŋ/ | adj. | 有助于……的（conduce 现在分词） | the conducing means I made use of | franklin-autobiography-opening (2026-11-19) |
 | conventicle | /kənˈventɪkl/ | n. | （非国教者的）秘密宗教集会 | holding Conventicles in Northamptonshire | franklin-autobiography-opening (2026-11-19) |
+| cove | /kəʊv/ | n. | 小海湾；凹入处 | one of those spacious coves which indent the eastern shore | sleepy-hollow (2026-11-20) |
+| cognomen | /kɒɡˈnəʊmən/ | n. | 姓氏，绰号 | The cognomen of Crane was not inapplicable to his person | sleepy-hollow (2026-11-20) |
+| conscientious | /ˌkɒnʃiˈenʃəs/ | adj. | 认真的，尽责的 | he was a conscientious man | sleepy-hollow (2026-11-20) |
+| chastisement | /tʃæˈstaɪzmənt/ | n. | 惩罚，责罚 | he never inflicted a chastisement without ... assurance | sleepy-hollow (2026-11-20) |

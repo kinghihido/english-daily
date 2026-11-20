@@ -30,3 +30,6 @@ And so it was indeed: she was now only ten inches high, and her face brightened 
 | bombast | /ˈbɒmbæst/ | n. | 夸夸其谈，大话 | are, to him, mere bombast, fraud, deception | douglass-fourth-of-july (2026-11-15) |
 | bachelor | /ˈbætʃələ/ | n. | 单身汉；学士 | the extraordinary number of bachelors | importance-of-being-earnest (2026-11-17) |
 | brethren | /ˈbreðrən/ | n. | 弟兄们，同仁（旧式复数） | too many among my brethren | gulliver-lilliput-ch1 (2026-11-18) |
+| bewitch | /bɪˈwɪtʃ/ | v. | 施魔法于，使着迷 | the place was bewitched by a high German doctor | sleepy-hollow (2026-11-20) |
+| burthen | /ˈbɜːðn/ | n. | 负担（burden 的古拼） | taking the burthen off the backs of the weak | sleepy-hollow (2026-11-20) |
+| behoove | /bɪˈhuːv/ | v. | 理应，必须（it behooves sb. to do） | it behooved him to keep on good terms with his pupils | sleepy-hollow (2026-11-20) |

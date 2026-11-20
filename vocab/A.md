@@ -47,3 +47,7 @@ She ate a little bit, and said anxiously to herself, “Which way? | alice-ch1 (
 | ancestor | /ˈænsestə/ | n. | 祖先，先人 | any little anecdotes of my ancestors | franklin-autobiography-opening (2026-11-19) |
 | affluence | /ˈæfluəns/ | n. | 富裕，富足 | to a state of affluence and some degree of reputation | franklin-autobiography-opening (2026-11-19) |
 | affliction | /əˈflɪkʃn/ | n. | 苦难，折磨 | it is to bless to us even our Afflictions | franklin-autobiography-opening (2026-11-19) |
+| advert | /ədˈvɜːt/ | v. | 提及，谈到（advert to） | I do not vouch for the fact, but merely advert to it | sleepy-hollow (2026-11-20) |
+| apparition | /ˌæpəˈrɪʃn/ | n. | 幽灵，幻影；显灵 | the apparition of a figure on horseback without a head | sleepy-hollow (2026-11-20) |
+| abound | /əˈbaʊnd/ | v. | 充满，大量存在 | The whole neighbourhood abounds with local tales | sleepy-hollow (2026-11-20) |
+| allege | /əˈledʒ/ | v. | 声称，断言（未经证实） | certain ... historians ... allege that the body ... was buried | sleepy-hollow (2026-11-20) |

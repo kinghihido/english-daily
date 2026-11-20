@@ -39,3 +39,5 @@
 | declivity | /dɪˈklɪvəti/ | n. | 下坡，斜坡 | The declivity was so small... | gulliver-lilliput-ch1 (2026-11-18) |
 | durable | /ˈdjʊərəbl/ | adj. | 持久的，耐久的 | to make that Recollection as durable as possible | franklin-autobiography-opening (2026-11-19) |
 | dyer | /ˈdaɪə/ | n. | 染工，染色匠 | a Dyer at Banbury in Oxfordshire | franklin-autobiography-opening (2026-11-19) |
+| denominate | /dɪˈnɒmɪneɪt/ | v. | 命名，称作 | the river denominated by the ancient Dutch navigators the Tappaan Zee | sleepy-hollow (2026-11-20) |
+| discrimination | /dɪˌskrɪmɪˈneɪʃn/ | n. | 区别对待；辨别力 | he administered justice with discrimination rather than severity | sleepy-hollow (2026-11-20) |

@@ -37,3 +37,4 @@
 | reckless | /ˈrekləs/ | adj. | 鲁莽的，不计后果的 | Why such reckless extravagance in one so young? | importance-of-being-earnest (2026-11-17) |
 | recollection | /ˌrekəˈlekʃn/ | n. | 回忆，追忆 | a Recollection of that Life | franklin-autobiography-opening (2026-11-19) |
 | reformation | /ˌrefəˈmeɪʃn/ | n. | 宗教改革（the Reformation） | was early in the Reformation | franklin-autobiography-opening (2026-11-19) |
+| reverie | /ˈrevəri/ | n. | 遐想，出神；梦幻 | causing them to walk in a continual reverie | sleepy-hollow (2026-11-20) |

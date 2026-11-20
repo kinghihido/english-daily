@@ -61,3 +61,5 @@
 | sermon | /ˈsɜːmən/ | n. | 布道，讲道 | his Shorthand Volumes of Sermons | franklin-autobiography-opening (2026-11-19) |
 | shorthand | /ˈʃɔːthænd/ | n. | 速记 | propos'd to give me all his Shorthand Volumes of Sermons | franklin-autobiography-opening (2026-11-19) |
 | sundry | /ˈsʌndri/ | adj. | 各种各样的，若干的 | he wrote sundry small occasional Pieces | franklin-autobiography-opening (2026-11-19) |
+| sequestered | /sɪˈkwestəd/ | adj. | 幽僻的，与世隔绝的 | this sequestered glen has long been known as Sleepy Hollow | sleepy-hollow (2026-11-20) |
+| sojourn | /ˈsɒdʒɜːn/ | v. | 逗留，暂住 | who sojourned, or, as he expressed it, "tarried" | sleepy-hollow (2026-11-20) |

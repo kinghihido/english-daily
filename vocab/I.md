@@ -45,3 +45,8 @@
 | induce | /ɪnˈdjuːs/ | v. | 促使，诱导 | induces me to hope, tho' I must not presume | franklin-autobiography-opening (2026-11-19) |
 | indulge | /ɪnˈdʌldʒ/ | v. | 纵情，放任（自己） | I shall indulge the Inclination | franklin-autobiography-opening (2026-11-19) |
 | inclination | /ˌɪnklɪˈneɪʃn/ | n. | 倾向，意愿 | the Inclination so natural in old Men | franklin-autobiography-opening (2026-11-19) |
+| implore | /ɪmˈplɔː(r)/ | v. | 恳求，祈求 | implored the protection of St. Nicholas when they crossed | sleepy-hollow (2026-11-20) |
+| inveterate | /ɪnˈvetərət/ | adj. | 根深蒂固的；积习难改的 | the inveterate propensity of their husbands to linger | sleepy-hollow (2026-11-20) |
+| imbibe | /ɪmˈbaɪb/ | v. | 吸收，汲取（ ideas / influence） | unconsciously imbibed by every one who resides there | sleepy-hollow (2026-11-20) |
+| incessant | /ɪnˈsesnt/ | adj. | 不停的，持续的 | making such incessant changes in other parts | sleepy-hollow (2026-11-20) |
+| ingratiating | /ɪnˈɡreɪʃieɪtɪŋ/ | adj. | 讨人喜欢的，逢迎的 | became wonderfully gentle and ingratiating | sleepy-hollow (2026-11-20) |

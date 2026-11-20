@@ -50,3 +50,7 @@ Presently she began again. | alice-ch1 (2026-11-07) |
 | persecution | /ˌpɜːsɪˈkjuːʃn/ | n. | 迫害 | other Sectaries, that had been under Persecution | franklin-autobiography-opening (2026-11-19) |
 | Providence | /ˈprɒvɪdəns/ | n. | 天意，上帝的眷顾 | I owe the mention'd Happiness ... to his kind Providence | franklin-autobiography-opening (2026-11-19) |
 | purport | /ˈpɜːpɔːt/ | n. | 大意，要旨 | the Purport of them was that his Censures proceeded from Good Will | franklin-autobiography-opening (2026-11-19) |
+| propensity | /prəˈpensəti/ | n. | 倾向，习性 | their inveterate propensity to linger about the village tavern | sleepy-hollow (2026-11-20) |
+| pervade | /pəˈveɪd/ | v. | 弥漫，渗透 | to pervade the very atmosphere | sleepy-hollow (2026-11-20) |
+| peradventure | /ˌpərədˈventʃə(r)/ | adv. | 或许，也许（古语） | or, peradventure, by the appalling sound of the birch | sleepy-hollow (2026-11-20) |
+| potentate | /ˈpəʊtnt eɪt/ | n. | 统治者，当权者 | one of those cruel potentates of the school | sleepy-hollow (2026-11-20) |

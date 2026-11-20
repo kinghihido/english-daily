@@ -24,3 +24,4 @@
 | marrow | /ˈmærəʊ/ | n. | 骨髓；（喻）精华，精髓 | I wanted to live deep and suck out all the marrow of life | walden-where-i-lived (2026-11-16) |
 | myriad | /ˈmɪriəd/ | n./adj. | 无数，大量 | what do you care for a myriad instances and applications? | walden-where-i-lived (2026-11-16) |
 | morsel | /ˈmɔːsl/ | n. | 一小口，少量食物 | having not eaten a morsel for some hours | gulliver-lilliput-ch1 (2026-11-18) |
+| maxim | /ˈmæksɪm/ | n. | 格言，准则 | ever bore in mind the golden maxim | sleepy-hollow (2026-11-20) |

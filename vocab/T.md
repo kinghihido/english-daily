@@ -25,3 +25,5 @@
 | tedious | /ˈtiːdiəs/ | adj. | 乏味的，冗长无趣的 | Modern life would be very tedious | importance-of-being-earnest (2026-11-17) |
 | tallow | /ˈtæləʊ/ | n. | 牛脂，兽脂（制烛用） | that of a Tallow Chandler and Soap Boiler | franklin-autobiography-opening (2026-11-19) |
 | tithe | /taɪð/ | n. | 十分之一；什一税 | to devote me as the Tithe of his Sons | franklin-autobiography-opening (2026-11-19) |
+| trance | /trɑːns/ | n. | 恍惚，出神状态 | They are subject to trances and visions | sleepy-hollow (2026-11-20) |
+| torrent | /ˈtɒrənt/ | n. | 激流；洪流 | the great torrent of migration and improvement | sleepy-hollow (2026-11-20) |

@@ -41,3 +41,5 @@
 | excessive | /ɪkˈsesɪv/ | adj. | 过度的，过分的 | which gave me excessive pain | gulliver-lilliput-ch1 (2026-11-18) |
 | emmet | /ˈemɪt/ | n. | 蚂蚁（古语/方言） | working with them diligently like so many Emmets | franklin-autobiography-opening (2026-11-19) |
 | exhort | /ɪɡˈzɔːt/ | v. | 劝勉，敦促 | exhorting a Repeal of those uncharitable Laws | franklin-autobiography-opening (2026-11-19) |
+| embosom | /ɪmˈbʊzəm/ | v. | 环抱，围绕（embosomed in） | vallies ... embosomed in the great state of New-York | sleepy-hollow (2026-11-20) |
+| elapse | /ɪˈlæps/ | v. | （时间）流逝，过去 | Though many years have elapsed since I trod ... | sleepy-hollow (2026-11-20) |

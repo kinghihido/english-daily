@@ -19,3 +19,5 @@
 | languidly | /ˈlæŋɡwɪdli/ | adv. | 无精打采地，懒洋洋地 | [Languidly.] I don't know that I am much interested | importance-of-being-earnest (2026-11-17) |
 | leisure | /ˈleʒə/ | n. | 闲暇，空闲 | My hours of leisure I spent in reading... | gulliver-lilliput-ch1 (2026-11-18) |
 | ligature | /ˈlɪɡətʃə/ | n. | 绑带，绳索 | several slender ligatures across my body | gulliver-lilliput-ch1 (2026-11-18) |
+| laud | /lɔːd/ | n./v. | 赞美，颂扬 | I mention this peaceful spot with all possible laud | sleepy-hollow (2026-11-20) |
+| lank | /læŋk/ | adj. | 瘦长的，松垮的 | He was tall, but exceedingly lank | sleepy-hollow (2026-11-20) |

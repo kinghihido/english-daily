@@ -16,3 +16,6 @@
 | wrench | /rentʃ/ | v. | 猛扭，猛拽 | wrench out the pegs that fastened my left arm | gulliver-lilliput-ch1 (2026-11-18) |
 | wharf | /wɔːf/ | n. | 码头，停泊处 | to build a Wharf there fit for us to stand upon | franklin-autobiography-opening (2026-11-19) |
 | wick | /wɪk/ | n. | 灯芯，烛芯 | cutting Wick for the Candles | franklin-autobiography-opening (2026-11-19) |
+| wight | /waɪt/ | n. | 人，家伙（古语/文语） | a worthy wight of the name of Ichabod Crane | sleepy-hollow (2026-11-20) |
+| weathercock | /ˈweðəkɒk/ | n. | 风向标 | it looked like a weathercock, perched upon his spindle neck | sleepy-hollow (2026-11-20) |
+| withe | /wɪð/ | n. | 细枝，柳条（编结用） | secured ... by a withe twisted in the handle of the door | sleepy-hollow (2026-11-20) |

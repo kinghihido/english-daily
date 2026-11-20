@@ -16,3 +16,4 @@
 | oration | /ɔːˈreɪʃn/ | n. | 演说，演讲 | before the principal person began his oration | gulliver-lilliput-ch1 (2026-11-18) |
 | obscure | /əbˈskjʊə/ | adj. | 默默无闻的，不起眼的 | This obscure Family of ours | franklin-autobiography-opening (2026-11-19) |
 | obscurity | /əbˈskjʊrəti/ | n. | 默默无闻，无名 | from the poverty and obscurity in which I was born | franklin-autobiography-opening (2026-11-19) |
+| onerous | /ˈəʊnərəs/ | adj. | 繁重的，负担沉重的 | lest it be too onerous on the purses of his rustic patrons | sleepy-hollow (2026-11-20) |
