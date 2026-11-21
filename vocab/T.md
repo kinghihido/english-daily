@@ -27,3 +27,7 @@
 | tithe | /taɪð/ | n. | 十分之一；什一税 | to devote me as the Tithe of his Sons | franklin-autobiography-opening (2026-11-19) |
 | trance | /trɑːns/ | n. | 恍惚，出神状态 | They are subject to trances and visions | sleepy-hollow (2026-11-20) |
 | torrent | /ˈtɒrənt/ | n. | 激流；洪流 | the great torrent of migration and improvement | sleepy-hollow (2026-11-20) |
+| tide-water | /ˈtaɪd ˌwɔːtə(r)/ | n./adj. | 潮汐水域的；河口地带的 | every tide-water dog, strong of muscle | call-of-the-wild (2026-11-21) |
+| toil | /tɔɪl/ | v./n. | 辛苦劳作，苦干 | strong muscles by which to toil | call-of-the-wild (2026-11-21) |
+| tonic | /ˈtɒnɪk/ | n. | 补品，滋补剂；使人振奋的事 | the love of water had been a tonic and a health preserver | call-of-the-wild (2026-11-21) |
+| treachery | /ˈtretʃəri/ | n. | 背叛，背信弃义 | the memorable night of Manuel's treachery | call-of-the-wild (2026-11-21) |

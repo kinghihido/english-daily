@@ -69,3 +69,5 @@ Soon her eye fell on a little glass box that was lying under the table: she open
 | cognomen | /kɒɡˈnəʊmən/ | n. | 姓氏，绰号 | The cognomen of Crane was not inapplicable to his person | sleepy-hollow (2026-11-20) |
 | conscientious | /ˌkɒnʃiˈenʃəs/ | adj. | 认真的，尽责的 | he was a conscientious man | sleepy-hollow (2026-11-20) |
 | chastisement | /tʃæˈstaɪzmənt/ | n. | 惩罚，责罚 | he never inflicted a chastisement without ... assurance | sleepy-hollow (2026-11-20) |
+| conveyance | /kənˈveɪəns/ | n. | 运输工具；车辆 | jolted along in some kind of a conveyance | call-of-the-wild (2026-11-21) |
+| calamity | /kəˈlæməti/ | n. | 灾难，灾祸 | the vague sense of impending calamity | call-of-the-wild (2026-11-21) |

@@ -63,3 +63,5 @@
 | sundry | /ˈsʌndri/ | adj. | 各种各样的，若干的 | he wrote sundry small occasional Pieces | franklin-autobiography-opening (2026-11-19) |
 | sequestered | /sɪˈkwestəd/ | adj. | 幽僻的，与世隔绝的 | this sequestered glen has long been known as Sleepy Hollow | sleepy-hollow (2026-11-20) |
 | sojourn | /ˈsɒdʒɜːn/ | v. | 逗留，暂住 | who sojourned, or, as he expressed it, "tarried" | sleepy-hollow (2026-11-20) |
+| sated | /ˈseɪtɪd/ | adj. | 餍足的，心满意足的 | he had lived the life of a sated aristocrat | call-of-the-wild (2026-11-21) |
+| sullenly | /ˈsʌlənli/ | adv. | 闷闷不乐地，阴沉地 | he lay down sullenly and allowed the crate to be lifted | call-of-the-wild (2026-11-21) |

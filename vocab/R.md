@@ -38,3 +38,4 @@
 | recollection | /ˌrekəˈlekʃn/ | n. | 回忆，追忆 | a Recollection of that Life | franklin-autobiography-opening (2026-11-19) |
 | reformation | /ˌrefəˈmeɪʃn/ | n. | 宗教改革（the Reformation） | was early in the Reformation | franklin-autobiography-opening (2026-11-19) |
 | reverie | /ˈrevəri/ | n. | 遐想，出神；梦幻 | causing them to walk in a continual reverie | sleepy-hollow (2026-11-20) |
+| realm | /relm/ | n. | 王国，领域 | The whole realm was his. | call-of-the-wild (2026-11-21) |

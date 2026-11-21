@@ -33,3 +33,5 @@ And so it was indeed: she was now only ten inches high, and her face brightened 
 | bewitch | /bɪˈwɪtʃ/ | v. | 施魔法于，使着迷 | the place was bewitched by a high German doctor | sleepy-hollow (2026-11-20) |
 | burthen | /ˈbɜːðn/ | n. | 负担（burden 的古拼） | taking the burthen off the backs of the weak | sleepy-hollow (2026-11-20) |
 | behoove | /bɪˈhuːv/ | v. | 理应，必须（it behooves sb. to do） | it behooved him to keep on good terms with his pupils | sleepy-hollow (2026-11-20) |
+| brew | /bruː/ | v. | 酝酿，即将发生 | trouble was brewing, not alone for himself | call-of-the-wild (2026-11-21) |
+| bode | /bəʊd/ | v. | 预示，预兆（bode ill/well） | a fund of wrath that boded ill for whoever ... | call-of-the-wild (2026-11-21) |

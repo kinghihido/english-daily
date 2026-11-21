@@ -43,3 +43,5 @@
 | exhort | /ɪɡˈzɔːt/ | v. | 劝勉，敦促 | exhorting a Repeal of those uncharitable Laws | franklin-autobiography-opening (2026-11-19) |
 | embosom | /ɪmˈbʊzəm/ | v. | 环抱，围绕（embosomed in） | vallies ... embosomed in the great state of New-York | sleepy-hollow (2026-11-20) |
 | elapse | /ɪˈlæps/ | v. | （时间）流逝，过去 | Though many years have elapsed since I trod ... | sleepy-hollow (2026-11-20) |
+| egotistical | /ˌiːɡəˈtɪstɪkl/ | adj. | 自负的，自我中心的 | was even a trifle egotistical | call-of-the-wild (2026-11-21) |
+| ebb | /eb/ | v. | 衰退，减弱；（潮）退 | his strength ebbed, his eyes glazed | call-of-the-wild (2026-11-21) |

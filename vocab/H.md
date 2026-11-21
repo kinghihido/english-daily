@@ -30,3 +30,5 @@
 | hazy | /ˈheɪzi/ | adj. | 有薄雾的，朦胧的 | the weather being very hazy | gulliver-lilliput-ch1 (2026-11-18) |
 | heinous | /ˈheɪnəs/ | adj. | 极其恶劣的，十恶不赦的 | to punish so heinous an Offense | franklin-autobiography-opening (2026-11-19) |
 | humility | /hjuːˈmɪləti/ | n. | 谦卑，谦逊 | I desire with all Humility to acknowledge | franklin-autobiography-opening (2026-11-19) |
+| hoarse | /hɔːs/ | adj. | 嘶哑的，沙哑的 | The hoarse shriek of a locomotive whistling | call-of-the-wild (2026-11-21) |
+| hydrophoby | /ˌhaɪdrəˈfəʊbəbi/ | n. | 狂犬病（hydrophobia 的旧拼） | If I don't get the hydrophoby— | call-of-the-wild (2026-11-21) |

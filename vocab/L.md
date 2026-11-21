@@ -21,3 +21,5 @@
 | ligature | /ˈlɪɡətʃə/ | n. | 绑带，绳索 | several slender ligatures across my body | gulliver-lilliput-ch1 (2026-11-18) |
 | laud | /lɔːd/ | n./v. | 赞美，颂扬 | I mention this peaceful spot with all possible laud | sleepy-hollow (2026-11-20) |
 | lank | /læŋk/ | adj. | 瘦长的，松垮的 | He was tall, but exceedingly lank | sleepy-hollow (2026-11-20) |
+| legion | /ˈliːdʒən/ | n. | 大批，众多（a legion of） | protected by a legion of housemaids armed with brooms | call-of-the-wild (2026-11-21) |
+| lacerated | /ˈlæsəreɪtɪd/ | adj. | 撕裂的，割破的 | looked at his lacerated hand | call-of-the-wild (2026-11-21) |

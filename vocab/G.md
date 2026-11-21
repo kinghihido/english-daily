@@ -17,3 +17,4 @@
 | gossip | /ˈɡɒsɪp/ | n./v. | 闲话，流言；说长道短 | all news, as it is called, is gossip | walden-where-i-lived (2026-11-16) |
 | guardian | /ˈɡɑːdiən/ | n. | 监护人 | made me in his will guardian to his grand-daughter | importance-of-being-earnest (2026-11-17) |
 | governess | /ˈɡʌvənəs/ | n. | 家庭女教师 | under the charge of her admirable governess | importance-of-being-earnest (2026-11-17) |
+| gravelled | /ˈɡrævld/ | adj. | 铺砾石的 | gravelled driveways which wound about through ... lawns | call-of-the-wild (2026-11-21) |

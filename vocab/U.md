@@ -21,3 +21,5 @@
 | utterly | /ˈʌtəli/ | adv. | 完全地，彻底地 | How utterly unromantic you are! | importance-of-being-earnest (2026-11-17) |
 | ungentlemanly | /ʌnˈdʒentlmənli/ | adj. | 有失绅士风度的，不体面的 | It is a very ungentlemanly thing to read a private cigarette case. | importance-of-being-earnest (2026-11-17) |
 | uneasiness | /ʌnˈiːzinəs/ | n. | 不安，忧虑 | in great uneasiness | gulliver-lilliput-ch1 (2026-11-18) |
+| unwonted | /ʌnˈwəʊntɪd/ | adj. | 不寻常的，不习惯的 | it was an unwonted performance | call-of-the-wild (2026-11-21) |
+| unbridled | /ʌnˈbraɪdld/ | adj. | 无拘无束的，放纵的 | the unbridled anger of a kidnapped king | call-of-the-wild (2026-11-21) |

@@ -41,3 +41,4 @@
 | dyer | /ˈdaɪə/ | n. | 染工，染色匠 | a Dyer at Banbury in Oxfordshire | franklin-autobiography-opening (2026-11-19) |
 | denominate | /dɪˈnɒmɪneɪt/ | v. | 命名，称作 | the river denominated by the ancient Dutch navigators the Tappaan Zee | sleepy-hollow (2026-11-20) |
 | discrimination | /dɪˌskrɪmɪˈneɪʃn/ | n. | 区别对待；辨别力 | he administered justice with discrimination rather than severity | sleepy-hollow (2026-11-20) |
+| demesne | /dɪˈmeɪn/ | n. | 领地，庄园（尤指王室/贵族的） | over this great demesne Buck ruled | call-of-the-wild (2026-11-21) |

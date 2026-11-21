@@ -54,3 +54,5 @@ Presently she began again. | alice-ch1 (2026-11-07) |
 | pervade | /pəˈveɪd/ | v. | 弥漫，渗透 | to pervade the very atmosphere | sleepy-hollow (2026-11-20) |
 | peradventure | /ˌpərədˈventʃə(r)/ | adv. | 或许，也许（古语） | or, peradventure, by the appalling sound of the birch | sleepy-hollow (2026-11-20) |
 | potentate | /ˈpəʊtnt eɪt/ | n. | 统治者，当权者 | one of those cruel potentates of the school | sleepy-hollow (2026-11-20) |
+| pampered | /ˈpæmpəd/ | adj. | 娇生惯养的，宠坏的 | by not becoming a mere pampered house-dog | call-of-the-wild (2026-11-21) |
+| progeny | /ˈprɒdʒəni/ | n. | 子孙，后代 | the needs of a wife and numerous progeny | call-of-the-wild (2026-11-21) |

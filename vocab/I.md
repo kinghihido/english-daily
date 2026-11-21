@@ -50,3 +50,8 @@
 | imbibe | /ɪmˈbaɪb/ | v. | 吸收，汲取（ ideas / influence） | unconsciously imbibed by every one who resides there | sleepy-hollow (2026-11-20) |
 | incessant | /ɪnˈsesnt/ | adj. | 不停的，持续的 | making such incessant changes in other parts | sleepy-hollow (2026-11-20) |
 | ingratiating | /ɪnˈɡreɪʃieɪtɪŋ/ | adj. | 讨人喜欢的，逢迎的 | became wonderfully gentle and ingratiating | sleepy-hollow (2026-11-20) |
+| interlacing | /ˌɪntəˈleɪsɪŋ/ | adj. | 交织的，交错的 | under the interlacing boughs of tall poplars | call-of-the-wild (2026-11-21) |
+| imperiously | /ɪmˈpɪəriəsli/ | adv. | 专横地，威严地 | Among the terriers he stalked imperiously | call-of-the-wild (2026-11-21) |
+| inseparable | /ɪnˈseprəbl/ | adj. | 形影不离的，不可分的 | had been the Judge's inseparable companion | call-of-the-wild (2026-11-21) |
+| intolerable | /ɪnˈtɒlərəbl/ | adj. | 无法忍受的，难以容忍的 | suffering intolerable pain from throat and tongue | call-of-the-wild (2026-11-21) |
+| impending | /ɪmˈpendɪŋ/ | adj. | 迫近的，即将发生的 | the vague sense of impending calamity | call-of-the-wild (2026-11-21) |

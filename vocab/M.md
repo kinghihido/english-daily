@@ -25,3 +25,5 @@
 | myriad | /ˈmɪriəd/ | n./adj. | 无数，大量 | what do you care for a myriad instances and applications? | walden-where-i-lived (2026-11-16) |
 | morsel | /ˈmɔːsl/ | n. | 一小口，少量食物 | having not eaten a morsel for some hours | gulliver-lilliput-ch1 (2026-11-18) |
 | maxim | /ˈmæksɪm/ | n. | 格言，准则 | ever bore in mind the golden maxim | sleepy-hollow (2026-11-20) |
+| menacingly | /ˈmenəsɪŋli/ | adv. | 威胁地，恐吓地 | he growled menacingly | call-of-the-wild (2026-11-21) |
+| metamorphose | /ˌmetəˈmɔːfəʊz/ | v. | 使变形，彻底改变 | he was metamorphosed into a raging fiend | call-of-the-wild (2026-11-21) |

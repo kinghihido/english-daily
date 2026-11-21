@@ -23,6 +23,7 @@
 
 | 日期 | 标题 | 分类 |
 |---|---|---|
+| 2026-11-21 | [The Call of the Wild — Chapter I: Into the Primitive (Opening)](articles/2026-11-21-call-of-the-wild.md) | 小说 · Novel / Naturalism (Public Domain) |
 | 2026-11-20 | [The Legend of Sleepy Hollow — Opening (The Enchanted Glen & Ichabod Crane)](articles/2026-11-20-legend-of-sleepy-hollow.md) | 短篇小说 · Legend / Folklore (Public Domain) |
 | 2026-11-19 | [The Autobiography of Benjamin Franklin — Opening (A Life to Live Again)](articles/2026-11-19-franklin-autobiography-opening.md) | 自传 · Autobiography (Public Domain) |
 | 2026-11-18 | [Gulliver's Travels — A Voyage to Lilliput, Chapter I (Excerpt)](articles/2026-11-18-gulliver-lilliput-ch1.md) | 小说 · Satire / Fantasy (Public Domain) |
