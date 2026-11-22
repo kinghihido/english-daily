@@ -56,3 +56,6 @@ Presently she began again. | alice-ch1 (2026-11-07) |
 | potentate | /ˈpəʊtnt eɪt/ | n. | 统治者，当权者 | one of those cruel potentates of the school | sleepy-hollow (2026-11-20) |
 | pampered | /ˈpæmpəd/ | adj. | 娇生惯养的，宠坏的 | by not becoming a mere pampered house-dog | call-of-the-wild (2026-11-21) |
 | progeny | /ˈprɒdʒəni/ | n. | 子孙，后代 | the needs of a wife and numerous progeny | call-of-the-wild (2026-11-21) |
+| parish | /ˈpærɪʃ/ | n. | 教区 | late of this parish | great-expectations (2026-11-22) |
+| plead | /pliːd/ | v. | 恳求，哀求 | I pleaded in terror | great-expectations (2026-11-22) |
+| pollard | /ˈpɒləd/ | n. | 截去树梢的树 | among the alder-trees and pollards | great-expectations (2026-11-22) |

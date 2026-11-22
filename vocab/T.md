@@ -31,3 +31,5 @@
 | toil | /tɔɪl/ | v./n. | 辛苦劳作，苦干 | strong muscles by which to toil | call-of-the-wild (2026-11-21) |
 | tonic | /ˈtɒnɪk/ | n. | 补品，滋补剂；使人振奋的事 | the love of water had been a tonic and a health preserver | call-of-the-wild (2026-11-21) |
 | treachery | /ˈtretʃəri/ | n. | 背叛，背信弃义 | the memorable night of Manuel's treachery | call-of-the-wild (2026-11-21) |
+| tilt | /tɪlt/ | v. | 使倾斜，倾侧 | tilted me back as far as he could hold me | great-expectations (2026-11-22) |
+| tremendous | /trəˈmendəs/ | adj. | 巨大的，惊人的 | a most tremendous dip and roll | great-expectations (2026-11-22) |

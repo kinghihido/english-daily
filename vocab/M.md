@@ -27,3 +27,5 @@
 | maxim | /ˈmæksɪm/ | n. | 格言，准则 | ever bore in mind the golden maxim | sleepy-hollow (2026-11-20) |
 | menacingly | /ˈmenəsɪŋli/ | adv. | 威胁地，恐吓地 | he growled menacingly | call-of-the-wild (2026-11-21) |
 | metamorphose | /ˌmetəˈmɔːfəʊz/ | v. | 使变形，彻底改变 | he was metamorphosed into a raging fiend | call-of-the-wild (2026-11-21) |
+| marsh | /mɑːʃ/ | n. | 沼泽，湿地 | Ours was the marsh country | great-expectations (2026-11-22) |
+| mound | /maʊnd/ | n. | 土堆，坟丘 | the brambles that bound the green mounds | great-expectations (2026-11-22) |

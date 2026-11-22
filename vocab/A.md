@@ -52,3 +52,4 @@ She ate a little bit, and said anxiously to herself, “Which way? | alice-ch1 (
 | abound | /əˈbaʊnd/ | v. | 充满，大量存在 | The whole neighbourhood abounds with local tales | sleepy-hollow (2026-11-20) |
 | allege | /əˈledʒ/ | v. | 声称，断言（未经证实） | certain ... historians ... allege that the body ... was buried | sleepy-hollow (2026-11-20) |
 | aristocrat | /ˈærɪstəkræt/ | n. | 贵族 | the life of a sated aristocrat | call-of-the-wild (2026-11-21) |
+| aforesaid | /əˈfɔːsed/ | adj. | 上述的，前述的 | infant children of the aforesaid | great-expectations (2026-11-22) |

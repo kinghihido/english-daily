@@ -71,3 +71,8 @@ Soon her eye fell on a little glass box that was lying under the table: she open
 | chastisement | /tʃæˈstaɪzmənt/ | n. | 惩罚，责罚 | he never inflicted a chastisement without ... assurance | sleepy-hollow (2026-11-20) |
 | conveyance | /kənˈveɪəns/ | n. | 运输工具；车辆 | jolted along in some kind of a conveyance | call-of-the-wild (2026-11-21) |
 | calamity | /kəˈlæməti/ | n. | 灾难，灾祸 | the vague sense of impending calamity | call-of-the-wild (2026-11-21) |
+| churchyard | /ˈtʃɜːtʃjɑːd/ | n. | 教堂墓地 | this bleak place ... was the churchyard | great-expectations (2026-11-22) |
+| chatter | /ˈtʃætə(r)/ | v. | 咯咯作响；喋喋不休 | whose teeth chattered in his head | great-expectations (2026-11-22) |
+| clasp | /klɑːsp/ | v. | 紧握，扣紧 | clasping himself, as if to hold himself together | great-expectations (2026-11-22) |
+| cling | /klɪŋ/ | v. | 紧抓，依附 | I clung to him with both hands | great-expectations (2026-11-22) |
+| coarse | /kɔːs/ | adj. | 粗糙的，粗劣的 | A fearful man, all in coarse grey | great-expectations (2026-11-22) |

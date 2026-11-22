@@ -35,3 +35,5 @@ And so it was indeed: she was now only ten inches high, and her face brightened 
 | behoove | /bɪˈhuːv/ | v. | 理应，必须（it behooves sb. to do） | it behooved him to keep on good terms with his pupils | sleepy-hollow (2026-11-20) |
 | brew | /bruː/ | v. | 酝酿，即将发生 | trouble was brewing, not alone for himself | call-of-the-wild (2026-11-21) |
 | bode | /bəʊd/ | v. | 预示，预兆（bode ill/well） | a fund of wrath that boded ill for whoever ... | call-of-the-wild (2026-11-21) |
+| bleak | /bliːk/ | adj. | 荒凉的，阴冷的 | this bleak place overgrown with nettles | great-expectations (2026-11-22) |
+| briar | /ˈbraɪə(r)/ | n. | 荆棘，野蔷薇 | torn by briars | great-expectations (2026-11-22) |

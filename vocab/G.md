@@ -18,3 +18,7 @@
 | guardian | /ˈɡɑːdiən/ | n. | 监护人 | made me in his will guardian to his grand-daughter | importance-of-being-earnest (2026-11-17) |
 | governess | /ˈɡʌvənəs/ | n. | 家庭女教师 | under the charge of her admirable governess | importance-of-being-earnest (2026-11-17) |
 | gravelled | /ˈɡrævld/ | adj. | 铺砾石的 | gravelled driveways which wound about through ... lawns | call-of-the-wild (2026-11-21) |
+| gibbet | /ˈdʒɪbɪt/ | n. | 绞刑架，示众架 | the other a gibbet, with some chains hanging to it | great-expectations (2026-11-22) |
+| giddy | /ˈɡɪdi/ | adj. | 头晕的，眩晕的 | so giddy that I clung to him | great-expectations (2026-11-22) |
+| glare | /ɡleə(r)/ | v. | 怒视，瞪眼 | who limped, and shivered, and glared | great-expectations (2026-11-22) |
+| growl | /ɡraʊl/ | v. | 低吼，咆哮 | glared and growled | great-expectations (2026-11-22) |

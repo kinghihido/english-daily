@@ -23,3 +23,6 @@
 | lank | /læŋk/ | adj. | 瘦长的，松垮的 | He was tall, but exceedingly lank | sleepy-hollow (2026-11-20) |
 | legion | /ˈliːdʒən/ | n. | 大批，众多（a legion of） | protected by a legion of housemaids armed with brooms | call-of-the-wild (2026-11-21) |
 | lacerated | /ˈlæsəreɪtɪd/ | adj. | 撕裂的，割破的 | looked at his lacerated hand | call-of-the-wild (2026-11-21) |
+| lair | /leə(r)/ | n. | 巢穴，兽穴 | the distant savage lair from which the wind was rushing | great-expectations (2026-11-22) |
+| limp | /lɪmp/ | v. | 跛行，一瘸一拐 | who limped, and shivered | great-expectations (2026-11-22) |
+| lozenge | /ˈlɒzɪndʒ/ | n. | 菱形（物）；含片 | five little stone lozenges | great-expectations (2026-11-22) |

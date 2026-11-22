@@ -32,3 +32,6 @@
 | felicity | /fəˈlɪsəti/ | n. | 幸福，福气 | a considerable share of felicity | franklin-autobiography-opening (2026-11-19) |
 | freehold | /ˈfriːhəʊld/ | n. | 自由保有的不动产；终身产权 | on a Freehold of about 30 Acres | franklin-autobiography-opening (2026-11-19) |
 | futilely | /ˈfjuːtaɪli/ | adv. | 徒劳地，无用地 | his great chest panting futilely | call-of-the-wild (2026-11-21) |
+| falter | /ˈfɔːltə(r)/ | v. | 结巴，支吾 | 'Goo-good night, sir,' I faltered | great-expectations (2026-11-22) |
+| flint | /flɪnt/ | n. | 燧石，火石 | cut by flints | great-expectations (2026-11-22) |
+| freckled | /ˈfrekld/ | adj. | 有雀斑的 | my mother was freckled and sickly | great-expectations (2026-11-22) |

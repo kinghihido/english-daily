@@ -55,3 +55,5 @@
 | inseparable | /ɪnˈseprəbl/ | adj. | 形影不离的，不可分的 | had been the Judge's inseparable companion | call-of-the-wild (2026-11-21) |
 | intolerable | /ɪnˈtɒlərəbl/ | adj. | 无法忍受的，难以容忍的 | suffering intolerable pain from throat and tongue | call-of-the-wild (2026-11-21) |
 | impending | /ɪmˈpendɪŋ/ | adj. | 迫近的，即将发生的 | the vague sense of impending calamity | call-of-the-wild (2026-11-21) |
+| indebted | /ɪnˈdetɪd/ | adj. | 感激的；负债的 | I am indebted for a belief I religiously entertained | great-expectations (2026-11-22) |
+| intersect | /ˌɪntəˈsekt/ | v. | 横断，相交 | intersected with dykes and mounds | great-expectations (2026-11-22) |

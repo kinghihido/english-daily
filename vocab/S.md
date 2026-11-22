@@ -65,3 +65,7 @@
 | sojourn | /ˈsɒdʒɜːn/ | v. | 逗留，暂住 | who sojourned, or, as he expressed it, "tarried" | sleepy-hollow (2026-11-20) |
 | sated | /ˈseɪtɪd/ | adj. | 餍足的，心满意足的 | he had lived the life of a sated aristocrat | call-of-the-wild (2026-11-21) |
 | sullenly | /ˈsʌlənli/ | adv. | 闷闷不乐地，阴沉地 | he lay down sullenly and allowed the crate to be lifted | call-of-the-wild (2026-11-21) |
+| shiver | /ˈʃɪvə(r)/ | n./v. | 颤抖，哆嗦 | the small bundle of shivers | great-expectations (2026-11-22) |
+| shudder | /ˈʃʌdə(r)/ | v./n. | 战栗，发抖 | he hugged his shuddering body | great-expectations (2026-11-22) |
+| sickly | /ˈsɪkli/ | adj. | 多病的；苍白的 | my mother was freckled and sickly | great-expectations (2026-11-22) |
+| smother | /ˈsmʌðə(r)/ | v. | 使窒息，闷住 | smothered in mud | great-expectations (2026-11-22) |

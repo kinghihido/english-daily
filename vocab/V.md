@@ -18,3 +18,4 @@
 | volley | /ˈvɒli/ | n. | 齐射，一排箭/枪 | they discharged another volley larger than the first | gulliver-lilliput-ch1 (2026-11-18) |
 | vanity | /ˈvænəti/ | n. | 虚荣，自负 | gratify my own Vanity | franklin-autobiography-opening (2026-11-19) |
 | veranda | /vəˈrændə/ | n. | 阳台，游廊 | the wide cool veranda that ran around its four sides | call-of-the-wild (2026-11-21) |
+| vivid | /ˈvɪvɪd/ | adj. | 鲜明的，生动的 | My first most vivid and broad impression | great-expectations (2026-11-22) |
