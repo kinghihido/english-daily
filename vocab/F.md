@@ -35,3 +35,9 @@
 | falter | /ˈfɔːltə(r)/ | v. | 结巴，支吾 | 'Goo-good night, sir,' I faltered | great-expectations (2026-11-22) |
 | flint | /flɪnt/ | n. | 燧石，火石 | cut by flints | great-expectations (2026-11-22) |
 | freckled | /ˈfrekld/ | adj. | 有雀斑的 | my mother was freckled and sickly | great-expectations (2026-11-22) |
+| famine | /ˈfæmɪn/ | n. | 饥荒；极度缺乏 | I voluntarily endured cold, famine, thirst | frankenstein-letters (2026-11-24) |
+| fervent | /ˈfɜːvənt/ | adj. | 热烈的，强烈的 | my day dreams become more fervent and vivid | frankenstein-letters (2026-11-24) |
+| foreboding | /fɔːˈbəʊdɪŋ/ | n. | 不祥的预感，凶兆 | which you have regarded with such evil forebodings | frankenstein-letters (2026-11-24) |
+| fortitude | /ˈfɔːtɪtjuːd/ | n. | 坚毅，刚毅 | the emergencies of which will demand all my fortitude | frankenstein-letters (2026-11-24) |
+| fortnight | /ˈfɔːtnaɪt/ | n. | 两星期，十四天 | I shall depart for the latter town in a fortnight | frankenstein-letters (2026-11-24) |
+| fluctuate | /ˈflʌktʃueɪt/ | v. | 波动，起伏 | but my hopes fluctuate | frankenstein-letters (2026-11-24) |

@@ -43,3 +43,4 @@
 | discrimination | /dɪˌskrɪmɪˈneɪʃn/ | n. | 区别对待；辨别力 | he administered justice with discrimination rather than severity | sleepy-hollow (2026-11-20) |
 | demesne | /dɪˈmeɪn/ | n. | 领地，庄园（尤指王室/贵族的） | over this great demesne Buck ruled | call-of-the-wild (2026-11-21) |
 | dyke | /daɪk/ | n. | 沟渠；堤坝 | intersected with dykes and mounds and gates | great-expectations (2026-11-22) |
+| dross | /drɒs/ | n. | 渣滓，糟粕 | feelings, unallied to the dross of human nature | frankenstein-letters (2026-11-24) |

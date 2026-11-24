@@ -33,3 +33,5 @@
 | treachery | /ˈtretʃəri/ | n. | 背叛，背信弃义 | the memorable night of Manuel's treachery | call-of-the-wild (2026-11-21) |
 | tilt | /tɪlt/ | v. | 使倾斜，倾侧 | tilted me back as far as he could hold me | great-expectations (2026-11-22) |
 | tremendous | /trəˈmendəs/ | adj. | 巨大的，惊人的 | a most tremendous dip and roll | great-expectations (2026-11-22) |
+| tranquillise | /ˈtræŋkwɪlaɪz/ | v. | 使平静，使安宁 | nothing contributes so much to tranquillise the mind | frankenstein-letters (2026-11-24) |
+| traversed | /trəˈvɜːst/ | v. | 穿越，横越 | after having traversed immense seas | frankenstein-letters (2026-11-24) |

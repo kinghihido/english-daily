@@ -53,3 +53,5 @@ She ate a little bit, and said anxiously to herself, “Which way? | alice-ch1 (
 | allege | /əˈledʒ/ | v. | 声称，断言（未经证实） | certain ... historians ... allege that the body ... was buried | sleepy-hollow (2026-11-20) |
 | aristocrat | /ˈærɪstəkræt/ | n. | 贵族 | the life of a sated aristocrat | call-of-the-wild (2026-11-21) |
 | aforesaid | /əˈfɔːsed/ | adj. | 上述的，前述的 | infant children of the aforesaid | great-expectations (2026-11-22) |
+| ardent | /ˈɑːdnt/ | adj. | 热烈的，炽热的 | I shall satiate my ardent curiosity | frankenstein-letters (2026-11-24) |
+| ascertain | /ˌæsəˈteɪn/ | v. | 查明，弄清 | by ascertaining the secret of the magnet | frankenstein-letters (2026-11-24) |

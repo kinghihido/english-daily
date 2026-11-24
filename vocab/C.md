@@ -76,3 +76,5 @@ Soon her eye fell on a little glass box that was lying under the table: she open
 | clasp | /klɑːsp/ | v. | 紧握，扣紧 | clasping himself, as if to hold himself together | great-expectations (2026-11-22) |
 | cling | /klɪŋ/ | v. | 紧抓，依附 | I clung to him with both hands | great-expectations (2026-11-22) |
 | coarse | /kɔːs/ | adj. | 粗糙的，粗劣的 | A fearful man, all in coarse grey | great-expectations (2026-11-22) |
+| celestial | /səˈlestʃl/ | adj. | 天空的，天体的 | a thousand celestial observations | frankenstein-letters (2026-11-24) |
+| consecrate | /ˈkɒnsɪkreɪt/ | v. | 奉献，使神圣 | the names of Homer and Shakspeare are consecrated | frankenstein-letters (2026-11-24) |

@@ -45,3 +45,9 @@
 | elapse | /ɪˈlæps/ | v. | （时间）流逝，过去 | Though many years have elapsed since I trod ... | sleepy-hollow (2026-11-20) |
 | egotistical | /ˌiːɡəˈtɪstɪkl/ | adj. | 自负的，自我中心的 | was even a trifle egotistical | call-of-the-wild (2026-11-21) |
 | ebb | /eb/ | v. | 衰退，减弱；（潮）退 | his strength ebbed, his eyes glazed | call-of-the-wild (2026-11-21) |
+| eccentricity | /ˌeksenˈtrɪsəti/ | n. | 古怪，反常（复数：怪癖） | to render their seeming eccentricities consistent | frankenstein-letters (2026-11-24) |
+| embarkation | /ˌembɑːˈkeɪʃn/ | n. | 登船，出发 | delayed until the weather shall permit my embarkation | frankenstein-letters (2026-11-24) |
+| encompass | /ɪnˈkʌmpəs/ | v. | 包围，环绕 | encompassed as I am by frost and snow | frankenstein-letters (2026-11-24) |
+| enticement | /ɪnˈtaɪsmənt/ | n. | 诱惑，引诱（物） | These are my enticements | frankenstein-letters (2026-11-24) |
+| entranced | /ɪnˈtrɑːnst/ | adj. | 出神的，入迷的 | those poets whose effusions entranced my soul | frankenstein-letters (2026-11-24) |
+| entreat | /ɪnˈtriːt/ | v. | 恳求，乞求 | entreated him to spare her | frankenstein-letters (2026-11-24) |

@@ -20,3 +20,4 @@
 | weathercock | /ˈweðəkɒk/ | n. | 风向标 | it looked like a weathercock, perched upon his spindle neck | sleepy-hollow (2026-11-20) |
 | withe | /wɪð/ | n. | 细枝，柳条（编结用） | secured ... by a withe twisted in the handle of the door | sleepy-hollow (2026-11-20) |
 | wrath | /rɒθ/ | n. | 愤怒，暴怒 | nursing his wrath and wounded pride | call-of-the-wild (2026-11-21) |
+| wafted | /ˈwɑːftɪd/ | v. | 飘送，吹送 | we may be wafted to a land | frankenstein-letters (2026-11-24) |

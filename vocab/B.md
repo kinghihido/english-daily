@@ -37,3 +37,6 @@ And so it was indeed: she was now only ten inches high, and her face brightened 
 | bode | /bəʊd/ | v. | 预示，预兆（bode ill/well） | a fund of wrath that boded ill for whoever ... | call-of-the-wild (2026-11-21) |
 | bleak | /bliːk/ | adj. | 荒凉的，阴冷的 | this bleak place overgrown with nettles | great-expectations (2026-11-22) |
 | briar | /ˈbraɪə(r)/ | n. | 荆棘，野蔷薇 | torn by briars | great-expectations (2026-11-22) |
+| banished | /ˈbænɪʃt/ | adj./v. | 被放逐的；驱除 | snow and frost are banished | frankenstein-letters (2026-11-24) |
+| bestow | /bɪˈstəʊ/ | v. | 赠予，给予 | he bestowed the whole on his rival | frankenstein-letters (2026-11-24) |
+| brace | /breɪs/ | v. | 使振作，使绷紧 | a cold northern breeze ... which braces my nerves | frankenstein-letters (2026-11-24) |

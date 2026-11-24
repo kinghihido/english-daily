@@ -12,3 +12,4 @@
 | nonconformity | /ˌnɒnkənˈfɔːməti/ | n. | 不信奉国教；不从众 | Ministers that had been outed for Nonconformity | franklin-autobiography-opening (2026-11-19) |
 | nettle | /ˈnetl/ | n. | 荨麻 | this bleak place overgrown with nettles | great-expectations (2026-11-22) |
 | numb | /nʌm/ | adj. | 麻木的，僵硬的 | like a man whose legs were numbed and stiff | great-expectations (2026-11-22) |
+| niche | /niːʃ/ | n. | 壁龛；（喻）一席之地 | obtain a niche in the temple | frankenstein-letters (2026-11-24) |

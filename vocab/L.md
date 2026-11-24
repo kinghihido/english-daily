@@ -26,3 +26,4 @@
 | lair | /leə(r)/ | n. | 巢穴，兽穴 | the distant savage lair from which the wind was rushing | great-expectations (2026-11-22) |
 | limp | /lɪmp/ | v. | 跛行，一瘸一拐 | who limped, and shivered | great-expectations (2026-11-22) |
 | lozenge | /ˈlɒzɪndʒ/ | n. | 菱形（物）；含片 | five little stone lozenges | great-expectations (2026-11-22) |
+| lieutenant | /lefˈtenənt/ | n. | 副手，中尉 | My lieutenant ... is a man of wonderful courage | frankenstein-letters (2026-11-24) |

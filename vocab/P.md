@@ -59,3 +59,5 @@ Presently she began again. | alice-ch1 (2026-11-07) |
 | parish | /ˈpærɪʃ/ | n. | 教区 | late of this parish | great-expectations (2026-11-22) |
 | plead | /pliːd/ | v. | 恳求，哀求 | I pleaded in terror | great-expectations (2026-11-22) |
 | pollard | /ˈpɒləd/ | n. | 截去树梢的树 | among the alder-trees and pollards | great-expectations (2026-11-22) |
+| perpetual | /pəˈpetʃuəl/ | adj. | 永久的，永恒的 | diffusing a perpetual splendour | frankenstein-letters (2026-11-24) |
+| peruse | /pəˈruːz/ | v. | 细读，仔细阅读 | when I perused, for the first time, those poets | frankenstein-letters (2026-11-24) |

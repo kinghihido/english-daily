@@ -57,3 +57,8 @@
 | impending | /ɪmˈpendɪŋ/ | adj. | 迫近的，即将发生的 | the vague sense of impending calamity | call-of-the-wild (2026-11-21) |
 | indebted | /ɪnˈdetɪd/ | adj. | 感激的；负债的 | I am indebted for a belief I religiously entertained | great-expectations (2026-11-22) |
 | intersect | /ˌɪntəˈsekt/ | v. | 横断，相交 | intersected with dykes and mounds | great-expectations (2026-11-22) |
+| inestimable | /ɪnˈestɪməbl/ | adj. | 不可估量的，无价的 | the inestimable benefit which I shall confer | frankenstein-letters (2026-11-24) |
+| inexorable | /ɪnˈeksərəbl/ | adj. | 无情的，不可改变的 | when he found the father inexorable | frankenstein-letters (2026-11-24) |
+| injunction | /ɪnˈdʒʌŋkʃn/ | n. | 禁令，训令 | my father's dying injunction had forbidden my uncle | frankenstein-letters (2026-11-24) |
+| inspirited | /ɪnˈspɪrɪtɪd/ | adj. | 受到鼓舞的，振奋的 | Inspirited by this wind of promise | frankenstein-letters (2026-11-24) |
+| inure | /ɪˈnjʊə(r)/ | v. | 使习惯于（尤指艰苦） | I commenced by inuring my body to hardship | frankenstein-letters (2026-11-24) |

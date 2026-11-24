@@ -69,3 +69,8 @@
 | shudder | /ˈʃʌdə(r)/ | v./n. | 战栗，发抖 | he hugged his shuddering body | great-expectations (2026-11-22) |
 | sickly | /ˈsɪkli/ | adj. | 多病的；苍白的 | my mother was freckled and sickly | great-expectations (2026-11-22) |
 | smother | /ˈsmʌðə(r)/ | v. | 使窒息，闷住 | smothered in mud | great-expectations (2026-11-22) |
+| satiate | /ˈseɪʃieɪt/ | v. | 使满足，使饱足 | I shall satiate my ardent curiosity | frankenstein-letters (2026-11-24) |
+| seafaring | /ˈsiːfeərɪŋ/ | adj./n. | 航海的；航海生涯 | to allow me to embark in a seafaring life | frankenstein-letters (2026-11-24) |
+| sledge | /sledʒ/ | n. | 雪橇 | They fly quickly over the snow in their sledges | frankenstein-letters (2026-11-24) |
+| solicit | /səˈlɪsɪt/ | v. | 恳求，请求 | he himself solicited the young woman's father | frankenstein-letters (2026-11-24) |
+| suppliant | /ˈsʌpliənt/ | n. | 恳求者，哀求者 | My generous friend reassured the suppliant | frankenstein-letters (2026-11-24) |

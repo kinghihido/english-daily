@@ -40,3 +40,4 @@
 | reverie | /ˈrevəri/ | n. | 遐想，出神；梦幻 | causing them to walk in a continual reverie | sleepy-hollow (2026-11-20) |
 | realm | /relm/ | n. | 王国，领域 | The whole realm was his. | call-of-the-wild (2026-11-21) |
 | ravenous | /ˈrævənəs/ | adj. | 狼吞虎咽的；贪婪的 | he ate the bread ravenously | great-expectations (2026-11-22) |
+| requisite | /ˈrekwəzɪt/ | adj. | 必需的，必要的 | so many months are requisite | frankenstein-letters (2026-11-24) |
