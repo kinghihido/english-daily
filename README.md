@@ -23,6 +23,7 @@
 
 | 日期 | 标题 | 分类 |
 |---|---|---|
+| 2026-11-26 | [Paradise Lost — Book I (Opening): The Invocation & Satan's Speech](articles/2026-11-26-paradise-lost-book1.md) | 诗歌 · Epic Poem / Blank Verse (Public Domain) |
 | 2026-11-25 | [Wuthering Heights — Chapter I (Lockwood's Arrival)](articles/2026-11-25-wuthering-heights-ch1.md) | 小说 · Novel / Gothic · Diary Narrative (Public Domain) |
 | 2026-11-24 | [Frankenstein — Letters I & II (Walton's Frame Narrative)](articles/2026-11-24-frankenstein-letters.md) | 小说 · Novel / Scientific Gothic · Epistolary (Public Domain) |
 | 2026-11-22 | [Great Expectations — Chapter I (The Churchyard) & Ch. II Opening](articles/2026-11-22-great-expectations-ch1.md) | 小说 · Novel / Bildungsroman (Public Domain) |

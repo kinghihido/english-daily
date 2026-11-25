@@ -32,3 +32,4 @@
 | marvellous | /ˈmɑːvələs/ | adj. | 非凡的，奇妙的 | a love for the marvellous | frankenstein-letters (2026-11-24) |
 | misanthropist | /ˈmɪzənθrəpɪst/ | n. | 厌世者，愤世嫉俗者 | A perfect misanthropist's Heaven | wuthering-heights-ch1 (2026-11-25) |
 | morose | /məˈrəʊs/ | adj. | 阴郁的，闷闷不乐的 | and rather morose | wuthering-heights-ch1 (2026-11-25) |
+| malice | /ˈmælɪs/ | n. | 恶意，怨恨 | How all his malice served but to bring forth | paradise-lost-book1 (2026-11-26) |

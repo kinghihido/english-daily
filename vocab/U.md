@@ -24,3 +24,4 @@
 | unwonted | /ʌnˈwəʊntɪd/ | adj. | 不寻常的，不习惯的 | it was an unwonted performance | call-of-the-wild (2026-11-21) |
 | unbridled | /ʌnˈbraɪdld/ | adj. | 无拘无束的，放纵的 | the unbridled anger of a kidnapped king | call-of-the-wild (2026-11-21) |
 | undersized | /ˌʌndəˈsaɪzd/ | adj. | 发育不全的，矮小的 | I was at that time undersized | great-expectations (2026-11-22) |
+| undiminished | /ˌʌndɪˈmɪnɪʃt/ | adj. | 未减弱的，丝毫未减的 | Strength undiminished, or eternal being | paradise-lost-book1 (2026-11-26) |

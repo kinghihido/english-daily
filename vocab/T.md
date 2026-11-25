@@ -36,3 +36,5 @@
 | tranquillise | /ˈtræŋkwɪlaɪz/ | v. | 使平静，使安宁 | nothing contributes so much to tranquillise the mind | frankenstein-letters (2026-11-24) |
 | traversed | /trəˈvɜːst/ | v. | 穿越，横越 | after having traversed immense seas | frankenstein-letters (2026-11-24) |
 | tumult | /ˈtjuːmʌlt/ | n. | 喧嚣，骚动 | the atmospheric tumult to which its station is exposed | wuthering-heights-ch1 (2026-11-25) |
+| transgress | /trænsˈɡres/ | v. | 违反，违犯 | From their Creator, and transgress his will | paradise-lost-book1 (2026-11-26) |
+| tempestuous | /temˈpestʃuəs/ | adj. | 狂暴的，暴风雨般的 | With floods and whirlwinds of tempestuous fire | paradise-lost-book1 (2026-11-26) |

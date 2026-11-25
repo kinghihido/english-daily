@@ -68,3 +68,5 @@ Presently she began again. | alice-ch1 (2026-11-07) |
 | physiognomy | /ˌfɪziˈɒnəmi/ | n. | 相貌，面相 | some turn of my physiognomy so irritated madam | wuthering-heights-ch1 (2026-11-25) |
 | pewter | /ˈpjuːtə(r)/ | n./adj. | 白镴（锡铅合金）；白镴制的 | from ranks of immense pewter dishes | wuthering-heights-ch1 (2026-11-25) |
 | preeminently | /priˈemɪnəntli/ | adv. | 尤其，特别；卓越地 | they call it here "the house" preeminently | wuthering-heights-ch1 (2026-11-25) |
+| penal | /ˈpiːnl/ | adj. | 刑罚的，惩罚性的 | In adamantine chains and penal fire | paradise-lost-book1 (2026-11-26) |
+| precipice | /ˈpresɪpɪs/ | n. | 悬崖，绝壁 | The fiery surge that from the precipice / Of Heaven received us falling | paradise-lost-book1 (2026-11-26) |

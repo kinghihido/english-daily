@@ -41,3 +41,6 @@ And so it was indeed: she was now only ten inches high, and her face brightened 
 | bestow | /bɪˈstəʊ/ | v. | 赠予，给予 | he bestowed the whole on his rival | frankenstein-letters (2026-11-24) |
 | brace | /breɪs/ | v. | 使振作，使绷紧 | a cold northern breeze ... which braces my nerves | frankenstein-letters (2026-11-24) |
 | bracing | /ˈbreɪsɪŋ/ | adj. | 令人振奋的，清爽的 | Pure, bracing ventilation they must have up there | wuthering-heights-ch1 (2026-11-25) |
+| blissful | /ˈblɪsfl/ | adj. | 极乐的，至福的 | regain the blissful seat | paradise-lost-book1 (2026-11-26) |
+| baleful | /ˈbeɪlfl/ | adj. | 恶意的，不祥的 | round he throws his baleful eyes | paradise-lost-book1 (2026-11-26) |
+| bellow | /ˈbeləʊ/ | v. | 轰鸣，咆哮 | To bellow through the vast and boundless Deep | paradise-lost-book1 (2026-11-26) |

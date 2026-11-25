@@ -46,3 +46,9 @@
 | dross | /drɒs/ | n. | 渣滓，糟粕 | feelings, unallied to the dross of human nature | frankenstein-letters (2026-11-24) |
 | decamp | /dɪˈkæmp/ | v. | 匆忙离开，拔营 | persuaded her mamma to decamp | wuthering-heights-ch1 (2026-11-25) |
 | desolation | /ˌdesəˈleɪʃn/ | n. | 荒凉，荒芜；孤寂 | to divide the desolation between us | wuthering-heights-ch1 (2026-11-25) |
+| disobedience | /ˌdɪsəˈbiːdiəns/ | n. | 不服从，违抗 | Of Man's first disobedience, and the fruit | paradise-lost-book1 (2026-11-26) |
+| dismay | /dɪsˈmeɪ/ | n. | 惊愕，沮丧 | That witnessed huge affliction and dismay | paradise-lost-book1 (2026-11-26) |
+| dire | /ˈdaɪər/ | adj. | 可怕的，极端的 | The force of those dire arms? | paradise-lost-book1 (2026-11-26) |
+| disdain | /dɪsˈdeɪn/ | n. | 轻蔑，鄙视 | And high disdain from sense of injured merit | paradise-lost-book1 (2026-11-26) |
+| dreary | /ˈdrɪəri/ | adj. | 阴沉的，荒凉的 | Seest thou yon dreary plain, forlorn and wild | paradise-lost-book1 (2026-11-26) |
+| damnation | /dæmˈneɪʃn/ | n. | 诅咒，永罚 | Heap on himself damnation | paradise-lost-book1 (2026-11-26) |

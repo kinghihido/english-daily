@@ -80,3 +80,4 @@ Soon her eye fell on a little glass box that was lying under the table: she open
 | consecrate | /ˈkɒnsɪkreɪt/ | v. | 奉献，使神圣 | the names of Homer and Shakspeare are consecrated | frankenstein-letters (2026-11-24) |
 | causeway | /ˈkɔːzweɪ/ | n. | 堤道，石砌通道 | sullenly preceded me up the causeway | wuthering-heights-ch1 (2026-11-25) |
 | culinary | /ˈkʌlɪnəri/ | adj. | 烹饪的，厨房的 | a clatter of culinary utensils | wuthering-heights-ch1 (2026-11-25) |
+| combustion | /kəmˈbʌstʃən/ | n. | 燃烧；剧烈焚烧 | With hideous ruin and combustion, down | paradise-lost-book1 (2026-11-26) |

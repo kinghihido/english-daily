@@ -42,3 +42,4 @@
 | ravenous | /ˈrævənəs/ | adj. | 狼吞虎咽的；贪婪的 | he ate the bread ravenously | great-expectations (2026-11-22) |
 | requisite | /ˈrekwəzɪt/ | adj. | 必需的，必要的 | so many months are requisite | frankenstein-letters (2026-11-24) |
 | reserved | /rɪˈzɜːvd/ | adj. | 沉默寡言的，矜持的 | more exaggeratedly reserved than myself | wuthering-heights-ch1 (2026-11-25) |
+| rue | /ruː/ | v. | 懊悔，悲叹 | Too well I see and rue the dire event | paradise-lost-book1 (2026-11-26) |

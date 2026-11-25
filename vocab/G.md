@@ -25,3 +25,4 @@
 | gaunt | /ɡɔːnt/ | adj. | 瘦削的，枯瘦的 | a range of gaunt thorns | wuthering-heights-ch1 (2026-11-25) |
 | grotesque | /ɡrəʊˈtesk/ | adj. | 怪诞的，奇形怪状的 | a quantity of grotesque carving lavished over the front | wuthering-heights-ch1 (2026-11-25) |
 | guttural | /ˈɡʌtərəl/ | adj. | 喉音的，粗哑的 | provoked a long, guttural gnarl | wuthering-heights-ch1 (2026-11-25) |
+| guile | /ɡaɪl/ | n. | 诡计，狡诈 | he it was whose guile, / Stirred up with envy and revenge | paradise-lost-book1 (2026-11-26) |

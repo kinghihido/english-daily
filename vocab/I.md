@@ -64,3 +64,8 @@
 | inure | /ɪˈnjʊə(r)/ | v. | 使习惯于（尤指艰苦） | I commenced by inuring my body to hardship | frankenstein-letters (2026-11-24) |
 | impertinence | /ɪmˈpɜːtɪnəns/ | n. | 无礼，冒失 | esteem it a species of impertinence | wuthering-heights-ch1 (2026-11-25) |
 | interspersed | /ˌɪntəˈspɜːst/ | adj. | 散布的，点缀其间的 | interspersed with silver jugs, and tankards | wuthering-heights-ch1 (2026-11-25) |
+| illumine | /ɪˈluːmɪn/ | v. | 照亮，启迪 | what in me is dark / Illumine | paradise-lost-book1 (2026-11-26) |
+| impious | /ˈɪmpiəs/ | adj. | 不敬的，亵渎的 | Raised impious war in Heaven and battle proud | paradise-lost-book1 (2026-11-26) |
+| inflict | /ɪnˈflɪkt/ | v. | 施加（痛苦、惩罚） | Nor what the potent Victor in his rage / Can else inflict | paradise-lost-book1 (2026-11-26) |
+| invincible | /ɪnˈvɪnsəbl/ | adj. | 不可战胜的 | the mind and spirit remains / Invincible | paradise-lost-book1 (2026-11-26) |
+| impetuous | /ɪmˈpetʃuəs/ | adj. | 猛烈急促的，鲁莽的 | Winged with red lightning and impetuous rage | paradise-lost-book1 (2026-11-26) |

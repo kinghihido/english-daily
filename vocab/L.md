@@ -29,3 +29,4 @@
 | lieutenant | /lefˈtenənt/ | n. | 副手，中尉 | My lieutenant ... is a man of wonderful courage | frankenstein-letters (2026-11-24) |
 | laconic | /ləˈkɒnɪk/ | adj. | 简洁的，言简意赅的 | in the laconic style of chipping of his pronouns | wuthering-heights-ch1 (2026-11-25) |
 | lurking | /ˈlɜːkɪŋ/ | adj./v. | 潜伏的，暗藏的 | one or two heavy black ones lurking in the shade | wuthering-heights-ch1 (2026-11-25) |
+| livid | /ˈlɪvɪd/ | adj. | 青灰色的，惨白的 | Save what the glimmering of these livid flames | paradise-lost-book1 (2026-11-26) |

@@ -58,3 +58,6 @@ She ate a little bit, and said anxiously to herself, “Which way? | alice-ch1 (
 | advent | /ˈædvənt/ | n. | 到来，来临 | had no reference to my unexpected advent | wuthering-heights-ch1 (2026-11-25) |
 | alms | /ɑːmz/ | n. | 施舍，救济品 | as if craving alms of the sun | wuthering-heights-ch1 (2026-11-25) |
 | aversion | /əˈvɜːʃn/ | n. | 厌恶，反感 | his reserve springs from an aversion to showy displays of feeling | wuthering-heights-ch1 (2026-11-25) |
+| adamantine | /ˌædəˈmæntaɪn/ | adj. | 坚不可摧的，金刚石般的 | In adamantine chains and penal fire | paradise-lost-book1 (2026-11-26) |
+| apostate | /əˈpɒsteɪt/ | n./adj. | 叛教者，背弃者 | So spake th' apostate Angel, though in pain | paradise-lost-book1 (2026-11-26) |
+| almighty | /ɔːlˈmaɪti/ | adj. | 全能的 | Of force believe almighty... | paradise-lost-book1 (2026-11-26) |

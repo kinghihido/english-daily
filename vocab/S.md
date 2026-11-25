@@ -79,3 +79,5 @@
 | soliloquised | /səˈlɪləkwaɪzd/ | v. | 自言自语（soliloquise 过去式） | he soliloquised in an undertone | wuthering-heights-ch1 (2026-11-25) |
 | stalwart | /ˈstɔːlwət/ | adj. | 健壮的，坚定的 | with a stubborn countenance, and stalwart limbs | wuthering-heights-ch1 (2026-11-25) |
 | stunted | /ˈstʌntɪd/ | adj. | 发育不良的，矮小的 | the excessive slant of a few, stunted firs | wuthering-heights-ch1 (2026-11-25) |
+| supremacy | /suːˈpreməsi/ | n. | 至高无上，最高权力 | And put to proof his high supremacy | paradise-lost-book1 (2026-11-26) |
+| sovereign | /ˈsɒvrɪn/ | adj. | 至高无上的；统治的 | Who now is sovereign can dispose and bid | paradise-lost-book1 (2026-11-26) |

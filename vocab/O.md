@@ -17,3 +17,5 @@
 | obscure | /əbˈskjʊə/ | adj. | 默默无闻的，不起眼的 | This obscure Family of ours | franklin-autobiography-opening (2026-11-19) |
 | obscurity | /əbˈskjʊrəti/ | n. | 默默无闻，无名 | from the poverty and obscurity in which I was born | franklin-autobiography-opening (2026-11-19) |
 | onerous | /ˈəʊnərəs/ | adj. | 繁重的，负担沉重的 | lest it be too onerous on the purses of his rustic patrons | sleepy-hollow (2026-11-20) |
+| omnipotent | /ɒmˈnɪpətənt/ | adj. | 全能的，万能的 | Who durst defy th' Omnipotent to arms | paradise-lost-book1 (2026-11-26) |
+| overthrow | /ˌəʊvəˈθrəʊ/ | n. | 颠覆，溃败 | That, with sad overthrow and foul defeat | paradise-lost-book1 (2026-11-26) |
