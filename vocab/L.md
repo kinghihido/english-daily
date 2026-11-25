@@ -27,3 +27,5 @@
 | limp | /lɪmp/ | v. | 跛行，一瘸一拐 | who limped, and shivered | great-expectations (2026-11-22) |
 | lozenge | /ˈlɒzɪndʒ/ | n. | 菱形（物）；含片 | five little stone lozenges | great-expectations (2026-11-22) |
 | lieutenant | /lefˈtenənt/ | n. | 副手，中尉 | My lieutenant ... is a man of wonderful courage | frankenstein-letters (2026-11-24) |
+| laconic | /ləˈkɒnɪk/ | adj. | 简洁的，言简意赅的 | in the laconic style of chipping of his pronouns | wuthering-heights-ch1 (2026-11-25) |
+| lurking | /ˈlɜːkɪŋ/ | adj./v. | 潜伏的，暗藏的 | one or two heavy black ones lurking in the shade | wuthering-heights-ch1 (2026-11-25) |

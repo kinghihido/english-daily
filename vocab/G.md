@@ -22,3 +22,6 @@
 | giddy | /ˈɡɪdi/ | adj. | 头晕的，眩晕的 | so giddy that I clung to him | great-expectations (2026-11-22) |
 | glare | /ɡleə(r)/ | v. | 怒视，瞪眼 | who limped, and shivered, and glared | great-expectations (2026-11-22) |
 | growl | /ɡraʊl/ | v. | 低吼，咆哮 | glared and growled | great-expectations (2026-11-22) |
+| gaunt | /ɡɔːnt/ | adj. | 瘦削的，枯瘦的 | a range of gaunt thorns | wuthering-heights-ch1 (2026-11-25) |
+| grotesque | /ɡrəʊˈtesk/ | adj. | 怪诞的，奇形怪状的 | a quantity of grotesque carving lavished over the front | wuthering-heights-ch1 (2026-11-25) |
+| guttural | /ˈɡʌtərəl/ | adj. | 喉音的，粗哑的 | provoked a long, guttural gnarl | wuthering-heights-ch1 (2026-11-25) |

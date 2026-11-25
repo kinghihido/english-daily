@@ -19,3 +19,4 @@
 | vanity | /ˈvænəti/ | n. | 虚荣，自负 | gratify my own Vanity | franklin-autobiography-opening (2026-11-19) |
 | veranda | /vəˈrændə/ | n. | 阳台，游廊 | the wide cool veranda that ran around its four sides | call-of-the-wild (2026-11-21) |
 | vivid | /ˈvɪvɪd/ | adj. | 鲜明的，生动的 | My first most vivid and broad impression | great-expectations (2026-11-22) |
+| vexatious | /vekˈseɪʃəs/ | adj. | 恼人的，令人气恼的 | with vexatious phlegm | wuthering-heights-ch1 (2026-11-25) |

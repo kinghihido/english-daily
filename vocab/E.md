@@ -51,3 +51,5 @@
 | enticement | /ɪnˈtaɪsmənt/ | n. | 诱惑，引诱（物） | These are my enticements | frankenstein-letters (2026-11-24) |
 | entranced | /ɪnˈtrɑːnst/ | adj. | 出神的，入迷的 | those poets whose effusions entranced my soul | frankenstein-letters (2026-11-24) |
 | entreat | /ɪnˈtriːt/ | v. | 恳求，乞求 | entreated him to spare her | frankenstein-letters (2026-11-24) |
+| exaggeratedly | /ɪɡˈzædʒəreɪtɪdli/ | adv. | 夸张地，过分地 | a man who seemed more exaggeratedly reserved than myself | wuthering-heights-ch1 (2026-11-25) |
+| ejaculation | /ɪˌdʒækjuˈleɪʃn/ | n. | 感叹，脱口而出的话 | his pious ejaculation had no reference to my unexpected advent | wuthering-heights-ch1 (2026-11-25) |

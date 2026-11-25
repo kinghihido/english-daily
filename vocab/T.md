@@ -35,3 +35,4 @@
 | tremendous | /trəˈmendəs/ | adj. | 巨大的，惊人的 | a most tremendous dip and roll | great-expectations (2026-11-22) |
 | tranquillise | /ˈtræŋkwɪlaɪz/ | v. | 使平静，使安宁 | nothing contributes so much to tranquillise the mind | frankenstein-letters (2026-11-24) |
 | traversed | /trəˈvɜːst/ | v. | 穿越，横越 | after having traversed immense seas | frankenstein-letters (2026-11-24) |
+| tumult | /ˈtjuːmʌlt/ | n. | 喧嚣，骚动 | the atmospheric tumult to which its station is exposed | wuthering-heights-ch1 (2026-11-25) |

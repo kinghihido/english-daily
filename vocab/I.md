@@ -62,3 +62,5 @@
 | injunction | /ɪnˈdʒʌŋkʃn/ | n. | 禁令，训令 | my father's dying injunction had forbidden my uncle | frankenstein-letters (2026-11-24) |
 | inspirited | /ɪnˈspɪrɪtɪd/ | adj. | 受到鼓舞的，振奋的 | Inspirited by this wind of promise | frankenstein-letters (2026-11-24) |
 | inure | /ɪˈnjʊə(r)/ | v. | 使习惯于（尤指艰苦） | I commenced by inuring my body to hardship | frankenstein-letters (2026-11-24) |
+| impertinence | /ɪmˈpɜːtɪnəns/ | n. | 无礼，冒失 | esteem it a species of impertinence | wuthering-heights-ch1 (2026-11-25) |
+| interspersed | /ˌɪntəˈspɜːst/ | adj. | 散布的，点缀其间的 | interspersed with silver jugs, and tankards | wuthering-heights-ch1 (2026-11-25) |

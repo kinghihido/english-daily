@@ -74,3 +74,8 @@
 | sledge | /sledʒ/ | n. | 雪橇 | They fly quickly over the snow in their sledges | frankenstein-letters (2026-11-24) |
 | solicit | /səˈlɪsɪt/ | v. | 恳求，请求 | he himself solicited the young woman's father | frankenstein-letters (2026-11-24) |
 | suppliant | /ˈsʌpliənt/ | n. | 恳求者，哀求者 | My generous friend reassured the suppliant | frankenstein-letters (2026-11-24) |
+| sinewy | /ˈsɪnjuːi/ | adj. | 精瘦有力的，肌肉发达的 | an old man, very old, perhaps, though hale and sinewy | wuthering-heights-ch1 (2026-11-25) |
+| soliciting | /səˈlɪsɪtɪŋ/ | v. | 恳求，请求（solicit 现在分词） | my perseverance in soliciting the occupation of Thrushcross Grange | wuthering-heights-ch1 (2026-11-25) |
+| soliloquised | /səˈlɪləkwaɪzd/ | v. | 自言自语（soliloquise 过去式） | he soliloquised in an undertone | wuthering-heights-ch1 (2026-11-25) |
+| stalwart | /ˈstɔːlwət/ | adj. | 健壮的，坚定的 | with a stubborn countenance, and stalwart limbs | wuthering-heights-ch1 (2026-11-25) |
+| stunted | /ˈstʌntɪd/ | adj. | 发育不良的，矮小的 | the excessive slant of a few, stunted firs | wuthering-heights-ch1 (2026-11-25) |

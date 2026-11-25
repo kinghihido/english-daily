@@ -55,3 +55,6 @@ She ate a little bit, and said anxiously to herself, “Which way? | alice-ch1 (
 | aforesaid | /əˈfɔːsed/ | adj. | 上述的，前述的 | infant children of the aforesaid | great-expectations (2026-11-22) |
 | ardent | /ˈɑːdnt/ | adj. | 热烈的，炽热的 | I shall satiate my ardent curiosity | frankenstein-letters (2026-11-24) |
 | ascertain | /ˌæsəˈteɪn/ | v. | 查明，弄清 | by ascertaining the secret of the magnet | frankenstein-letters (2026-11-24) |
+| advent | /ˈædvənt/ | n. | 到来，来临 | had no reference to my unexpected advent | wuthering-heights-ch1 (2026-11-25) |
+| alms | /ɑːmz/ | n. | 施舍，救济品 | as if craving alms of the sun | wuthering-heights-ch1 (2026-11-25) |
+| aversion | /əˈvɜːʃn/ | n. | 厌恶，反感 | his reserve springs from an aversion to showy displays of feeling | wuthering-heights-ch1 (2026-11-25) |

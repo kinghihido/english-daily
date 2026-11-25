@@ -40,3 +40,4 @@ And so it was indeed: she was now only ten inches high, and her face brightened 
 | banished | /ˈbænɪʃt/ | adj./v. | 被放逐的；驱除 | snow and frost are banished | frankenstein-letters (2026-11-24) |
 | bestow | /bɪˈstəʊ/ | v. | 赠予，给予 | he bestowed the whole on his rival | frankenstein-letters (2026-11-24) |
 | brace | /breɪs/ | v. | 使振作，使绷紧 | a cold northern breeze ... which braces my nerves | frankenstein-letters (2026-11-24) |
+| bracing | /ˈbreɪsɪŋ/ | adj. | 令人振奋的，清爽的 | Pure, bracing ventilation they must have up there | wuthering-heights-ch1 (2026-11-25) |

@@ -30,3 +30,5 @@
 | marsh | /mɑːʃ/ | n. | 沼泽，湿地 | Ours was the marsh country | great-expectations (2026-11-22) |
 | mound | /maʊnd/ | n. | 土堆，坟丘 | the brambles that bound the green mounds | great-expectations (2026-11-22) |
 | marvellous | /ˈmɑːvələs/ | adj. | 非凡的，奇妙的 | a love for the marvellous | frankenstein-letters (2026-11-24) |
+| misanthropist | /ˈmɪzənθrəpɪst/ | n. | 厌世者，愤世嫉俗者 | A perfect misanthropist's Heaven | wuthering-heights-ch1 (2026-11-25) |
+| morose | /məˈrəʊs/ | adj. | 阴郁的，闷闷不乐的 | and rather morose | wuthering-heights-ch1 (2026-11-25) |

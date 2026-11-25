@@ -61,3 +61,10 @@ Presently she began again. | alice-ch1 (2026-11-07) |
 | pollard | /ˈpɒləd/ | n. | 截去树梢的树 | among the alder-trees and pollards | great-expectations (2026-11-22) |
 | perpetual | /pəˈpetʃuəl/ | adj. | 永久的，永恒的 | diffusing a perpetual splendour | frankenstein-letters (2026-11-24) |
 | peruse | /pəˈruːz/ | v. | 细读，仔细阅读 | when I perused, for the first time, those poets | frankenstein-letters (2026-11-24) |
+| peevish | /ˈpiːvɪʃ/ | adj. | 易怒的，脾气坏的 | in an undertone of peevish displeasure | wuthering-heights-ch1 (2026-11-25) |
+| penetralium | /ˌpenɪˈtreɪliəm/ | n. | 内室，密室；最隐秘处 | previous to inspecting the penetralium | wuthering-heights-ch1 (2026-11-25) |
+| perseverance | /ˌpɜːsɪˈvɪərəns/ | n. | 坚持不懈，毅力 | by my perseverance in soliciting the occupation | wuthering-heights-ch1 (2026-11-25) |
+| phlegm | /flem/ | n. | 冷淡，冷静；痰 | climbed the cellar steps with vexatious phlegm | wuthering-heights-ch1 (2026-11-25) |
+| physiognomy | /ˌfɪziˈɒnəmi/ | n. | 相貌，面相 | some turn of my physiognomy so irritated madam | wuthering-heights-ch1 (2026-11-25) |
+| pewter | /ˈpjuːtə(r)/ | n./adj. | 白镴（锡铅合金）；白镴制的 | from ranks of immense pewter dishes | wuthering-heights-ch1 (2026-11-25) |
+| preeminently | /priˈemɪnəntli/ | adv. | 尤其，特别；卓越地 | they call it here "the house" preeminently | wuthering-heights-ch1 (2026-11-25) |
