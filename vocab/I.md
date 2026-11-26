@@ -69,3 +69,4 @@
 | inflict | /ɪnˈflɪkt/ | v. | 施加（痛苦、惩罚） | Nor what the potent Victor in his rage / Can else inflict | paradise-lost-book1 (2026-11-26) |
 | invincible | /ɪnˈvɪnsəbl/ | adj. | 不可战胜的 | the mind and spirit remains / Invincible | paradise-lost-book1 (2026-11-26) |
 | impetuous | /ɪmˈpetʃuəs/ | adj. | 猛烈急促的，鲁莽的 | Winged with red lightning and impetuous rage | paradise-lost-book1 (2026-11-26) |
+| insatiable | /ɪnˈseɪʃəbl/ | adj. | 贪得无厌的，无法满足的 | to be told at last to the insatiable sea | wind-in-the-willows-ch1 (2026-11-27) |

@@ -41,3 +41,6 @@
 | fortitude | /ˈfɔːtɪtjuːd/ | n. | 坚毅，刚毅 | the emergencies of which will demand all my fortitude | frankenstein-letters (2026-11-24) |
 | fortnight | /ˈfɔːtnaɪt/ | n. | 两星期，十四天 | I shall depart for the latter town in a fortnight | frankenstein-letters (2026-11-24) |
 | fluctuate | /ˈflʌktʃueɪt/ | v. | 波动，起伏 | but my hopes fluctuate | frankenstein-letters (2026-11-24) |
+| fascinate | /ˈfæsɪneɪt/ | v. | 使着迷 | bewitched, entranced, fascinated | wind-in-the-willows-ch1 (2026-11-27) |
+| forepaw | /ˈfɔːpɔː/ | n. | 前爪 | Then he held up his forepaw | wind-in-the-willows-ch1 (2026-11-27) |
+| forbearance | /fɔːˈbeərəns/ | n. | 克制；宽容 | said the Rat with forbearance | wind-in-the-willows-ch1 (2026-11-27) |

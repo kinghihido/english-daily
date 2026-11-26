@@ -22,3 +22,5 @@
 | wrath | /rɒθ/ | n. | 愤怒，暴怒 | nursing his wrath and wounded pride | call-of-the-wild (2026-11-21) |
 | wafted | /ˈwɑːftɪd/ | v. | 飘送，吹送 | we may be wafted to a land | frankenstein-letters (2026-11-24) |
 | wincing | /ˈwɪnsɪŋ/ | v. | 退缩，畏缩（wince 现在分词） | he interrupted wincing | wuthering-heights-ch1 (2026-11-25) |
+| whitewash | /ˈwaɪtwɒʃ/ | n./v. | 白灰水；粉刷 | splashes of whitewash all over his black fur | wind-in-the-willows-ch1 (2026-11-27) |
+| wicker | /ˈwɪkə/ | n./adj. | 柳条；柳条编的 | a fat wicker luncheon-basket | wind-in-the-willows-ch1 (2026-11-27) |

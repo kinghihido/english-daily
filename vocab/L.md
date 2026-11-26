@@ -30,3 +30,5 @@
 | laconic | /ləˈkɒnɪk/ | adj. | 简洁的，言简意赅的 | in the laconic style of chipping of his pronouns | wuthering-heights-ch1 (2026-11-25) |
 | lurking | /ˈlɜːkɪŋ/ | adj./v. | 潜伏的，暗藏的 | one or two heavy black ones lurking in the shade | wuthering-heights-ch1 (2026-11-25) |
 | livid | /ˈlɪvɪd/ | adj. | 青灰色的，惨白的 | Save what the glimmering of these livid flames | paradise-lost-book1 (2026-11-26) |
+| longing | /ˈlɒŋɪŋ/ | n. | 渴望，憧憬 | penetrating even his dark and lowly little house | wind-in-the-willows-ch1 (2026-11-27) |
+| luncheon | /ˈlʌntʃən/ | n. | 午餐（正式或旧式说法） | a fat wicker luncheon-basket | wind-in-the-willows-ch1 (2026-11-27) |

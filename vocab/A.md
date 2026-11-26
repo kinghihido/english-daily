@@ -61,3 +61,4 @@ She ate a little bit, and said anxiously to herself, “Which way? | alice-ch1 (
 | adamantine | /ˌædəˈmæntaɪn/ | adj. | 坚不可摧的，金刚石般的 | In adamantine chains and penal fire | paradise-lost-book1 (2026-11-26) |
 | apostate | /əˈpɒsteɪt/ | n./adj. | 叛教者，背弃者 | So spake th' apostate Angel, though in pain | paradise-lost-book1 (2026-11-26) |
 | almighty | /ɔːlˈmaɪti/ | adj. | 全能的 | Of force believe almighty... | paradise-lost-book1 (2026-11-26) |
+| allude | /əˈluːd/ | v. | 暗指，顺带提及 | or even to allude to it | wind-in-the-willows-ch1 (2026-11-27) |

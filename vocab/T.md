@@ -38,3 +38,4 @@
 | tumult | /ˈtjuːmʌlt/ | n. | 喧嚣，骚动 | the atmospheric tumult to which its station is exposed | wuthering-heights-ch1 (2026-11-25) |
 | transgress | /trænsˈɡres/ | v. | 违反，违犯 | From their Creator, and transgress his will | paradise-lost-book1 (2026-11-26) |
 | tempestuous | /temˈpestʃuəs/ | adj. | 狂暴的，暴风雨般的 | With floods and whirlwinds of tempestuous fire | paradise-lost-book1 (2026-11-26) |
+| twinkle | /ˈtwɪŋkl/ | v./n. | 闪烁；闪光 | something bright and small seemed to twinkle | wind-in-the-willows-ch1 (2026-11-27) |

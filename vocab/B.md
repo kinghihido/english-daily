@@ -44,3 +44,5 @@ And so it was indeed: she was now only ten inches high, and her face brightened 
 | blissful | /ˈblɪsfl/ | adj. | 极乐的，至福的 | regain the blissful seat | paradise-lost-book1 (2026-11-26) |
 | baleful | /ˈbeɪlfl/ | adj. | 恶意的，不祥的 | round he throws his baleful eyes | paradise-lost-book1 (2026-11-26) |
 | bellow | /ˈbeləʊ/ | v. | 轰鸣，咆哮 | To bellow through the vast and boundless Deep | paradise-lost-book1 (2026-11-26) |
+| bijou | /ˈbiːʒuː/ | adj. | 小巧精致的 | fond of a bijou riverside residence | wind-in-the-willows-ch1 (2026-11-27) |
+| backwater | /ˈbækwɔːtə/ | n. | 回水湾；停滞的水域 | Here's our backwater at last | wind-in-the-willows-ch1 (2026-11-27) |

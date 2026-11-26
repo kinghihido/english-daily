@@ -26,3 +26,7 @@
 | grotesque | /ɡrəʊˈtesk/ | adj. | 怪诞的，奇形怪状的 | a quantity of grotesque carving lavished over the front | wuthering-heights-ch1 (2026-11-25) |
 | guttural | /ˈɡʌtərəl/ | adj. | 喉音的，粗哑的 | provoked a long, guttural gnarl | wuthering-heights-ch1 (2026-11-25) |
 | guile | /ɡaɪl/ | n. | 诡计，狡诈 | he it was whose guile, / Stirred up with envy and revenge | paradise-lost-book1 (2026-11-26) |
+| gurgle | /ˈɡɜːɡl/ | n./v. | 汩汩声，咯噜声 | gripping things with a gurgle and leaving them with a laugh | wind-in-the-willows-ch1 (2026-11-27) |
+| glow-worm | /ˈɡləʊ wɜːm/ | n. | 萤火虫 | too glittering and small for a glow-worm | wind-in-the-willows-ch1 (2026-11-27) |
+| gingerly | /ˈdʒɪndʒəli/ | adv. | 小心翼翼地 | as the Mole stepped gingerly down | wind-in-the-willows-ch1 (2026-11-27) |
+| gherkin | /ˈɡɜːkɪn/ | n. | 腌黄瓜 | cold tongue, cold ham, pickled gherkins | wind-in-the-willows-ch1 (2026-11-27) |

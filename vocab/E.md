@@ -53,3 +53,5 @@
 | entreat | /ɪnˈtriːt/ | v. | 恳求，乞求 | entreated him to spare her | frankenstein-letters (2026-11-24) |
 | exaggeratedly | /ɪɡˈzædʒəreɪtɪdli/ | adv. | 夸张地，过分地 | a man who seemed more exaggeratedly reserved than myself | wuthering-heights-ch1 (2026-11-25) |
 | ejaculation | /ɪˌdʒækjuˈleɪʃn/ | n. | 感叹，脱口而出的话 | his pious ejaculation had no reference to my unexpected advent | wuthering-heights-ch1 (2026-11-25) |
+| ecstasy | /ˈekstəsi/ | n. | 狂喜，欣喜若狂 | cried the Mole in ecstasies | wind-in-the-willows-ch1 (2026-11-27) |
+| etiquette | /ˈetɪket/ | n. | 礼仪，规矩 | quite against animal-etiquette | wind-in-the-willows-ch1 (2026-11-27) |

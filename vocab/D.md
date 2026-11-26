@@ -52,3 +52,6 @@
 | disdain | /dɪsˈdeɪn/ | n. | 轻蔑，鄙视 | And high disdain from sense of injured merit | paradise-lost-book1 (2026-11-26) |
 | dreary | /ˈdrɪəri/ | adj. | 阴沉的，荒凉的 | Seest thou yon dreary plain, forlorn and wild | paradise-lost-book1 (2026-11-26) |
 | damnation | /dæmˈneɪʃn/ | n. | 诅咒，永罚 | Heap on himself damnation | paradise-lost-book1 (2026-11-26) |
+| divine | /dɪˈvaɪn/ | adj. | 神圣的；极美的 | with its spirit of divine discontent and longing | wind-in-the-willows-ch1 (2026-11-27) |
+| discontent | /ˌdɪskənˈtent/ | n. | 不满；不满足（此处带诗意） | divine discontent and longing | wind-in-the-willows-ch1 (2026-11-27) |
+| dry-shod | /ˌdraɪ ˈʃɒd/ | adj./adv. | 不湿鞋地（走路） | potter about dry shod over most of the bed of it | wind-in-the-willows-ch1 (2026-11-27) |

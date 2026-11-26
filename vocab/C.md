@@ -81,3 +81,8 @@ Soon her eye fell on a little glass box that was lying under the table: she open
 | causeway | /ˈkɔːzweɪ/ | n. | 堤道，石砌通道 | sullenly preceded me up the causeway | wuthering-heights-ch1 (2026-11-25) |
 | culinary | /ˈkʌlɪnəri/ | adj. | 烹饪的，厨房的 | a clatter of culinary utensils | wuthering-heights-ch1 (2026-11-25) |
 | combustion | /kəmˈbʌstʃən/ | n. | 燃烧；剧烈焚烧 | With hideous ruin and combustion, down | paradise-lost-book1 (2026-11-26) |
+| caress | /kəˈres/ | v. | 轻抚，抚摸 | soft breezes caressed his heated brow | wind-in-the-willows-ch1 (2026-11-27) |
+| carol | /ˈkærəl/ | n. | 欢歌，颂歌 | the carol of happy birds fell on his dulled hearing | wind-in-the-willows-ch1 (2026-11-27) |
+| copse | /kɒps/ | n. | 小树林，矮林 | along the hedgerows, across the copses | wind-in-the-willows-ch1 (2026-11-27) |
+| chuckle | /ˈtʃʌkl/ | v. | 咯咯笑；（水）潺潺作响 | chasing and chuckling | wind-in-the-willows-ch1 (2026-11-27) |
+| clog | /klɒɡ/ | v. | 堵塞，阻塞 | the rushes and weed clog the channels | wind-in-the-willows-ch1 (2026-11-27) |

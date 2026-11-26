@@ -81,3 +81,8 @@
 | stunted | /ˈstʌntɪd/ | adj. | 发育不良的，矮小的 | the excessive slant of a few, stunted firs | wuthering-heights-ch1 (2026-11-25) |
 | supremacy | /suːˈpreməsi/ | n. | 至高无上，最高权力 | And put to proof his high supremacy | paradise-lost-book1 (2026-11-26) |
 | sovereign | /ˈsɒvrɪn/ | adj. | 至高无上的；统治的 | Who now is sovereign can dispose and bid | paradise-lost-book1 (2026-11-26) |
+| snout | /snaʊt/ | n. | （动物的）口鼻部 | his snout came out into the sunlight | wind-in-the-willows-ch1 (2026-11-27) |
+| sinuous | /ˈsɪnjuəs/ | adj. | 蜿蜒的，曲线优美的 | this sleek, sinuous, full-bodied animal | wind-in-the-willows-ch1 (2026-11-27) |
+| spellbound | /ˈspelbaʊnd/ | adj. | 入迷的，着魔似的 | a man who holds one spell-bound by exciting stories | wind-in-the-willows-ch1 (2026-11-27) |
+| snug | /snʌɡ/ | adj. | 温暖舒适的 | what a nice snug dwelling-place it would make | wind-in-the-willows-ch1 (2026-11-27) |
+| scull | /skʌl/ | v./n. | 划（桨）；短桨 | The Rat sculled smartly across and made fast | wind-in-the-willows-ch1 (2026-11-27) |

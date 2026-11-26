@@ -34,3 +34,4 @@
 | hydrophoby | /ˌhaɪdrəˈfəʊbəbi/ | n. | 狂犬病（hydrophobia 的旧拼） | If I don't get the hydrophoby— | call-of-the-wild (2026-11-21) |
 | hitherto | /ˌhɪðəˈtuː/ | adv. | 迄今为止，到目前为止 | every region hitherto discovered | frankenstein-letters (2026-11-24) |
 | harbour | /ˈhɑːbə/ | v. | 提供庇护，容身 | There rest, if any rest can harbour there | paradise-lost-book1 (2026-11-26) |
+| hedgerow | /ˈhedʒrəʊ/ | n. | 树篱，灌木篱墙 | along the hedgerows, across the copses | wind-in-the-willows-ch1 (2026-11-27) |
