@@ -86,3 +86,5 @@ Soon her eye fell on a little glass box that was lying under the table: she open
 | copse | /kɒps/ | n. | 小树林，矮林 | along the hedgerows, across the copses | wind-in-the-willows-ch1 (2026-11-27) |
 | chuckle | /ˈtʃʌkl/ | v. | 咯咯笑；（水）潺潺作响 | chasing and chuckling | wind-in-the-willows-ch1 (2026-11-27) |
 | clog | /klɒɡ/ | v. | 堵塞，阻塞 | the rushes and weed clog the channels | wind-in-the-willows-ch1 (2026-11-27) |
+| credulous | /ˈkredʒələs/ | adj. | 轻信的，易信的 | since men's ears are less credulous than their eyes | herodotus-histories-book1 (2026-11-28) |
+| contrive | /kənˈtraɪv/ | v. | 设法做到；谋划 | contrive some means whereby thou mayst behold her naked | herodotus-histories-book1 (2026-11-28) |

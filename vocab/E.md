@@ -55,3 +55,7 @@
 | ejaculation | /ɪˌdʒækjuˈleɪʃn/ | n. | 感叹，脱口而出的话 | his pious ejaculation had no reference to my unexpected advent | wuthering-heights-ch1 (2026-11-25) |
 | ecstasy | /ˈekstəsi/ | n. | 狂喜，欣喜若狂 | cried the Mole in ecstasies | wind-in-the-willows-ch1 (2026-11-27) |
 | etiquette | /ˈetɪket/ | n. | 礼仪，规矩 | quite against animal-etiquette | wind-in-the-willows-ch1 (2026-11-27) |
+| envoy | /ˈenvɔɪ/ | n. | 使者，特使 | they would send envoys to reclaim the princess | herodotus-histories-book1 (2026-11-28) |
+| enmity | /ˈenməti/ | n. | 敌意，仇恨 | their ancient enmity towards the Greeks | herodotus-histories-book1 (2026-11-28) |
+| entrust | /ɪnˈtrʌst/ | v. | 委托，托付 | entrusted by these princes with the management of affairs | herodotus-histories-book1 (2026-11-28) |
+| extol | /ɪkˈstəʊl/ | v. | 赞美，颂扬 | to him he was wont to extol the surpassing beauty of his wife | herodotus-histories-book1 (2026-11-28) |

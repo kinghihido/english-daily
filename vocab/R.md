@@ -44,3 +44,9 @@
 | reserved | /rɪˈzɜːvd/ | adj. | 沉默寡言的，矜持的 | more exaggeratedly reserved than myself | wuthering-heights-ch1 (2026-11-25) |
 | rue | /ruː/ | v. | 懊悔，悲叹 | Too well I see and rue the dire event | paradise-lost-book1 (2026-11-26) |
 | rowlock | /ˈrɒlək/ | n. | 桨架，桨叉 | the cushions, the oars, the rowlocks | wind-in-the-willows-ch1 (2026-11-27) |
+| retaliate | /rɪˈtælieɪt/ | v. | 报复，反击 | In this they only retaliated | herodotus-histories-book1 (2026-11-28) |
+| reparation | /ˌrepəˈreɪʃn/ | n. | 赔偿，补偿 | to demand reparation of the wrong | herodotus-histories-book1 (2026-11-28) |
+| restitution | /ˌrestɪˈtjuːʃn/ | n. | 归还；恢复原状 | and the restitution of his child | herodotus-histories-book1 (2026-11-28) |
+| reclaim | /rɪˈkleɪm/ | v. | 要求归还；收回 | send envoys to reclaim the princess | herodotus-histories-book1 (2026-11-28) |
+| rogue | /rəʊɡ/ | n. | 恶棍，无赖 | it is the deed, they say, of a rogue | herodotus-histories-book1 (2026-11-28) |
+| reproach | /rɪˈprəʊtʃ/ | n./v. | 责备，谴责 | and the reproaches of her parents | herodotus-histories-book1 (2026-11-28) |

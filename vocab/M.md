@@ -35,3 +35,5 @@
 | malice | /ˈmælɪs/ | n. | 恶意，怨恨 | How all his malice served but to bring forth | paradise-lost-book1 (2026-11-26) |
 | meadow | /ˈmedəʊ/ | n. | 草地，草甸 | rolling in the warm grass of a great meadow | wind-in-the-willows-ch1 (2026-11-27) |
 | meander | /miˈændə/ | v. | 漫游；蜿蜒而行 | as he meandered aimlessly along | wind-in-the-willows-ch1 (2026-11-27) |
+| meed | /miːd/ | n. | 报偿，奖赏（多用于诗体/古体） | losing their due meed of glory | herodotus-histories-book1 (2026-11-28) |
+| merchandise | /ˈmɜːtʃəndaɪs/ | n. | 商品，货物 | Here they exposed their merchandise | herodotus-histories-book1 (2026-11-28) |

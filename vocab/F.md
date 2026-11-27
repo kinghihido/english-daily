@@ -44,3 +44,5 @@
 | fascinate | /ˈfæsɪneɪt/ | v. | 使着迷 | bewitched, entranced, fascinated | wind-in-the-willows-ch1 (2026-11-27) |
 | forepaw | /ˈfɔːpɔː/ | n. | 前爪 | Then he held up his forepaw | wind-in-the-willows-ch1 (2026-11-27) |
 | forbearance | /fɔːˈbeərəns/ | n. | 克制；宽容 | said the Rat with forbearance | wind-in-the-willows-ch1 (2026-11-27) |
+| feud | /fjuːd/ | n. | 宿怨，世仇 | what were their grounds of feud | herodotus-histories-book1 (2026-11-28) |
+| freight | /freɪt/ | v./n. | 装载（货物）；货运 | freighting their vessels with the wares of Egypt and Assyria | herodotus-histories-book1 (2026-11-28) |

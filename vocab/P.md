@@ -72,3 +72,5 @@ Presently she began again. | alice-ch1 (2026-11-07) |
 | precipice | /ˈpresɪpɪs/ | n. | 悬崖，绝壁 | The fiery surge that from the precipice / Of Heaven received us falling | paradise-lost-book1 (2026-11-26) |
 | pettishly | /ˈpetɪʃli/ | adv. | 赌气地，易怒地 | said the Mole rather pettishly | wind-in-the-willows-ch1 (2026-11-27) |
 | potter | /ˈpɒtə/ | v. | 闲逛，慢悠悠地走动 | I can potter about dry shod | wind-in-the-willows-ch1 (2026-11-27) |
+| pre-eminent | /ˌpriːˈemɪnənt/ | adj. | 卓越的，出众的 | Argos, which was then pre-eminent above all the states | herodotus-histories-book1 (2026-11-28) |
+| plunder | /ˈplʌndə/ | v./n. | 掠夺，抢劫 | but only an inroad for plundering | herodotus-histories-book1 (2026-11-28) |

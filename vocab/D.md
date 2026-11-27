@@ -55,3 +55,8 @@
 | divine | /dɪˈvaɪn/ | adj. | 神圣的；极美的 | with its spirit of divine discontent and longing | wind-in-the-willows-ch1 (2026-11-27) |
 | discontent | /ˌdɪskənˈtent/ | n. | 不满；不满足（此处带诗意） | divine discontent and longing | wind-in-the-willows-ch1 (2026-11-27) |
 | dry-shod | /ˌdraɪ ˈʃɒd/ | adj./adv. | 不湿鞋地（走路） | potter about dry shod over most of the bed of it | wind-in-the-willows-ch1 (2026-11-27) |
+| dwelt | /dwelt/ | v. | 居住（dwell 的过去式） | who had formerly dwelt on the shores of the Erythraean Sea | herodotus-histories-book1 (2026-11-28) |
+| detection | /dɪˈtekʃn/ | n. | 察觉，发现 | to escape the shame of detection | herodotus-histories-book1 (2026-11-28) |
+| descendant | /dɪˈsendənt/ | n. | 后裔，后代 | He was a descendant of Alcaeus, son of Hercules | herodotus-histories-book1 (2026-11-28) |
+| dynasty | /ˈdɪnəsti/ | n. | 王朝，朝代 | The first king of this dynasty was Agron | herodotus-histories-book1 (2026-11-28) |
+| disgrace | /dɪsˈɡreɪs/ | n./v. | 耻辱，丢脸 | it is reckoned a deep disgrace, even to a man | herodotus-histories-book1 (2026-11-28) |

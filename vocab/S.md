@@ -86,3 +86,6 @@
 | spellbound | /ˈspelbaʊnd/ | adj. | 入迷的，着魔似的 | a man who holds one spell-bound by exciting stories | wind-in-the-willows-ch1 (2026-11-27) |
 | snug | /snʌɡ/ | adj. | 温暖舒适的 | what a nice snug dwelling-place it would make | wind-in-the-willows-ch1 (2026-11-27) |
 | scull | /skʌl/ | v./n. | 划（桨）；短桨 | The Rat sculled smartly across and made fast | wind-in-the-willows-ch1 (2026-11-27) |
+| sovereignty | /ˈsɒvrənti/ | n. | 主权；统治权 | The sovereignty of Lydia | herodotus-histories-book1 (2026-11-28) |
+| surpassing | /səˈpɑːsɪŋ/ | adj. | 超群的，极美的 | extol the surpassing beauty of his wife | herodotus-histories-book1 (2026-11-28) |
+| stealthily | /ˈstelθɪli/ | adv. | 偷偷地，悄悄地 | he glided stealthily from the apartment | herodotus-histories-book1 (2026-11-28) |

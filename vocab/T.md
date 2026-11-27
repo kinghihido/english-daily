@@ -39,3 +39,4 @@
 | transgress | /trænsˈɡres/ | v. | 违反，违犯 | From their Creator, and transgress his will | paradise-lost-book1 (2026-11-26) |
 | tempestuous | /temˈpestʃuəs/ | adj. | 狂暴的，暴风雨般的 | With floods and whirlwinds of tempestuous fire | paradise-lost-book1 (2026-11-26) |
 | twinkle | /ˈtwɪŋkl/ | v./n. | 闪烁；闪光 | something bright and small seemed to twinkle | wind-in-the-willows-ch1 (2026-11-27) |
+| tributary | /ˈtrɪbjətri/ | n./adj. | 附属国；进贡的 | forcing some of them to become his tributaries | herodotus-histories-book1 (2026-11-28) |

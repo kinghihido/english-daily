@@ -46,3 +46,6 @@ And so it was indeed: she was now only ten inches high, and her face brightened 
 | bellow | /ˈbeləʊ/ | v. | 轰鸣，咆哮 | To bellow through the vast and boundless Deep | paradise-lost-book1 (2026-11-26) |
 | bijou | /ˈbiːʒuː/ | adj. | 小巧精致的 | fond of a bijou riverside residence | wind-in-the-willows-ch1 (2026-11-27) |
 | backwater | /ˈbækwɔːtə/ | n. | 回水湾；停滞的水域 | Here's our backwater at last | wind-in-the-willows-ch1 (2026-11-27) |
+| behold | /bɪˈhəʊld/ | v. | 看见，注视（古体） | Wouldst thou have me behold my mistress when she is naked? | herodotus-histories-book1 (2026-11-28) |
+| bashfulness | /ˈbæʃflnəs/ | n. | 羞怯，腼腆 | a woman, with her clothes, puts off her bashfulness | herodotus-histories-book1 (2026-11-28) |
+| beseech | /bɪˈsiːtʃ/ | v. | 恳求，哀求（古体） | I beseech thee, ask me not to do wickedly | herodotus-histories-book1 (2026-11-28) |

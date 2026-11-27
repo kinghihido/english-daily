@@ -22,3 +22,4 @@
 | vexatious | /vekˈseɪʃəs/ | adj. | 恼人的，令人气恼的 | with vexatious phlegm | wuthering-heights-ch1 (2026-11-25) |
 | vanquished | /ˈvæŋkwɪʃt/ | adj. | 被征服的，战败的 | Lay vanquished, rolling in the fiery gulf | paradise-lost-book1 (2026-11-26) |
 | vengeful | /ˈvendʒfl/ | adj. | 复仇的，报复的 | That we may so suffice his vengeful ire | paradise-lost-book1 (2026-11-26) |
+| vengeance | /ˈvendʒəns/ | n. | 复仇，报仇 | purposing to take vengeance upon the husband | herodotus-histories-book1 (2026-11-28) |

@@ -23,6 +23,7 @@
 
 | 日期 | 标题 | 分类 |
 |---|---|---|
+| 2026-11-28 | [The Histories — Book I (Clio): The Opening & The Story of Gyges](articles/2026-11-28-herodotus-histories-book1.md) | 历史 · History / Narrative (Public Domain) |
 | 2026-11-27 | [The Wind in the Willows — Chapter I: The River Bank (Opening)](articles/2026-11-27-wind-in-the-willows-ch1.md) | 童话 · Animal Fantasy / Pastoral Tale (Public Domain) |
 | 2026-11-26 | [Paradise Lost — Book I (Opening): The Invocation & Satan's Speech](articles/2026-11-26-paradise-lost-book1.md) | 诗歌 · Epic Poem / Blank Verse (Public Domain) |
 | 2026-11-25 | [Wuthering Heights — Chapter I (Lockwood's Arrival)](articles/2026-11-25-wuthering-heights-ch1.md) | 小说 · Novel / Gothic · Diary Narrative (Public Domain) |

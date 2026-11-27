@@ -62,3 +62,6 @@ She ate a little bit, and said anxiously to herself, “Which way? | alice-ch1 (
 | apostate | /əˈpɒsteɪt/ | n./adj. | 叛教者，背弃者 | So spake th' apostate Angel, though in pain | paradise-lost-book1 (2026-11-26) |
 | almighty | /ɔːlˈmaɪti/ | adj. | 全能的 | Of force believe almighty... | paradise-lost-book1 (2026-11-26) |
 | allude | /əˈluːd/ | v. | 暗指，顺带提及 | or even to allude to it | wind-in-the-willows-ch1 (2026-11-27) |
+| alliance | /əˈlaɪəns/ | n. | 联盟，同盟 | and entering into alliance with others | herodotus-histories-book1 (2026-11-28) |
+| aught | /ɔːt/ | n. | 任何事物，任何事（古体） | nor even appeared to have noticed aught | herodotus-histories-book1 (2026-11-28) |
+| affront | /əˈfrʌnt/ | v./n. | 冒犯，侮辱 | the husband who had so affronted her | herodotus-histories-book1 (2026-11-28) |
